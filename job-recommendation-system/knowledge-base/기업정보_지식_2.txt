@@ -1,0 +1,1309 @@
+기업정보 | 기업 식별자 company/1329474 | ㈜교원
+기업명: ㈜교원
+업종: 그 외 기타 개인 및 가정용품 임대업
+기업구분: 대기업
+사업내용: 미확인
+소재지: 미확인
+사원수: 4600
+사원수 기준일: 미확인
+설립일: 1985-11-01
+홈페이지: 미확인
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1329474","company_name":"㈜교원","industry":"그 외 기타 개인 및 가정용품 임대업","company_type":"대기업","business":"","location":"","employee_count":"4600","employee_as_of":"","founded":"1985-11-01","website":"","profile_url":"https://www.jobkorea.co.kr/company/1329474/","checked_at":"2026-11-19T23:20:26+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1375826 | (주)원익큐엔씨
+기업명: (주)원익큐엔씨
+업종: 기타 산업용 유리제품 제조업
+기업구분: 중견기업
+사업내용: 석영유리가공품 제조,도매
+소재지: 경북 구미시 산동읍 5공단3로 14 (도중리) 원익큐엔씨
+사원수: 1252
+사원수 기준일: 2026-06-30
+설립일: 2003-11-12
+홈페이지: http://www.wonikqnc.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1375826","company_name":"(주)원익큐엔씨","industry":"기타 산업용 유리제품 제조업","company_type":"중견기업","business":"석영유리가공품 제조,도매","location":"경북 구미시 산동읍 5공단3로 14 (도중리) 원익큐엔씨","employee_count":"1252","employee_as_of":"2026-06-30","founded":"2003-11-12","website":"http://www.wonikqnc.com","profile_url":"https://www.jobkorea.co.kr/company/1375826/","checked_at":"2026-11-19T23:15:58+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1392913 | 애경케미칼㈜
+기업명: 애경케미칼㈜
+업종: 석유화학계 기초 화학물질 제조업
+기업구분: 중견기업
+사업내용: 화학물질 제조
+소재지: 서울 마포구 양화로 188 (동교동, 애경타워) 9층, 10층
+사원수: 700
+사원수 기준일: 미확인
+설립일: 2012-09-03
+홈페이지: http://www.aekyungchemical.co.kr
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1392913","company_name":"애경케미칼㈜","industry":"석유화학계 기초 화학물질 제조업","company_type":"중견기업","business":"화학물질 제조","location":"서울 마포구 양화로 188 (동교동, 애경타워) 9층, 10층","employee_count":"700","employee_as_of":"","founded":"2012-09-03","website":"http://www.aekyungchemical.co.kr","profile_url":"https://www.jobkorea.co.kr/company/1392913/","checked_at":"2026-11-19T23:20:11+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1398657 | 펜타시스템테크놀러지㈜
+기업명: 펜타시스템테크놀러지㈜
+업종: 솔루션·SI·CRM·ERP
+기업구분: 중소기업
+사업내용: 미확인
+소재지: 서울시 영등포구 여의공원로 115 세우빌딩 10, 11층
+사원수: 330
+사원수 기준일: 미확인
+설립일: 1987
+홈페이지: https://www.penta.co.kr
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1398657","company_name":"펜타시스템테크놀러지㈜","industry":"솔루션·SI·CRM·ERP","company_type":"중소기업","business":"","location":"서울시 영등포구 여의공원로 115 세우빌딩 10, 11층","employee_count":"330","employee_as_of":"","founded":"1987","website":"https://www.penta.co.kr","profile_url":"https://www.jobkorea.co.kr/company/1398657/","checked_at":"2026-11-19T23:20:39+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1399505 | (주)케이티디에스
+기업명: (주)케이티디에스
+업종: 컴퓨터시스템 통합 자문 및 구축 서비스업
+기업구분: 대기업 계열사·자회사
+사업내용: 컴퓨터시스템 구축,유지보수,소프트웨어 자문,개발,공급,위탁교육훈련/컴퓨터주변기기 도소매
+소재지: 서울 서초구 효령로 176 (방배동) kt방배빌딩 B동
+사원수: 1860
+사원수 기준일: 미확인
+설립일: 2008-08-01
+홈페이지: http://www.ktds.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1399505","company_name":"(주)케이티디에스","industry":"컴퓨터시스템 통합 자문 및 구축 서비스업","company_type":"대기업 계열사·자회사","business":"컴퓨터시스템 구축,유지보수,소프트웨어 자문,개발,공급,위탁교육훈련/컴퓨터주변기기 도소매","location":"서울 서초구 효령로 176 (방배동) kt방배빌딩 B동","employee_count":"1860","employee_as_of":"","founded":"2008-08-01","website":"http://www.ktds.com","profile_url":"https://www.jobkorea.co.kr/company/1399505/","checked_at":"2026-11-19T23:19:37+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1423432 | ㈜모나미
+기업명: ㈜모나미
+업종: 문구용품, 회화용품, 사무용품.. 도매업
+기업구분: 중견기업
+사업내용: 잉크카트리지 수입,판매/필기구(중성펜,볼펜,사인펜,젤러펜,카드네임펜),회화구류,종합문구류 제조/부동산 임대
+소재지: 경기 용인시 수지구 손곡로 17 (동천동) ㈜모나미 빌딩
+사원수: 180
+사원수 기준일: 미확인
+설립일: 1967-12-28
+홈페이지: http://www.monami.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1423432","company_name":"㈜모나미","industry":"문구용품, 회화용품, 사무용품.. 도매업","company_type":"중견기업","business":"잉크카트리지 수입,판매/필기구(중성펜,볼펜,사인펜,젤러펜,카드네임펜),회화구류,종합문구류 제조/부동산 임대","location":"경기 용인시 수지구 손곡로 17 (동천동) ㈜모나미 빌딩","employee_count":"180","employee_as_of":"","founded":"1967-12-28","website":"http://www.monami.com","profile_url":"https://www.jobkorea.co.kr/company/1423432/","checked_at":"2026-11-19T23:15:23+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1427476 | TKG태광(주)
+기업명: TKG태광(주)
+업종: 기타 신발 제조업
+기업구분: 중견기업
+사업내용: 신발 제조,도소매/신발부품주조/기계,금형 제조/부동산 임대
+소재지: 경남 김해시 김해대로2635번길 26 (안동) TKG태광
+사원수: 966
+사원수 기준일: 2025-12-31
+설립일: 1980-12-31
+홈페이지: https://tkg.taekwang.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1427476","company_name":"TKG태광(주)","industry":"기타 신발 제조업","company_type":"중견기업","business":"신발 제조,도소매/신발부품주조/기계,금형 제조/부동산 임대","location":"경남 김해시 김해대로2635번길 26 (안동) TKG태광","employee_count":"966","employee_as_of":"2025-12-31","founded":"1980-12-31","website":"https://tkg.taekwang.com","profile_url":"https://www.jobkorea.co.kr/company/1427476/","checked_at":"2026-11-19T23:15:45+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1428115 | 현대파텍스(주)
+기업명: 현대파텍스(주)
+업종: 자동차·조선·철강·항공
+기업구분: 대기업 계열사·자회사
+사업내용: 자동차 A/S용 프레스/차체 부품 생산
+소재지: 충남 서산시 지곡면 무장리 산 177-2
+사원수: 62
+사원수 기준일: 미확인
+설립일: 2005-11-07
+홈페이지: http://www.partecs.co.kr
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1428115","company_name":"현대파텍스(주)","industry":"자동차·조선·철강·항공","company_type":"대기업 계열사·자회사","business":"자동차 A/S용 프레스/차체 부품 생산","location":"충남 서산시 지곡면 무장리 산 177-2","employee_count":"62","employee_as_of":"","founded":"2005-11-07","website":"http://www.partecs.co.kr","profile_url":"https://www.jobkorea.co.kr/company/1428115/","checked_at":"2026-11-19T23:23:30+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1450465 | ㈜휴비츠
+기업명: ㈜휴비츠
+업종: 그 외 기타 의료용 기기 제조업
+기업구분: 중견기업
+사업내용: 안광학의료기기(굴절시력검사기,렌즈미터,근접시력측정기,드림챠트) 제조,도매
+소재지: 경기 안양시 동안구 부림로170번길 38 (관양동, (주)휴비츠평촌사옥) .
+사원수: 293
+사원수 기준일: 2026-09-30
+설립일: 1999-04-27
+홈페이지: http://www.huvitz.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1450465","company_name":"㈜휴비츠","industry":"그 외 기타 의료용 기기 제조업","company_type":"중견기업","business":"안광학의료기기(굴절시력검사기,렌즈미터,근접시력측정기,드림챠트) 제조,도매","location":"경기 안양시 동안구 부림로170번길 38 (관양동, (주)휴비츠평촌사옥) .","employee_count":"293","employee_as_of":"2026-09-30","founded":"1999-04-27","website":"http://www.huvitz.com","profile_url":"https://www.jobkorea.co.kr/company/1450465/","checked_at":"2026-11-19T23:15:08+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1453423 | 한국전자기술연구원
+기업명: 한국전자기술연구원
+업종: 전기·전자·제어
+기업구분: 비영리단체·교육재단
+사업내용: 연구
+소재지: 경기 성남시 분당구 야탑동 새나리로 25
+사원수: 미확인
+사원수 기준일: 미확인
+설립일: 1991
+홈페이지: 미확인
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1453423","company_name":"한국전자기술연구원","industry":"전기·전자·제어","company_type":"비영리단체·교육재단","business":"연구","location":"경기 성남시 분당구 야탑동 새나리로 25","employee_count":"","employee_as_of":"","founded":"1991","website":"","profile_url":"https://www.jobkorea.co.kr/company/1453423/","checked_at":"2026-11-19T23:21:07+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1459131 | 지이헬스케어코리아㈜
+기업명: 지이헬스케어코리아㈜
+업종: 의료기기 도매업
+기업구분: 외국계 대기업
+사업내용: 미확인
+소재지: 서울 중구 한강대로 416 (남대문로5가, 서울스퀘어) 15층 | 경기 성남시 중원구 순환로214번길 9 (상대원동, 한국지이초음파)
+사원수: 530
+사원수 기준일: 미확인
+설립일: 1984
+홈페이지: https://www.gehealthcare.co.kr
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1459131","company_name":"지이헬스케어코리아㈜","industry":"의료기기 도매업","company_type":"외국계 대기업","business":"","location":"서울 중구 한강대로 416 (남대문로5가, 서울스퀘어) 15층 | 경기 성남시 중원구 순환로214번길 9 (상대원동, 한국지이초음파)","employee_count":"530","employee_as_of":"","founded":"1984","website":"https://www.gehealthcare.co.kr","profile_url":"https://www.jobkorea.co.kr/company/1459131/","checked_at":"2026-11-19T23:17:22+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1467678 | ㈜케이아이엔엑스
+기업명: ㈜케이아이엔엑스
+업종: 네트워크·통신서비스
+기업구분: 중견기업
+사업내용: IX, IDC, CloudHub, CLOUD, CDN
+소재지: 경기 과천시 과천대로7나길 34 (갈현동, 가비아컨소시엄사옥) 4층
+사원수: 180
+사원수 기준일: 미확인
+설립일: 2000-06-17
+홈페이지: http://www.kinx.net
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1467678","company_name":"㈜케이아이엔엑스","industry":"네트워크·통신서비스","company_type":"중견기업","business":"IX, IDC, CloudHub, CLOUD, CDN","location":"경기 과천시 과천대로7나길 34 (갈현동, 가비아컨소시엄사옥) 4층","employee_count":"180","employee_as_of":"","founded":"2000-06-17","website":"http://www.kinx.net","profile_url":"https://www.jobkorea.co.kr/company/1467678/","checked_at":"2026-11-19T23:18:37+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1479003 | 대원제약(주)
+기업명: 대원제약(주)
+업종: 완제 의약품 제조업
+기업구분: 중견기업
+사업내용: 미확인
+소재지: 서울특별시 성동구 천호대로 386
+사원수: 1317
+사원수 기준일: 미확인
+설립일: 1961
+홈페이지: 미확인
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1479003","company_name":"대원제약(주)","industry":"완제 의약품 제조업","company_type":"중견기업","business":"","location":"서울특별시 성동구 천호대로 386","employee_count":"1317","employee_as_of":"","founded":"1961","website":"","profile_url":"https://www.jobkorea.co.kr/company/1479003/","checked_at":"2026-11-19T23:23:50+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1496362 | KDB산업은행
+기업명: KDB산업은행
+업종: 은행·금융
+기업구분: 국내 공공기관·공기업
+사업내용: 금융
+소재지: 서울 영등포구 여의도동 산업은행본점 인사부
+사원수: 3251
+사원수 기준일: 2016-06-30
+설립일: 1954-04-01
+홈페이지: http://www.kdb.co.kr
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1496362","company_name":"KDB산업은행","industry":"은행·금융","company_type":"국내 공공기관·공기업","business":"금융","location":"서울 영등포구 여의도동 산업은행본점 인사부","employee_count":"3251","employee_as_of":"2016-06-30","founded":"1954-04-01","website":"http://www.kdb.co.kr","profile_url":"https://www.jobkorea.co.kr/company/1496362/","checked_at":"2026-11-19T23:17:36+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1496537 | 삼성에스디에스
+기업명: 삼성에스디에스
+업종: 컴퓨터·하드웨어·장비
+기업구분: 대기업
+사업내용: 컴퓨터 프로그래밍,시스템 통합,관리/소프트웨어 개발/
+소재지: 서울 송파구 올림픽로35길 125 (신천동, 삼성SDS) .
+사원수: 12501
+사원수 기준일: 미확인
+설립일: 1985-05-01
+홈페이지: http://www.samsungsds.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1496537","company_name":"삼성에스디에스","industry":"컴퓨터·하드웨어·장비","company_type":"대기업","business":"컴퓨터 프로그래밍,시스템 통합,관리/소프트웨어 개발/","location":"서울 송파구 올림픽로35길 125 (신천동, 삼성SDS) .","employee_count":"12501","employee_as_of":"","founded":"1985-05-01","website":"http://www.samsungsds.com","profile_url":"https://www.jobkorea.co.kr/company/1496537/","checked_at":"2026-11-19T23:25:09+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1511500 | 한덕화학(주)
+기업명: 한덕화학(주)
+업종: 감광재료 및 관련 화학제품 제조업
+기업구분: 대기업
+사업내용: 전자공업용약품,TMAH 제조,도매
+소재지: 서울 강남구 테헤란로 534 (대치동, 글라스타워빌딩) 2층
+사원수: 39
+사원수 기준일: 2025-12-31
+설립일: 1995-04-01
+홈페이지: http://www.hantok.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1511500","company_name":"한덕화학(주)","industry":"감광재료 및 관련 화학제품 제조업","company_type":"대기업","business":"전자공업용약품,TMAH 제조,도매","location":"서울 강남구 테헤란로 534 (대치동, 글라스타워빌딩) 2층","employee_count":"39","employee_as_of":"2025-12-31","founded":"1995-04-01","website":"http://www.hantok.com","profile_url":"https://www.jobkorea.co.kr/company/1511500/","checked_at":"2026-11-19T23:23:43+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1522899 | ㈜ SIMPAC
+기업명: ㈜ SIMPAC
+업종: 그 외 기타 1차 철강 제조업
+기업구분: 중견기업
+사업내용: 프레스,합금철,자동화장치,자동차부품 제조,도매
+소재지: 인천 부평구 청천동 394번지
+사원수: 500
+사원수 기준일: 2026-06-30
+설립일: 1973-08-09
+홈페이지: http://www.simpac.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1522899","company_name":"㈜ SIMPAC","industry":"그 외 기타 1차 철강 제조업","company_type":"중견기업","business":"프레스,합금철,자동화장치,자동차부품 제조,도매","location":"인천 부평구 청천동 394번지","employee_count":"500","employee_as_of":"2026-06-30","founded":"1973-08-09","website":"http://www.simpac.com","profile_url":"https://www.jobkorea.co.kr/company/1522899/","checked_at":"2026-11-19T23:14:51+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1560793 | 삼성전기(주)
+기업명: 삼성전기(주)
+업종: 전기·전자·제어
+기업구분: 대기업
+사업내용: 삼성전기는 첨단 전자부품에서 기계부품까지 생산하는 국내최대의 종합부품 제조회사
+소재지: 경기 수원시 영통구 매탄3동 314 번지 삼성전기 주식회사
+사원수: 34374
+사원수 기준일: 미확인
+설립일: 1973-08-08
+홈페이지: http://www.samsungsem.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1560793","company_name":"삼성전기(주)","industry":"전기·전자·제어","company_type":"대기업","business":"삼성전기는 첨단 전자부품에서 기계부품까지 생산하는 국내최대의 종합부품 제조회사","location":"경기 수원시 영통구 매탄3동 314 번지 삼성전기 주식회사","employee_count":"34374","employee_as_of":"","founded":"1973-08-08","website":"http://www.samsungsem.com","profile_url":"https://www.jobkorea.co.kr/company/1560793/","checked_at":"2026-11-19T23:16:39+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1564772 | (주)제일기획
+기업명: (주)제일기획
+업종: 광고 대행업
+기업구분: 대기업
+사업내용: 광고 대행/광고물,영화 제작,인쇄,출판
+소재지: 서울 용산구 한남동 736-1 제일빌딩
+사원수: 1515
+사원수 기준일: 2026-06-30
+설립일: 1973-01-17
+홈페이지: http://www.cheil.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1564772","company_name":"(주)제일기획","industry":"광고 대행업","company_type":"대기업","business":"광고 대행/광고물,영화 제작,인쇄,출판","location":"서울 용산구 한남동 736-1 제일빌딩","employee_count":"1515","employee_as_of":"2026-06-30","founded":"1973-01-17","website":"http://www.cheil.com","profile_url":"https://www.jobkorea.co.kr/company/1564772/","checked_at":"2026-11-19T23:16:53+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1572368 | 교촌에프앤비㈜
+기업명: 교촌에프앤비㈜
+업종: 음식료·외식·프랜차이즈
+기업구분: 중견기업
+사업내용: 미확인
+소재지: 경기도 성남시 수정구 금토로80번길 15-3 (금토동) 교촌1991빌딩
+사원수: 401
+사원수 기준일: 미확인
+설립일: 1991
+홈페이지: https://www.kyochonfnb.com/
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1572368","company_name":"교촌에프앤비㈜","industry":"음식료·외식·프랜차이즈","company_type":"중견기업","business":"","location":"경기도 성남시 수정구 금토로80번길 15-3 (금토동) 교촌1991빌딩","employee_count":"401","employee_as_of":"","founded":"1991","website":"https://www.kyochonfnb.com/","profile_url":"https://www.jobkorea.co.kr/company/1572368/","checked_at":"2026-11-19T23:21:21+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1589099 | 뷰웍스
+기업명: 뷰웍스
+업종: 그 외 기타 의료용 기기 제조업
+기업구분: 중견기업
+사업내용: 의료기기(고해상도X선영상카메라),광학기기 제조,연구개발,무역,도매
+소재지: 경기 안양시 동안구 부림로170번길 41-3 (관양동, (주)뷰웍스) 뷰웍스
+사원수: 469
+사원수 기준일: 2026-06-30
+설립일: 1999-09-18
+홈페이지: http://www.vieworks.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1589099","company_name":"뷰웍스","industry":"그 외 기타 의료용 기기 제조업","company_type":"중견기업","business":"의료기기(고해상도X선영상카메라),광학기기 제조,연구개발,무역,도매","location":"경기 안양시 동안구 부림로170번길 41-3 (관양동, (주)뷰웍스) 뷰웍스","employee_count":"469","employee_as_of":"2026-06-30","founded":"1999-09-18","website":"http://www.vieworks.com","profile_url":"https://www.jobkorea.co.kr/company/1589099/","checked_at":"2026-11-19T23:14:44+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1595036 | 캐논쎄미콘덕터엔지니어링코리아㈜
+기업명: 캐논쎄미콘덕터엔지니어링코리아㈜
+업종: 기타 엔지니어링 서비스업
+기업구분: 외국계(외국 투자기업)
+사업내용: 반도체,액정제조장비부품 유지보수,설치,도매
+소재지: 경기도 평택시 고덕면 도시지원1길 49 (고덕지식공작소 W타워 7층)
+사원수: 530
+사원수 기준일: 미확인
+설립일: 1993-05-13
+홈페이지: https://sekr.canon/
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1595036","company_name":"캐논쎄미콘덕터엔지니어링코리아㈜","industry":"기타 엔지니어링 서비스업","company_type":"외국계(외국 투자기업)","business":"반도체,액정제조장비부품 유지보수,설치,도매","location":"경기도 평택시 고덕면 도시지원1길 49 (고덕지식공작소 W타워 7층)","employee_count":"530","employee_as_of":"","founded":"1993-05-13","website":"https://sekr.canon/","profile_url":"https://www.jobkorea.co.kr/company/1595036/","checked_at":"2026-11-19T23:21:42+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1598343 | 한국렌탈㈜
+기업명: 한국렌탈㈜
+업종: 기타 산업용 기계 및 장비 임대업
+기업구분: 중견기업
+사업내용: 계측기기,정보기기,사무용기기 임대/시스템통합/소프트웨어 개발,자문/인터넷사업/부동산(상가) 임대
+소재지: 서울 성동구 연무장11길 10 (성수동2가, 우리큐브) 3층
+사원수: 173
+사원수 기준일: 미확인
+설립일: 1989-08-01
+홈페이지: http://www.korearental.co.kr
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1598343","company_name":"한국렌탈㈜","industry":"기타 산업용 기계 및 장비 임대업","company_type":"중견기업","business":"계측기기,정보기기,사무용기기 임대/시스템통합/소프트웨어 개발,자문/인터넷사업/부동산(상가) 임대","location":"서울 성동구 연무장11길 10 (성수동2가, 우리큐브) 3층","employee_count":"173","employee_as_of":"","founded":"1989-08-01","website":"http://www.korearental.co.kr","profile_url":"https://www.jobkorea.co.kr/company/1598343/","checked_at":"2026-11-19T23:17:29+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/16151762 | 노아에이티에스(주)
+기업명: 노아에이티에스(주)
+업종: 솔루션·SI·CRM·ERP
+기업구분: 중소기업
+사업내용: 금융 솔루션 컨설팅, 구축, 유지보수
+소재지: 서울 종로구 청계천로 41 (서린동, 영풍빌딩) 12층
+사원수: 144
+사원수 기준일: 미확인
+설립일: 1998-07-15
+홈페이지: http://www.noaats.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/16151762","company_name":"노아에이티에스(주)","industry":"솔루션·SI·CRM·ERP","company_type":"중소기업","business":"금융 솔루션 컨설팅, 구축, 유지보수","location":"서울 종로구 청계천로 41 (서린동, 영풍빌딩) 12층","employee_count":"144","employee_as_of":"","founded":"1998-07-15","website":"http://www.noaats.com","profile_url":"https://www.jobkorea.co.kr/company/16151762/","checked_at":"2026-11-19T23:23:36+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/16153875 | 서강대학교
+기업명: 서강대학교
+업종: 학교(초·중·고·대학·특수)
+기업구분: 비영리단체·교육재단
+사업내용: 국내 비영리단체 교육재단
+소재지: 서울 마포구 신수동 서강대학교 본관 102호 인사총무팀
+사원수: 262
+사원수 기준일: 미확인
+설립일: 1960-04-18
+홈페이지: http://www.sogang.ac.kr
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/16153875","company_name":"서강대학교","industry":"학교(초·중·고·대학·특수)","company_type":"비영리단체·교육재단","business":"국내 비영리단체 교육재단","location":"서울 마포구 신수동 서강대학교 본관 102호 인사총무팀","employee_count":"262","employee_as_of":"","founded":"1960-04-18","website":"http://www.sogang.ac.kr","profile_url":"https://www.jobkorea.co.kr/company/16153875/","checked_at":"2026-11-19T23:18:44+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/16153929 | 쿠도커뮤니케이션(주)
+기업명: 쿠도커뮤니케이션(주)
+업종: 솔루션·SI·CRM·ERP
+기업구분: 중소기업
+사업내용: AI솔루션 개발, 정보보안, 물리보안, 소프트웨어 및 하드웨어 개발 등
+소재지: 경기 과천시 과천대로7나길 9 (갈현동, DX타워) 12~15층
+사원수: 282
+사원수 기준일: 미확인
+설립일: 2000-10-25
+홈페이지: http://www.cudo.co.kr
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/16153929","company_name":"쿠도커뮤니케이션(주)","industry":"솔루션·SI·CRM·ERP","company_type":"중소기업","business":"AI솔루션 개발, 정보보안, 물리보안, 소프트웨어 및 하드웨어 개발 등","location":"경기 과천시 과천대로7나길 9 (갈현동, DX타워) 12~15층","employee_count":"282","employee_as_of":"","founded":"2000-10-25","website":"http://www.cudo.co.kr","profile_url":"https://www.jobkorea.co.kr/company/16153929/","checked_at":"2026-11-19T23:21:49+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/16154114 | 메가스터디교육(주)
+기업명: 메가스터디교육(주)
+업종: 학원·어학원·교육원
+기업구분: 중견기업
+사업내용: 도서출판, 사이버 입시강의, 논술강의 인터넷서비스, 학원사업
+소재지: 서울 서초구 서초동 효령로321(서초동, 덕원빌딩)
+사원수: 1700
+사원수 기준일: 미확인
+설립일: 2015-04-01
+홈페이지: http://corp.megastudy.net/
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/16154114","company_name":"메가스터디교육(주)","industry":"학원·어학원·교육원","company_type":"중견기업","business":"도서출판, 사이버 입시강의, 논술강의 인터넷서비스, 학원사업","location":"서울 서초구 서초동 효령로321(서초동, 덕원빌딩)","employee_count":"1700","employee_as_of":"","founded":"2015-04-01","website":"http://corp.megastudy.net/","profile_url":"https://www.jobkorea.co.kr/company/16154114/","checked_at":"2026-11-19T23:18:09+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/16154198 | 앰코테크놀로지코리아㈜
+기업명: 앰코테크놀로지코리아㈜
+업종: 반도체·디스플레이·광학
+기업구분: 외국 투자기업
+사업내용: 미확인
+소재지: 미확인
+사원수: 7362
+사원수 기준일: 2022-12
+설립일: 미확인
+홈페이지: 미확인
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/16154198","company_name":"앰코테크놀로지코리아㈜","industry":"반도체·디스플레이·광학","company_type":"외국 투자기업","business":"","location":"","employee_count":"7362","employee_as_of":"2022-12","founded":"","website":"","profile_url":"https://www.jobkorea.co.kr/company/16154198/","checked_at":"2026-11-19T23:22:49+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/16154202 | (주)셀트리온제약
+기업명: (주)셀트리온제약
+업종: 완제 의약품 제조업
+기업구분: 대기업
+사업내용: 의약품(해열제,간장약-헤파디프,고덱스),건강식품 제조
+소재지: 충북 청주시 청원구 2산단로 82 (송대리, (주)셀트리온) (주)셀트리온제약
+사원수: 1030
+사원수 기준일: 2026-06-30
+설립일: 2000-11-17
+홈페이지: http://www.celltrionph.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/16154202","company_name":"(주)셀트리온제약","industry":"완제 의약품 제조업","company_type":"대기업","business":"의약품(해열제,간장약-헤파디프,고덱스),건강식품 제조","location":"충북 청주시 청원구 2산단로 82 (송대리, (주)셀트리온) (주)셀트리온제약","employee_count":"1030","employee_as_of":"2026-06-30","founded":"2000-11-17","website":"http://www.celltrionph.com","profile_url":"https://www.jobkorea.co.kr/company/16154202/","checked_at":"2026-11-19T23:25:15+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/16154619 | (주)와치텍
+기업명: (주)와치텍
+업종: 솔루션·SI·CRM·ERP
+기업구분: 중소기업
+사업내용: IT통합운영관리 솔루션 개발
+소재지: 서울 영등포구 국제금융로8길 11 (여의도동, 대영빌딩) 14층
+사원수: 119
+사원수 기준일: 미확인
+설립일: 1999
+홈페이지: https://watchtek.co.kr
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/16154619","company_name":"(주)와치텍","industry":"솔루션·SI·CRM·ERP","company_type":"중소기업","business":"IT통합운영관리 솔루션 개발","location":"서울 영등포구 국제금융로8길 11 (여의도동, 대영빌딩) 14층","employee_count":"119","employee_as_of":"","founded":"1999","website":"https://watchtek.co.kr","profile_url":"https://www.jobkorea.co.kr/company/16154619/","checked_at":"2026-11-19T23:20:05+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1636977 | 삼성증권
+기업명: 삼성증권
+업종: 증권 중개업
+기업구분: 대기업
+사업내용: 유가증권의 매매,위탁매매,인수주선
+소재지: 서울 서초구 서초대로74길 11 (서초동, 삼성전자빌딩) 삼성증권
+사원수: 2551
+사원수 기준일: 2026-06-30
+설립일: 1982-10-19
+홈페이지: http://www.samsungpop.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1636977","company_name":"삼성증권","industry":"증권 중개업","company_type":"대기업","business":"유가증권의 매매,위탁매매,인수주선","location":"서울 서초구 서초대로74길 11 (서초동, 삼성전자빌딩) 삼성증권","employee_count":"2551","employee_as_of":"2026-06-30","founded":"1982-10-19","website":"http://www.samsungpop.com","profile_url":"https://www.jobkorea.co.kr/company/1636977/","checked_at":"2026-11-19T23:17:07+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1649290 | (주)안랩
+기업명: (주)안랩
+업종: 시스템 소프트웨어 개발 및 공급업
+기업구분: 중견기업
+사업내용: 미확인
+소재지: 경기 성남시 분당구 판교역로 220
+사원수: 1250
+사원수 기준일: 2021
+설립일: 1995
+홈페이지: 미확인
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1649290","company_name":"(주)안랩","industry":"시스템 소프트웨어 개발 및 공급업","company_type":"중견기업","business":"","location":"경기 성남시 분당구 판교역로 220","employee_count":"1250","employee_as_of":"2021","founded":"1995","website":"","profile_url":"https://www.jobkorea.co.kr/company/1649290/","checked_at":"2026-11-19T23:19:11+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1658756 | 대한제분㈜
+기업명: 대한제분㈜
+업종: 곡물 제분업
+기업구분: 중견기업
+사업내용: 소맥분,토코밀,프리믹스,밀가루조제품,제분부산물 제조/파스타 수입,판매
+소재지: 서울 중구 세종대로 39 (남대문로4가, 대한서울상공회의소) 14층 대한제분
+사원수: 400
+사원수 기준일: 2026-06-30
+설립일: 1952-12-25
+홈페이지: http://www.dhflour.co.kr
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1658756","company_name":"대한제분㈜","industry":"곡물 제분업","company_type":"중견기업","business":"소맥분,토코밀,프리믹스,밀가루조제품,제분부산물 제조/파스타 수입,판매","location":"서울 중구 세종대로 39 (남대문로4가, 대한서울상공회의소) 14층 대한제분","employee_count":"400","employee_as_of":"2026-06-30","founded":"1952-12-25","website":"http://www.dhflour.co.kr","profile_url":"https://www.jobkorea.co.kr/company/1658756/","checked_at":"2026-11-19T23:20:33+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1683359 | 유영제약
+기업명: 유영제약
+업종: 완제 의약품 제조업
+기업구분: 중견기업
+사업내용: 의약품(고지혈증치료제) 제조
+소재지: 충북 진천군 광혜원면 용소2길 33 (죽현리, (주)유영 , 15층
+사원수: 405
+사원수 기준일: 2025-12-31
+설립일: 1975-01-28
+홈페이지: http://www.yypharm.co.kr
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1683359","company_name":"유영제약","industry":"완제 의약품 제조업","company_type":"중견기업","business":"의약품(고지혈증치료제) 제조","location":"충북 진천군 광혜원면 용소2길 33 (죽현리, (주)유영 , 15층","employee_count":"405","employee_as_of":"2025-12-31","founded":"1975-01-28","website":"http://www.yypharm.co.kr","profile_url":"https://www.jobkorea.co.kr/company/1683359/","checked_at":"2026-11-19T23:18:16+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1691137 | HL Klemove
+기업명: HL Klemove
+업종: 자동차·조선·철강·항공
+기업구분: 중견기업
+사업내용: 자동차부품 개발,생산,도소매/전자 소비재 개발,응용엔지니어링,생산,판매,유통
+소재지: 인천 연수구 하모니로 224 (송도동, 에이치엘클레무브) HL Klemove
+사원수: 1114
+사원수 기준일: 미확인
+설립일: 2008-11-26
+홈페이지: http://www.hlklemove.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1691137","company_name":"HL Klemove","industry":"자동차·조선·철강·항공","company_type":"중견기업","business":"자동차부품 개발,생산,도소매/전자 소비재 개발,응용엔지니어링,생산,판매,유통","location":"인천 연수구 하모니로 224 (송도동, 에이치엘클레무브) HL Klemove","employee_count":"1114","employee_as_of":"","founded":"2008-11-26","website":"http://www.hlklemove.com","profile_url":"https://www.jobkorea.co.kr/company/1691137/","checked_at":"2026-11-19T23:15:15+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1693287 | (주)한국무역정보통신
+기업명: (주)한국무역정보통신
+업종: 솔루션·SI·CRM·ERP
+기업구분: 중소기업
+사업내용: 디지털무역.물류서비스, 공인인증서비스, 전자정부수출사업, 전자수입인지 등
+소재지: 경기 성남시 분당구 삼평동 688 한국전자무역센터
+사원수: 180
+사원수 기준일: 미확인
+설립일: 1991-06-01
+홈페이지: https://www.ktnet.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1693287","company_name":"(주)한국무역정보통신","industry":"솔루션·SI·CRM·ERP","company_type":"중소기업","business":"디지털무역.물류서비스, 공인인증서비스, 전자정부수출사업, 전자수입인지 등","location":"경기 성남시 분당구 삼평동 688 한국전자무역센터","employee_count":"180","employee_as_of":"","founded":"1991-06-01","website":"https://www.ktnet.com","profile_url":"https://www.jobkorea.co.kr/company/1693287/","checked_at":"2026-11-19T23:22:21+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1696583 | 삼성전자㈜
+기업명: 삼성전자㈜
+업종: 이동전화기 제조업
+기업구분: 대기업
+사업내용: 휴대폰,컴퓨터,네트워크시스템,핵심칩,반도체부품,디스플레이패널,가전제품,의료기기,프린터 제조
+소재지: 경기 수원시 영통구 삼성로 129 (매탄동, 삼성전자)
+사원수: 128830
+사원수 기준일: 2026-06-30
+설립일: 1969-12-01
+홈페이지: http://www.samsung.com/sec
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1696583","company_name":"삼성전자㈜","industry":"이동전화기 제조업","company_type":"대기업","business":"휴대폰,컴퓨터,네트워크시스템,핵심칩,반도체부품,디스플레이패널,가전제품,의료기기,프린터 제조","location":"경기 수원시 영통구 삼성로 129 (매탄동, 삼성전자)","employee_count":"128830","employee_as_of":"2026-06-30","founded":"1969-12-01","website":"http://www.samsung.com/sec","profile_url":"https://www.jobkorea.co.kr/company/1696583/","checked_at":"2026-11-19T23:23:58+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1712420 | 명인제약(주)
+기업명: 명인제약(주)
+업종: 완제 의약품 제조업
+기업구분: 중견기업
+사업내용: 신경정신계열,구강계열 완제의약품 제조
+소재지: 서울 서초구 효령로 267 (서초동, 명인타워) 명인제약(주)
+사원수: 529
+사원수 기준일: 미확인
+설립일: 1985-04-18
+홈페이지: http://www.myunginph.co.kr
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1712420","company_name":"명인제약(주)","industry":"완제 의약품 제조업","company_type":"중견기업","business":"신경정신계열,구강계열 완제의약품 제조","location":"서울 서초구 효령로 267 (서초동, 명인타워) 명인제약(주)","employee_count":"529","employee_as_of":"","founded":"1985-04-18","website":"http://www.myunginph.co.kr","profile_url":"https://www.jobkorea.co.kr/company/1712420/","checked_at":"2026-11-19T23:20:19+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1713050 | (주)네오플
+기업명: (주)네오플
+업종: 게임·애니메이션
+기업구분: 대기업 계열사·자회사
+사업내용: 던전앤파이터, 사이퍼즈, 공각기동대 온라인, 이블팩토리, 애프터디앤드
+소재지: 제주 제주시 1100로 3198-13 (노형동) 네오마루
+사원수: 1134
+사원수 기준일: 미확인
+설립일: 2001-04-02
+홈페이지: http://www.neople.co.kr
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1713050","company_name":"(주)네오플","industry":"게임·애니메이션","company_type":"대기업 계열사·자회사","business":"던전앤파이터, 사이퍼즈, 공각기동대 온라인, 이블팩토리, 애프터디앤드","location":"제주 제주시 1100로 3198-13 (노형동) 네오마루","employee_count":"1134","employee_as_of":"","founded":"2001-04-02","website":"http://www.neople.co.kr","profile_url":"https://www.jobkorea.co.kr/company/1713050/","checked_at":"2026-11-19T23:23:09+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1735751 | 대한유화(주)
+기업명: 대한유화(주)
+업종: 합성수지 및 기타 플라스틱 물질 제조업
+기업구분: 중견기업
+사업내용: 폴리프로필렌,고밀도폴리에틸렌,나프타분해유분,올레핀류,혼합C4류,분해가솔린 제조
+소재지: 서울 종로구 자하문로 77 (옥인동, 유남빌딩) 유남빌딩 4층 총무인사팀
+사원수: 864
+사원수 기준일: 2026-06-30
+설립일: 1970-06-02
+홈페이지: http://www.kpic.co.kr
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1735751","company_name":"대한유화(주)","industry":"합성수지 및 기타 플라스틱 물질 제조업","company_type":"중견기업","business":"폴리프로필렌,고밀도폴리에틸렌,나프타분해유분,올레핀류,혼합C4류,분해가솔린 제조","location":"서울 종로구 자하문로 77 (옥인동, 유남빌딩) 유남빌딩 4층 총무인사팀","employee_count":"864","employee_as_of":"2026-06-30","founded":"1970-06-02","website":"http://www.kpic.co.kr","profile_url":"https://www.jobkorea.co.kr/company/1735751/","checked_at":"2026-11-19T23:19:44+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1737097 | 엔아이티서비스(주)
+기업명: 엔아이티서비스(주)
+업종: 시스템 소프트웨어 개발 및 공급업
+기업구분: 대기업 계열사·자회사
+사업내용: 시스템소프트웨어(컴퓨터프로그래밍,시스템통합관리) 개발,자문/호스팅
+소재지: 경기 성남시 분당구 분당로 55 (서현동, 분당 퍼스트타워) 2층
+사원수: 200
+사원수 기준일: 미확인
+설립일: 2014-09-01
+홈페이지: http://www.nits-corp.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1737097","company_name":"엔아이티서비스(주)","industry":"시스템 소프트웨어 개발 및 공급업","company_type":"대기업 계열사·자회사","business":"시스템소프트웨어(컴퓨터프로그래밍,시스템통합관리) 개발,자문/호스팅","location":"경기 성남시 분당구 분당로 55 (서현동, 분당 퍼스트타워) 2층","employee_count":"200","employee_as_of":"","founded":"2014-09-01","website":"http://www.nits-corp.com","profile_url":"https://www.jobkorea.co.kr/company/1737097/","checked_at":"2026-11-19T23:17:49+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1747282 | 한국타이어앤테크놀로지(주)
+기업명: 한국타이어앤테크놀로지(주)
+업종: 화학·에너지·환경
+기업구분: 대기업
+사업내용: 타이어 제조 도소매
+소재지: 경기 성남시 분당구 판교로 286 (삼평동) 한국타이어앤테크놀로지
+사원수: 21267
+사원수 기준일: 미확인
+설립일: 1955-02-16
+홈페이지: http://www.hankooktire.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1747282","company_name":"한국타이어앤테크놀로지(주)","industry":"화학·에너지·환경","company_type":"대기업","business":"타이어 제조 도소매","location":"경기 성남시 분당구 판교로 286 (삼평동) 한국타이어앤테크놀로지","employee_count":"21267","employee_as_of":"","founded":"1955-02-16","website":"http://www.hankooktire.com","profile_url":"https://www.jobkorea.co.kr/company/1747282/","checked_at":"2026-11-19T23:18:22+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1756391 | 이스타항공(주)
+기업명: 이스타항공(주)
+업종: 항공 여객 운송업
+기업구분: 중소기업
+사업내용: 항공 운송/항공기 임대
+소재지: 전북 군산시 옥서면 선연리 385 군산공항청사 1층
+사원수: 937
+사원수 기준일: 2025-12-31
+설립일: 2007-10-26
+홈페이지: http://www.eastarjet.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1756391","company_name":"이스타항공(주)","industry":"항공 여객 운송업","company_type":"중소기업","business":"항공 운송/항공기 임대","location":"전북 군산시 옥서면 선연리 385 군산공항청사 1층","employee_count":"937","employee_as_of":"2025-12-31","founded":"2007-10-26","website":"http://www.eastarjet.com","profile_url":"https://www.jobkorea.co.kr/company/1756391/","checked_at":"2026-11-19T23:23:03+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1766917 | (주)아이센스
+기업명: (주)아이센스
+업종: 제약·보건·바이오
+기업구분: 중견기업
+사업내용: 바이오센서 제조 및 판매
+소재지: 서울 서초구 반포대로28길 43 (서초동, 아이센스빌딩) (주)아이센스 빌딩
+사원수: 821
+사원수 기준일: 미확인
+설립일: 2000-05-04
+홈페이지: http://www.i-sens.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1766917","company_name":"(주)아이센스","industry":"제약·보건·바이오","company_type":"중견기업","business":"바이오센서 제조 및 판매","location":"서울 서초구 반포대로28길 43 (서초동, 아이센스빌딩) (주)아이센스 빌딩","employee_count":"821","employee_as_of":"","founded":"2000-05-04","website":"http://www.i-sens.com","profile_url":"https://www.jobkorea.co.kr/company/1766917/","checked_at":"2026-11-19T23:19:57+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1774734 | (주)고영테크놀러지
+기업명: (주)고영테크놀러지
+업종: 반도체·디스플레이·광학
+기업구분: 중견기업
+사업내용: 정밀검사측정장비, 소프트웨어 개발
+소재지: 경기 용인시 수지구 포은대로59번길 18 (상현동) ㈜고영테크놀러지
+사원수: 455
+사원수 기준일: 미확인
+설립일: 2002-05-01
+홈페이지: http://www.kohyoung.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1774734","company_name":"(주)고영테크놀러지","industry":"반도체·디스플레이·광학","company_type":"중견기업","business":"정밀검사측정장비, 소프트웨어 개발","location":"경기 용인시 수지구 포은대로59번길 18 (상현동) ㈜고영테크놀러지","employee_count":"455","employee_as_of":"","founded":"2002-05-01","website":"http://www.kohyoung.com","profile_url":"https://www.jobkorea.co.kr/company/1774734/","checked_at":"2026-11-19T23:22:07+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1783853 | KB캐피탈㈜
+기업명: KB캐피탈㈜
+업종: 금융리스업
+기업구분: 대기업
+사업내용: 시설대여,렌탈,팩토링,자동차 할부금융,가계대출,기업대출
+소재지: 서울 서초구 서초대로 301 (서초동, 동익성봉빌딩) .
+사원수: 676
+사원수 기준일: 미확인
+설립일: 1989-11-01
+홈페이지: https://www.kbcapital.co.kr/
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1783853","company_name":"KB캐피탈㈜","industry":"금융리스업","company_type":"대기업","business":"시설대여,렌탈,팩토링,자동차 할부금융,가계대출,기업대출","location":"서울 서초구 서초대로 301 (서초동, 동익성봉빌딩) .","employee_count":"676","employee_as_of":"","founded":"1989-11-01","website":"https://www.kbcapital.co.kr/","profile_url":"https://www.jobkorea.co.kr/company/1783853/","checked_at":"2026-11-19T23:20:52+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1791771 | 현대위아(주)
+기업명: 현대위아(주)
+업종: 그 외 자동차용 신품 부품 제조업
+기업구분: 대기업
+사업내용: 자동차부품,공작기계 제조
+소재지: 경남 창원시 성산구 가음정동 391-8
+사원수: 2878
+사원수 기준일: 2026-06-30
+설립일: 1976-03-29
+홈페이지: http://www.hyundai-wia.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1791771","company_name":"현대위아(주)","industry":"그 외 자동차용 신품 부품 제조업","company_type":"대기업","business":"자동차부품,공작기계 제조","location":"경남 창원시 성산구 가음정동 391-8","employee_count":"2878","employee_as_of":"2026-06-30","founded":"1976-03-29","website":"http://www.hyundai-wia.com","profile_url":"https://www.jobkorea.co.kr/company/1791771/","checked_at":"2026-11-19T23:18:02+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1793161 | 슈어소프트테크(주)
+기업명: 슈어소프트테크(주)
+업종: 솔루션·SI·CRM·ERP
+기업구분: 중소기업
+사업내용: 소프트웨어개발 공급 및 검증, 전자상거래, 연구개발서비스사업, 교육사업운영
+소재지: 경기 성남시 수정구 금토로80번길 37 (금토동) 인피니티타워 E동
+사원수: 460
+사원수 기준일: 미확인
+설립일: 2002-03-05
+홈페이지: http://www.suresofttech.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1793161","company_name":"슈어소프트테크(주)","industry":"솔루션·SI·CRM·ERP","company_type":"중소기업","business":"소프트웨어개발 공급 및 검증, 전자상거래, 연구개발서비스사업, 교육사업운영","location":"경기 성남시 수정구 금토로80번길 37 (금토동) 인피니티타워 E동","employee_count":"460","employee_as_of":"","founded":"2002-03-05","website":"http://www.suresofttech.com","profile_url":"https://www.jobkorea.co.kr/company/1793161/","checked_at":"2026-11-19T23:18:29+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1798146 | (주)웹젠
+기업명: (주)웹젠
+업종: 게임·애니메이션
+기업구분: 중견기업
+사업내용: 미확인
+소재지: 미확인
+사원수: 474
+사원수 기준일: 미확인
+설립일: 2000
+홈페이지: 미확인
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1798146","company_name":"(주)웹젠","industry":"게임·애니메이션","company_type":"중견기업","business":"","location":"","employee_count":"474","employee_as_of":"","founded":"2000","website":"","profile_url":"https://www.jobkorea.co.kr/company/1798146/","checked_at":"2026-11-19T23:19:17+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1805052 | 이지케어텍㈜
+기업명: 이지케어텍㈜
+업종: 솔루션·SI·CRM·ERP
+기업구분: 중견기업
+사업내용: 의료정보시스템 개발/운영, IT컨설팅 등
+소재지: 서울 중구 광희동1가 광희빌딩 4층
+사원수: 450
+사원수 기준일: 미확인
+설립일: 2001-02-07
+홈페이지: http://www.ezcaretech.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1805052","company_name":"이지케어텍㈜","industry":"솔루션·SI·CRM·ERP","company_type":"중견기업","business":"의료정보시스템 개발/운영, IT컨설팅 등","location":"서울 중구 광희동1가 광희빌딩 4층","employee_count":"450","employee_as_of":"","founded":"2001-02-07","website":"http://www.ezcaretech.com","profile_url":"https://www.jobkorea.co.kr/company/1805052/","checked_at":"2026-11-19T23:19:51+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1810241 | ㈜아이디스
+기업명: ㈜아이디스
+업종: 컴퓨터·하드웨어·장비
+기업구분: 중견기업
+사업내용: 미확인
+소재지: 미확인
+사원수: 420
+사원수 기준일: 미확인
+설립일: 1997
+홈페이지: 미확인
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1810241","company_name":"㈜아이디스","industry":"컴퓨터·하드웨어·장비","company_type":"중견기업","business":"","location":"","employee_count":"420","employee_as_of":"","founded":"1997","website":"","profile_url":"https://www.jobkorea.co.kr/company/1810241/","checked_at":"2026-11-19T23:17:42+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1833639 | KCC정보통신(주)
+기업명: KCC정보통신(주)
+업종: 컴퓨터시스템 통합 자문 및 구축 서비스업
+기업구분: 중견기업
+사업내용: 시스템통합 구축,소프트웨어 개발,네트워크,하드웨어 솔루션,전산장비 유지보수/컴퓨터,부품,워크스테이션 제조,도매/전산,네트워크장비,통신장비 도소매,무역
+소재지: 서울 용산구 청파로61길 5 (청파동1가, 제일빌딩) KCC정보통신
+사원수: 409
+사원수 기준일: 2025-12-31
+설립일: 1967-10-12
+홈페이지: http://www.kcc.co.kr
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1833639","company_name":"KCC정보통신(주)","industry":"컴퓨터시스템 통합 자문 및 구축 서비스업","company_type":"중견기업","business":"시스템통합 구축,소프트웨어 개발,네트워크,하드웨어 솔루션,전산장비 유지보수/컴퓨터,부품,워크스테이션 제조,도매/전산,네트워크장비,통신장비 도소매,무역","location":"서울 용산구 청파로61길 5 (청파동1가, 제일빌딩) KCC정보통신","employee_count":"409","employee_as_of":"2025-12-31","founded":"1967-10-12","website":"http://www.kcc.co.kr","profile_url":"https://www.jobkorea.co.kr/company/1833639/","checked_at":"2026-11-19T23:23:16+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1834305 | 삼성바이오에피스(주)
+기업명: 삼성바이오에피스(주)
+업종: 의학 및 약학 연구개발업
+기업구분: 대기업
+사업내용: 의약품 연구개발,제조,도소매
+소재지: 인천 연수구 송도동 201-2
+사원수: 1030
+사원수 기준일: 2025-12-31
+설립일: 2012-02-28
+홈페이지: http://www.samsungbioepis.com/
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1834305","company_name":"삼성바이오에피스(주)","industry":"의학 및 약학 연구개발업","company_type":"대기업","business":"의약품 연구개발,제조,도소매","location":"인천 연수구 송도동 201-2","employee_count":"1030","employee_as_of":"2025-12-31","founded":"2012-02-28","website":"http://www.samsungbioepis.com/","profile_url":"https://www.jobkorea.co.kr/company/1834305/","checked_at":"2026-11-19T23:16:59+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1888945 | 콜마홀딩스(주)
+기업명: 콜마홀딩스(주)
+업종: 지주회사
+기업구분: 중견기업
+사업내용: 미확인
+소재지: 종합기술원 서울특별시 서초구 헌릉로8길 61 | 세종사업장 세종시 전의면 산단길 22-17
+사원수: 3783
+사원수 기준일: 2020-07
+설립일: 1990
+홈페이지: 미확인
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1888945","company_name":"콜마홀딩스(주)","industry":"지주회사","company_type":"중견기업","business":"","location":"종합기술원 서울특별시 서초구 헌릉로8길 61 | 세종사업장 세종시 전의면 산단길 22-17","employee_count":"3783","employee_as_of":"2020-07","founded":"1990","website":"","profile_url":"https://www.jobkorea.co.kr/company/1888945/","checked_at":"2026-11-19T23:20:46+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1890347 | ㈜윈스테크넷
+기업명: ㈜윈스테크넷
+업종: 컴퓨터 프로그래밍 서비스업
+기업구분: 중견기업
+사업내용: 미확인
+소재지: 본사 : 경기도 성남시 분당구 판교로228번길 15, 판교세븐벤처밸리 윈스테크넷동 4층 | 지사 : 부산광역시 해운대구 센텀중앙로 78, 센텀그린타워 1층 윈스 사이버보안센터
+사원수: 537
+사원수 기준일: 미확인
+설립일: 1996
+홈페이지: https://www.wins21.co.kr
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1890347","company_name":"㈜윈스테크넷","industry":"컴퓨터 프로그래밍 서비스업","company_type":"중견기업","business":"","location":"본사 : 경기도 성남시 분당구 판교로228번길 15, 판교세븐벤처밸리 윈스테크넷동 4층 | 지사 : 부산광역시 해운대구 센텀중앙로 78, 센텀그린타워 1층 윈스 사이버보안센터","employee_count":"537","employee_as_of":"","founded":"1996","website":"https://www.wins21.co.kr","profile_url":"https://www.jobkorea.co.kr/company/1890347/","checked_at":"2026-11-19T23:15:30+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1890951 | 삼성디스플레이(주)
+기업명: 삼성디스플레이(주)
+업종: 유기발광 표시장치 제조업
+기업구분: 대기업
+사업내용: 첨단 디스플레이(OLED, QD, LCD) 제조업
+소재지: 경기 용인시 기흥구 농서동 230 삼성디스플레이 본사
+사원수: 21243
+사원수 기준일: 2025-12-31
+설립일: 2012-04-01
+홈페이지: http://www.samsungdisplay.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1890951","company_name":"삼성디스플레이(주)","industry":"유기발광 표시장치 제조업","company_type":"대기업","business":"첨단 디스플레이(OLED, QD, LCD) 제조업","location":"경기 용인시 기흥구 농서동 230 삼성디스플레이 본사","employee_count":"21243","employee_as_of":"2025-12-31","founded":"2012-04-01","website":"http://www.samsungdisplay.com","profile_url":"https://www.jobkorea.co.kr/company/1890951/","checked_at":"2026-11-19T23:16:32+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1892636 | ㈜에스원
+기업명: ㈜에스원
+업종: 경비 및 경호 서비스업
+기업구분: 대기업
+사업내용: 부가통신 서비스(경비),안전관리용역,CCTV카메라
+소재지: 서울 중구 세종대로7길 25 (순화동, 에프엔타워순화(FNTOWERSUNHWA)) 에스원 빌딩
+사원수: 7059
+사원수 기준일: 2026-06-30
+설립일: 1977-11-28
+홈페이지: http://www.s1.co.kr
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1892636","company_name":"㈜에스원","industry":"경비 및 경호 서비스업","company_type":"대기업","business":"부가통신 서비스(경비),안전관리용역,CCTV카메라","location":"서울 중구 세종대로7길 25 (순화동, 에프엔타워순화(FNTOWERSUNHWA)) 에스원 빌딩","employee_count":"7059","employee_as_of":"2026-06-30","founded":"1977-11-28","website":"http://www.s1.co.kr","profile_url":"https://www.jobkorea.co.kr/company/1892636/","checked_at":"2026-11-19T23:16:46+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1893427 | ㈜한국카본
+기업명: ㈜한국카본
+업종: 구조용 금속 판제품 및 공작물 제조업
+기업구분: 중견기업
+사업내용: 탄소섬유(카본프리프레그(낚시대,테니스라켓,골프 Shaft,스포츠레저용품)),합성수지,글라스페이퍼,LNG선박용 단열판넬 제조,도매
+소재지: 경남 밀양시 부북면 용지리 183번지
+사원수: 919
+사원수 기준일: 2026-06-30
+설립일: 1984-09-17
+홈페이지: http://www.hcarbon.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1893427","company_name":"㈜한국카본","industry":"구조용 금속 판제품 및 공작물 제조업","company_type":"중견기업","business":"탄소섬유(카본프리프레그(낚시대,테니스라켓,골프 Shaft,스포츠레저용품)),합성수지,글라스페이퍼,LNG선박용 단열판넬 제조,도매","location":"경남 밀양시 부북면 용지리 183번지","employee_count":"919","employee_as_of":"2026-06-30","founded":"1984-09-17","website":"http://www.hcarbon.com","profile_url":"https://www.jobkorea.co.kr/company/1893427/","checked_at":"2026-11-19T23:21:13+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1907496 | 케이투코리아㈜
+기업명: 케이투코리아㈜
+업종: 기타 신발 제조업
+기업구분: 중견기업
+사업내용: 등산화,등산의류,등산용품 제조,도소매,전자상거래/보관,창고,주차장
+소재지: 서울 강남구 자곡로 174-14 (자곡동) 901호
+사원수: 297
+사원수 기준일: 2025-12-31
+설립일: 1996-07-01
+홈페이지: http://www.k2.co.kr
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1907496","company_name":"케이투코리아㈜","industry":"기타 신발 제조업","company_type":"중견기업","business":"등산화,등산의류,등산용품 제조,도소매,전자상거래/보관,창고,주차장","location":"서울 강남구 자곡로 174-14 (자곡동) 901호","employee_count":"297","employee_as_of":"2025-12-31","founded":"1996-07-01","website":"http://www.k2.co.kr","profile_url":"https://www.jobkorea.co.kr/company/1907496/","checked_at":"2026-11-19T23:16:16+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1909000 | 현대해상화재보험㈜
+기업명: 현대해상화재보험㈜
+업종: 손해 보험업
+기업구분: 대기업
+사업내용: 손해보험(자동차보험)
+소재지: 서울 종로구 세종대로 163 (세종로, 현대해상빌딩) 현대해상빌딩
+사원수: 3918
+사원수 기준일: 2026-06-30
+설립일: 1955-03-05
+홈페이지: http://www.hi.co.kr
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1909000","company_name":"현대해상화재보험㈜","industry":"손해 보험업","company_type":"대기업","business":"손해보험(자동차보험)","location":"서울 종로구 세종대로 163 (세종로, 현대해상빌딩) 현대해상빌딩","employee_count":"3918","employee_as_of":"2026-06-30","founded":"1955-03-05","website":"http://www.hi.co.kr","profile_url":"https://www.jobkorea.co.kr/company/1909000/","checked_at":"2026-11-19T23:16:08+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1919579 | 능원금속공업(주)
+기업명: 능원금속공업(주)
+업종: 금속·재료·자재
+기업구분: 중견기업
+사업내용: 동관(COPPER TUBE) 제조업
+소재지: 서울 동대문구 신설동 100-23 능도빌딩
+사원수: 405
+사원수 기준일: 미확인
+설립일: 1996-03-01
+홈페이지: http://www.nwmmetal.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1919579","company_name":"능원금속공업(주)","industry":"금속·재료·자재","company_type":"중견기업","business":"동관(COPPER TUBE) 제조업","location":"서울 동대문구 신설동 100-23 능도빌딩","employee_count":"405","employee_as_of":"","founded":"1996-03-01","website":"http://www.nwmmetal.com","profile_url":"https://www.jobkorea.co.kr/company/1919579/","checked_at":"2026-11-19T23:16:25+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1920423 | SFA반도체㈜
+기업명: SFA반도체㈜
+업종: 전자집적회로 제조업
+기업구분: 중견기업
+사업내용: 미확인
+소재지: 충청남도 천안시 서북구 백석공단7로 16
+사원수: 미확인
+사원수 기준일: 미확인
+설립일: 1998
+홈페이지: 미확인
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1920423","company_name":"SFA반도체㈜","industry":"전자집적회로 제조업","company_type":"중견기업","business":"","location":"충청남도 천안시 서북구 백석공단7로 16","employee_count":"","employee_as_of":"","founded":"1998","website":"","profile_url":"https://www.jobkorea.co.kr/company/1920423/","checked_at":"2026-11-19T23:21:49+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1925784 | 비테스코테크놀로지스코리아(유)
+기업명: 비테스코테크놀로지스코리아(유)
+업종: 전기·전자·제어
+기업구분: 외국계(외국 투자기업)
+사업내용: 자동차 전자제어 부품 개발, 제조 및 판매
+소재지: 미확인
+사원수: 1016
+사원수 기준일: 미확인
+설립일: 1987-08-25
+홈페이지: https://www.vitesco-technologies.com/
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1925784","company_name":"비테스코테크놀로지스코리아(유)","industry":"전기·전자·제어","company_type":"외국계(외국 투자기업)","business":"자동차 전자제어 부품 개발, 제조 및 판매","location":"","employee_count":"1016","employee_as_of":"","founded":"1987-08-25","website":"https://www.vitesco-technologies.com/","profile_url":"https://www.jobkorea.co.kr/company/1925784/","checked_at":"2026-11-19T23:22:14+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1930804 | 세방그룹
+기업명: 세방그룹
+업종: 물류·운송·배송
+기업구분: 미확인
+사업내용: 미확인
+소재지: 서울 강남구 역삼동 708-8번지 세방전지(주)
+사원수: 미확인
+사원수 기준일: 미확인
+설립일: 미확인
+홈페이지: 미확인
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1930804","company_name":"세방그룹","industry":"물류·운송·배송","company_type":"","business":"","location":"서울 강남구 역삼동 708-8번지 세방전지(주)","employee_count":"","employee_as_of":"","founded":"","website":"","profile_url":"https://www.jobkorea.co.kr/company/1930804/","checked_at":"2026-11-19T23:22:28+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1942890 | (주)경보제약
+기업명: (주)경보제약
+업종: 제약·보건·바이오
+기업구분: 중견기업
+사업내용: 항생물질의약품(세포탁심,바캄피실린,세파클러),화공약품,기초화합물 제조,도매,수출
+소재지: 충남 아산시 실옥동 345-6
+사원수: 510
+사원수 기준일: 미확인
+설립일: 1987-03-31
+홈페이지: http://www.kbpharma.co.kr
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1942890","company_name":"(주)경보제약","industry":"제약·보건·바이오","company_type":"중견기업","business":"항생물질의약품(세포탁심,바캄피실린,세파클러),화공약품,기초화합물 제조,도매,수출","location":"충남 아산시 실옥동 345-6","employee_count":"510","employee_as_of":"","founded":"1987-03-31","website":"http://www.kbpharma.co.kr","profile_url":"https://www.jobkorea.co.kr/company/1942890/","checked_at":"2026-11-19T23:15:52+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1944712 | 동화일렉트로라이트
+기업명: 동화일렉트로라이트
+업종: 석탄화학계 화합물 및 기타 기초 유기 화학물질 제조업
+기업구분: 중견기업
+사업내용: 전해액,전자재료(리튬이온이차전지) 제조/화학제품 제조,도소매,무역/부동산 임대/컴퓨터시설관리,경영컨설팅
+소재지: 충남 논산시 성동면 산업단지로5길 45 (원남리) 동화일렉트로라이트
+사원수: 106
+사원수 기준일: 2026-06-30
+설립일: 2009-08-20
+홈페이지: http://www.dongwhaelectrolyte.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1944712","company_name":"동화일렉트로라이트","industry":"석탄화학계 화합물 및 기타 기초 유기 화학물질 제조업","company_type":"중견기업","business":"전해액,전자재료(리튬이온이차전지) 제조/화학제품 제조,도소매,무역/부동산 임대/컴퓨터시설관리,경영컨설팅","location":"충남 논산시 성동면 산업단지로5길 45 (원남리) 동화일렉트로라이트","employee_count":"106","employee_as_of":"2026-06-30","founded":"2009-08-20","website":"http://www.dongwhaelectrolyte.com","profile_url":"https://www.jobkorea.co.kr/company/1944712/","checked_at":"2026-11-19T23:23:22+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1953162 | 아이크래프트㈜
+기업명: 아이크래프트㈜
+업종: 네트워크·통신서비스
+기업구분: 중견기업
+사업내용: 네트워크 통합 솔루션 제공
+소재지: 서울 강남구 테헤란로44길 8 (역삼동) 아이콘역삼빌딩 8층
+사원수: 114
+사원수 기준일: 미확인
+설립일: 2000-01-21
+홈페이지: http://www.icraft21.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1953162","company_name":"아이크래프트㈜","industry":"네트워크·통신서비스","company_type":"중견기업","business":"네트워크 통합 솔루션 제공","location":"서울 강남구 테헤란로44길 8 (역삼동) 아이콘역삼빌딩 8층","employee_count":"114","employee_as_of":"","founded":"2000-01-21","website":"http://www.icraft21.com","profile_url":"https://www.jobkorea.co.kr/company/1953162/","checked_at":"2026-11-19T23:22:35+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1956726 | LT메탈
+기업명: LT메탈
+업종: 그 외 기타 전자부품 제조업
+기업구분: 중견기업
+사업내용: 전기접점,납재,땜납,주화,비철금 제조
+소재지: 인천 서구 가재울로 14 (가좌동, 희성금속) 1층
+사원수: 423
+사원수 기준일: 2026-06-30
+설립일: 1974-06-14
+홈페이지: http://www.ltmetal.co.kr
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1956726","company_name":"LT메탈","industry":"그 외 기타 전자부품 제조업","company_type":"중견기업","business":"전기접점,납재,땜납,주화,비철금 제조","location":"인천 서구 가재울로 14 (가좌동, 희성금속) 1층","employee_count":"423","employee_as_of":"2026-06-30","founded":"1974-06-14","website":"http://www.ltmetal.co.kr","profile_url":"https://www.jobkorea.co.kr/company/1956726/","checked_at":"2026-11-19T23:19:24+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1958656 | 포스코플로우㈜
+기업명: 포스코플로우㈜
+업종: 기타 보관 및 창고업
+기업구분: 대기업
+사업내용: 창고,해상물류유통(환적,보관)
+소재지: 서울 강남구 테헤란로 440 (대치동, 포스코센터) 포스코센터 서관 6층 포스코플로우
+사원수: 255
+사원수 기준일: 2025-12-31
+설립일: 2003-01-23
+홈페이지: http://www.poscoflow.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1958656","company_name":"포스코플로우㈜","industry":"기타 보관 및 창고업","company_type":"대기업","business":"창고,해상물류유통(환적,보관)","location":"서울 강남구 테헤란로 440 (대치동, 포스코센터) 포스코센터 서관 6층 포스코플로우","employee_count":"255","employee_as_of":"2025-12-31","founded":"2003-01-23","website":"http://www.poscoflow.com","profile_url":"https://www.jobkorea.co.kr/company/1958656/","checked_at":"2026-11-19T23:15:37+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1976230 | 삼성메디슨㈜
+기업명: 삼성메디슨㈜
+업종: 전기식 진단 및 요법 기기 제조업
+기업구분: 대기업
+사업내용: 전기진단요법기기,방사선장치 제조/도배실내장식내장목공사/의료기기 도소매,무역/주차장 운영
+소재지: 서울 강동구 천호대로 1077 (천호동, 래미안강동팰리스) 이스트센트럴타워
+사원수: 1157
+사원수 기준일: 2026-06-30
+설립일: 1985-09-01
+홈페이지: http://www.samsungmedison.co.kr
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1976230","company_name":"삼성메디슨㈜","industry":"전기식 진단 및 요법 기기 제조업","company_type":"대기업","business":"전기진단요법기기,방사선장치 제조/도배실내장식내장목공사/의료기기 도소매,무역/주차장 운영","location":"서울 강동구 천호대로 1077 (천호동, 래미안강동팰리스) 이스트센트럴타워","employee_count":"1157","employee_as_of":"2026-06-30","founded":"1985-09-01","website":"http://www.samsungmedison.co.kr","profile_url":"https://www.jobkorea.co.kr/company/1976230/","checked_at":"2026-11-19T23:22:43+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1979146 | ㈜비즈테크아이
+기업명: ㈜비즈테크아이
+업종: 컴퓨터시스템 통합 자문 및 구축 서비스업
+기업구분: 대기업
+사업내용: 전산소프트웨어(ERP,BI) 구축,개발,공급,설계,도매
+소재지: 서울 마포구 매봉산로 75 (상암동, 디디엠씨(DDMC)) 12층 비즈테크아이
+사원수: 901
+사원수 기준일: 미확인
+설립일: 2003-01-09
+홈페이지: http://www.biztechi.com/
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1979146","company_name":"㈜비즈테크아이","industry":"컴퓨터시스템 통합 자문 및 구축 서비스업","company_type":"대기업","business":"전산소프트웨어(ERP,BI) 구축,개발,공급,설계,도매","location":"서울 마포구 매봉산로 75 (상암동, 디디엠씨(DDMC)) 12층 비즈테크아이","employee_count":"901","employee_as_of":"","founded":"2003-01-09","website":"http://www.biztechi.com/","profile_url":"https://www.jobkorea.co.kr/company/1979146/","checked_at":"2026-11-19T23:21:35+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1979858 | 삼성카드(주)
+기업명: 삼성카드(주)
+업종: 신용카드 및 할부금융업
+기업구분: 대기업
+사업내용: 신용카드업,상품신용판매,현금서비스,카드론,리스,기업대출,여행업무,통신판매
+소재지: 서울 구로구 구로5동 3-25 서부금융센터
+사원수: 2419
+사원수 기준일: 미확인
+설립일: 1983-03-24
+홈페이지: http://www.samsungcard.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1979858","company_name":"삼성카드(주)","industry":"신용카드 및 할부금융업","company_type":"대기업","business":"신용카드업,상품신용판매,현금서비스,카드론,리스,기업대출,여행업무,통신판매","location":"서울 구로구 구로5동 3-25 서부금융센터","employee_count":"2419","employee_as_of":"","founded":"1983-03-24","website":"http://www.samsungcard.com","profile_url":"https://www.jobkorea.co.kr/company/1979858/","checked_at":"2026-11-19T23:17:15+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1984401 | LG CNS
+기업명: LG CNS
+업종: 컴퓨터시스템 통합 자문 및 구축 서비스업
+기업구분: 대기업
+사업내용: 컨설팅,시스템 구축/운영,토탈 아웃소싱, AI,클라우드,스마트팩토리 등 IT신기술 기반의 DX사업
+소재지: 서울 영등포구 여의대로 24 (여의도동, 전국경제인연 .
+사원수: 6937
+사원수 기준일: 2026-06-30
+설립일: 1987-01-14
+홈페이지: http://www.lgcns.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1984401","company_name":"LG CNS","industry":"컴퓨터시스템 통합 자문 및 구축 서비스업","company_type":"대기업","business":"컨설팅,시스템 구축/운영,토탈 아웃소싱, AI,클라우드,스마트팩토리 등 IT신기술 기반의 DX사업","location":"서울 영등포구 여의대로 24 (여의도동, 전국경제인연 .","employee_count":"6937","employee_as_of":"2026-06-30","founded":"1987-01-14","website":"http://www.lgcns.com","profile_url":"https://www.jobkorea.co.kr/company/1984401/","checked_at":"2026-11-19T23:14:37+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/1988732 | 제이비㈜
+기업명: 제이비㈜
+업종: 연료용 가스 제조 및 배관공급업
+기업구분: 중견기업
+사업내용: 전기가스 공급/발전,전기/환경오염방지시설공사,설비공사/차량용 주유소 운영
+소재지: 충남 아산시 음봉면 산동안길 14 (산동리) 제이비(주)
+사원수: 257
+사원수 기준일: 2025-12-31
+설립일: 1992-06-03
+홈페이지: http://www.jbcorporation.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/1988732","company_name":"제이비㈜","industry":"연료용 가스 제조 및 배관공급업","company_type":"중견기업","business":"전기가스 공급/발전,전기/환경오염방지시설공사,설비공사/차량용 주유소 운영","location":"충남 아산시 음봉면 산동안길 14 (산동리) 제이비(주)","employee_count":"257","employee_as_of":"2025-12-31","founded":"1992-06-03","website":"http://www.jbcorporation.com","profile_url":"https://www.jobkorea.co.kr/company/1988732/","checked_at":"2026-11-19T23:18:57+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/42418177 | 레몬헬스케어
+기업명: 레몬헬스케어
+업종: 모바일·APP
+기업구분: 중소기업
+사업내용: 의료정보관련 소프트웨어 개발
+소재지: 서울 금천구 가산디지털1로 145 (가산동, 에이스하이엔드타워3차) 1005호
+사원수: 94
+사원수 기준일: 미확인
+설립일: 2017-06-01
+홈페이지: http://www.lemonhc.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/42418177","company_name":"레몬헬스케어","industry":"모바일·APP","company_type":"중소기업","business":"의료정보관련 소프트웨어 개발","location":"서울 금천구 가산디지털1로 145 (가산동, 에이스하이엔드타워3차) 1005호","employee_count":"94","employee_as_of":"","founded":"2017-06-01","website":"http://www.lemonhc.com","profile_url":"https://www.jobkorea.co.kr/company/42418177/","checked_at":"2026-11-19T23:20:59+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/42946037 | 동광제약
+기업명: 동광제약
+업종: 완제 의약품 제조업
+기업구분: 중견기업
+사업내용: 양약,자양강장제 제조,도소매,통신판매
+소재지: 서울 중구 퇴계로 97 (충무로1가, 고려대연각타워) 12F
+사원수: 550
+사원수 기준일: 2025-12-31
+설립일: 2014-12-31
+홈페이지: http://dkpco.co.kr
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/42946037","company_name":"동광제약","industry":"완제 의약품 제조업","company_type":"중견기업","business":"양약,자양강장제 제조,도소매,통신판매","location":"서울 중구 퇴계로 97 (충무로1가, 고려대연각타워) 12F","employee_count":"550","employee_as_of":"2025-12-31","founded":"2014-12-31","website":"http://dkpco.co.kr","profile_url":"https://www.jobkorea.co.kr/company/42946037/","checked_at":"2026-11-19T23:19:30+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/42960697 | 제주신화월드㈜
+기업명: 제주신화월드㈜
+업종: 호텔·여행·항공
+기업구분: 외국계(외국 법인기타)
+사업내용: 테마파크, 워터파크, 호텔, 쇼핑가 및 빌라로 구성 된 복합 휴양 리조트입니다
+소재지: 제주 서귀포시 안덕면 서광리
+사원수: 1200
+사원수 기준일: 미확인
+설립일: 2013-09-30
+홈페이지: http://www.shinhwaworld.com/
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/42960697","company_name":"제주신화월드㈜","industry":"호텔·여행·항공","company_type":"외국계(외국 법인기타)","business":"테마파크, 워터파크, 호텔, 쇼핑가 및 빌라로 구성 된 복합 휴양 리조트입니다","location":"제주 서귀포시 안덕면 서광리","employee_count":"1200","employee_as_of":"","founded":"2013-09-30","website":"http://www.shinhwaworld.com/","profile_url":"https://www.jobkorea.co.kr/company/42960697/","checked_at":"2026-11-19T23:22:01+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/44839377 | ㈜웨이버스
+기업명: ㈜웨이버스
+업종: 솔루션·SI·CRM·ERP
+기업구분: 중소기업
+사업내용: 클라우드 기반 공간정보 플랫폼 구축, 국토/부동산/지적 정보화 사업, SI, 스마트 시티
+소재지: 서울 구로구 디지털로26길 61 (구로동, 에이스하이엔드타워2차) 1001호
+사원수: 301
+사원수 기준일: 미확인
+설립일: 2004-10-18
+홈페이지: https://www.wavus.co.kr
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/44839377","company_name":"㈜웨이버스","industry":"솔루션·SI·CRM·ERP","company_type":"중소기업","business":"클라우드 기반 공간정보 플랫폼 구축, 국토/부동산/지적 정보화 사업, SI, 스마트 시티","location":"서울 구로구 디지털로26길 61 (구로동, 에이스하이엔드타워2차) 1001호","employee_count":"301","employee_as_of":"","founded":"2004-10-18","website":"https://www.wavus.co.kr","profile_url":"https://www.jobkorea.co.kr/company/44839377/","checked_at":"2026-11-19T23:25:15+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/45212325 | 솔탑
+기업명: 솔탑
+업종: 솔루션·SI·CRM·ERP
+기업구분: 중소기업
+사업내용: 인공위성/무인기 지상체계 시스템분야(위성관제,항법,영상처리, 무인기통제)
+소재지: 세종 집현중앙2로 7 (집현동) 솔탑
+사원수: 125
+사원수 기준일: 미확인
+설립일: 1995-05-10
+홈페이지: http://www.soletop.co.kr
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/45212325","company_name":"솔탑","industry":"솔루션·SI·CRM·ERP","company_type":"중소기업","business":"인공위성/무인기 지상체계 시스템분야(위성관제,항법,영상처리, 무인기통제)","location":"세종 집현중앙2로 7 (집현동) 솔탑","employee_count":"125","employee_as_of":"","founded":"1995-05-10","website":"http://www.soletop.co.kr","profile_url":"https://www.jobkorea.co.kr/company/45212325/","checked_at":"2026-11-19T23:19:04+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/46165662 | ㈜와이즈버즈
+기업명: ㈜와이즈버즈
+업종: 광고·홍보·전시
+기업구분: 대기업 계열사·자회사
+사업내용: RTB(Real Time Bidding) 매체의 캠페인 최적화 서비스 및 솔루션 제공
+소재지: 경기 성남시 수정구 금토로 69 (금토동) 다우디지털스퀘어 5층
+사원수: 150
+사원수 기준일: 미확인
+설립일: 2013-05-20
+홈페이지: http://wisebirds.co
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/46165662","company_name":"㈜와이즈버즈","industry":"광고·홍보·전시","company_type":"대기업 계열사·자회사","business":"RTB(Real Time Bidding) 매체의 캠페인 최적화 서비스 및 솔루션 제공","location":"경기 성남시 수정구 금토로 69 (금토동) 다우디지털스퀘어 5층","employee_count":"150","employee_as_of":"","founded":"2013-05-20","website":"http://wisebirds.co","profile_url":"https://www.jobkorea.co.kr/company/46165662/","checked_at":"2026-11-19T23:22:56+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/48818973 | ㈜포스코
+기업명: ㈜포스코
+업종: 제강업
+기업구분: 대기업
+사업내용: 열연,냉연,스테인리스 등 철강제품 생산
+소재지: 경북 포항시 남구 괴동동 1 포스코본사
+사원수: 18167
+사원수 기준일: 미확인
+설립일: 1968-03-25
+홈페이지: http://www.posco.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/48818973","company_name":"㈜포스코","industry":"제강업","company_type":"대기업","business":"열연,냉연,스테인리스 등 철강제품 생산","location":"경북 포항시 남구 괴동동 1 포스코본사","employee_count":"18167","employee_as_of":"","founded":"1968-03-25","website":"http://www.posco.com","profile_url":"https://www.jobkorea.co.kr/company/48818973/","checked_at":"2026-11-19T23:15:01+09:00"}
+
+<<<JK_RECORD>>>
+
+기업정보 | 기업 식별자 company/49772181 | 로젠
+기업명: 로젠
+업종: 물류·운송·배송
+기업구분: 중소기업
+사업내용: 택배
+소재지: 경기 성남시 수정구 창업로57번길 7 (시흥동) 5층
+사원수: 200
+사원수 기준일: 미확인
+설립일: 1999-06-01
+홈페이지: http://www.ilogen.com
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+연결 기준: 기업명이 비슷해도 기업 식별자가 다르면 같은 기업으로 연결하지 않습니다.
+JK_RECORD_JSON={"record_type":"company","dataset_checked_at":"2026-11-19","archival":true,"company_id":"company/49772181","company_name":"로젠","industry":"물류·운송·배송","company_type":"중소기업","business":"택배","location":"경기 성남시 수정구 창업로57번길 7 (시흥동) 5층","employee_count":"200","employee_as_of":"","founded":"1999-06-01","website":"http://www.ilogen.com","profile_url":"https://www.jobkorea.co.kr/company/49772181/","checked_at":"2026-11-19T23:17:55+09:00"}

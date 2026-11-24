@@ -1,0 +1,2011 @@
+채용공고 | 공고번호 49876553 | 기업 식별자 company/1450465
+공고명: ㈜휴비츠 부문별 모집
+기업명: ㈜휴비츠
+고용형태: 정규직 , 계약직
+경력: 신입·경력
+학력: 학력무관 (직무별 상이)
+직무: 미확인
+근무지역: 경기 안양시 동안구 부림로170번길 38 (관양동, (주)휴비츠평촌사옥)
+접수 시작일: 2026-09-01
+마감일: 2026-09-30
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49876553","company_id":"company/1450465","title":"㈜휴비츠 부문별 모집","company_name":"㈜휴비츠","employment_type":"정규직 , 계약직","experience":"신입·경력","education":"학력무관 (직무별 상이)","source_calendar_start_date":"2026-09-01","start_date":"2026-09-01","end_date":"2026-09-30","role":"","location":"경기 안양시 동안구 부림로170번길 38 (관양동, (주)휴비츠평촌사옥)","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49876553?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1450465/","checked_at":"2026-11-19T23:02:22+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49885617 | 기업 식별자 company/1984401
+공고명: 2026 하반기 LG CNS 신입사원 채용
+기업명: ㈜엘지씨엔에스
+고용형태: 정규직
+경력: 신입
+학력: 대졸이상 (졸업예정자 가능)
+직무: 미확인
+근무지역: 서울 강서구 마곡중앙8로 71 (마곡동, LG사이언스파크)
+접수 시작일: 2026-09-01
+마감일: 2026-09-14
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49885617","company_id":"company/1984401","title":"2026 하반기 LG CNS 신입사원 채용","company_name":"㈜엘지씨엔에스","employment_type":"정규직","experience":"신입","education":"대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-09-01","start_date":"2026-09-01","end_date":"2026-09-14","role":"","location":"서울 강서구 마곡중앙8로 71 (마곡동, LG사이언스파크)","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49885617?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1984401/","checked_at":"2026-11-19T23:01:36+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49891743 | 기업 식별자 미확인
+공고명: 미디어로그(LG그룹) 채용연계형 인턴(신입) 채용
+기업명: ㈜미디어로그
+고용형태: 미확인
+경력: 미확인
+학력: 미확인
+직무: 미확인
+근무지역: 미확인
+접수 시작일: 미확인
+마감일: 미확인
+모집상태: 미확인
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 보류, 캘린더 값만 확인
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49891743","company_id":"","title":"미디어로그(LG그룹) 채용연계형 인턴(신입) 채용","company_name":"㈜미디어로그","employment_type":"","experience":"","education":"","source_calendar_start_date":"2026-09-01","start_date":"","end_date":"","role":"","location":"","status":"unknown","source_status":"","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49891743?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"","checked_at":"","detail_available":false}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49895403 | 기업 식별자 company/1522899
+공고명: [SIMPAC GROUP] 각 부문별 신입/경력사원 채용
+기업명: ㈜ SIMPAC
+고용형태: 정규직 , 인턴 (상세요강 참조)
+경력: 신입·경력 (직무별 상이, 상세요강 참고)
+학력: 고졸이상 (직무별 상이, 상세요강 참고)
+직무: 미확인
+근무지역: 인천 부평구 청천동 394번지
+접수 시작일: 2026-09-01
+마감일: 2026-10-01
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49895403","company_id":"company/1522899","title":"[SIMPAC GROUP] 각 부문별 신입/경력사원 채용","company_name":"㈜ SIMPAC","employment_type":"정규직 , 인턴 (상세요강 참조)","experience":"신입·경력 (직무별 상이, 상세요강 참고)","education":"고졸이상 (직무별 상이, 상세요강 참고)","source_calendar_start_date":"2026-09-01","start_date":"2026-09-01","end_date":"2026-10-01","role":"","location":"인천 부평구 청천동 394번지","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49895403?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1522899/","checked_at":"2026-11-19T23:01:57+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49896217 | 기업 식별자 company/48818973
+공고명: 2026년 하반기 포스코그룹 신입사원/연구원 채용
+기업명: ㈜포스코
+고용형태: 정규직
+경력: 신입 (직무별 상이)
+학력: 대졸이상 (졸업예정자 가능, 직무별 상이)
+직무: 미확인
+근무지역: 서울 강남구 테헤란로 440 (대치동, 포스코센터)
+접수 시작일: 2026-09-01
+마감일: 2026-09-16
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49896217","company_id":"company/48818973","title":"2026년 하반기 포스코그룹 신입사원/연구원 채용","company_name":"㈜포스코","employment_type":"정규직","experience":"신입 (직무별 상이)","education":"대졸이상 (졸업예정자 가능, 직무별 상이)","source_calendar_start_date":"2026-09-01","start_date":"2026-09-01","end_date":"2026-09-16","role":"","location":"서울 강남구 테헤란로 440 (대치동, 포스코센터)","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49896217?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/48818973/","checked_at":"2026-11-19T23:02:14+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49937026 | 기업 식별자 company/1589099
+공고명: 2027 뷰웍스 대졸 신입사원 공개채용
+기업명: 뷰웍스
+고용형태: 정규직
+경력: 신입
+학력: 대졸이상 (졸업예정자 가능, 상세요강 참고)
+직무: 미확인
+근무지역: 경기 안양시 동안구 시민대로 361 (관양동, 에이스평촌타워) 1동 615호
+접수 시작일: 2026-09-01
+마감일: 2026-09-21
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49937026","company_id":"company/1589099","title":"2027 뷰웍스 대졸 신입사원 공개채용","company_name":"뷰웍스","employment_type":"정규직","experience":"신입","education":"대졸이상 (졸업예정자 가능, 상세요강 참고)","source_calendar_start_date":"2026-09-01","start_date":"2026-09-01","end_date":"2026-09-21","role":"","location":"경기 안양시 동안구 시민대로 361 (관양동, 에이스평촌타워) 1동 615호","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49937026?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1589099/","checked_at":"2026-11-19T23:01:50+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49895421 | 기업 식별자 company/1691137
+공고명: [HL클레무브] [R&D, 영업, 구매, 생산기술] 2026 하반기 HL그룹 신입사원 채용
+기업명: HL Klemove
+고용형태: 정규직
+경력: 신입
+학력: 대졸이상 (졸업예정자 가능)
+직무: 미확인
+근무지역: 경기도 성남시 수정구 금토로80번길 21 (금토동)
+접수 시작일: 2026-09-02
+마감일: 2026-09-27
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49895421","company_id":"company/1691137","title":"[HL클레무브] [R&D, 영업, 구매, 생산기술] 2026 하반기 HL그룹 신입사원 채용","company_name":"HL Klemove","employment_type":"정규직","experience":"신입","education":"대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-09-02","start_date":"2026-09-02","end_date":"2026-09-27","role":"","location":"경기도 성남시 수정구 금토로80번길 21 (금토동)","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49895421?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1691137/","checked_at":"2026-11-19T23:02:28+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49908784 | 기업 식별자 company/1423432
+공고명: 모나미 부문별 채용
+기업명: ㈜모나미
+고용형태: 정규직
+경력: 신입·경력 (직무별 상이 / 상세요강 참고)
+학력: 초대졸이상 (직무별 상이 / 상세요강 참고)
+직무: 상품개발기획, IT운영팀, TQM팀 QA파트, 해외영업팀 해외영업
+근무지역: 경기 용인시 수지구 손곡로 17 (동천동) ㈜모나미 빌딩
+접수 시작일: 2026-09-02
+마감일: 2026-09-11
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49908784","company_id":"company/1423432","title":"모나미 부문별 채용","company_name":"㈜모나미","employment_type":"정규직","experience":"신입·경력 (직무별 상이 / 상세요강 참고)","education":"초대졸이상 (직무별 상이 / 상세요강 참고)","source_calendar_start_date":"2026-09-02","start_date":"2026-09-02","end_date":"2026-09-11","role":"상품개발기획, IT운영팀, TQM팀 QA파트, 해외영업팀 해외영업","location":"경기 용인시 수지구 손곡로 17 (동천동) ㈜모나미 빌딩","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49908784?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1423432/","checked_at":"2026-11-19T23:02:33+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49911986 | 기업 식별자 company/1890347
+공고명: 9월 윈스테크넷 월간채용(신입)-보안관제, CERT, 개발, 영업, 클라우드MSP
+기업명: ㈜윈스테크넷
+고용형태: 정규직 (수습 2개월)
+경력: 신입
+학력: 대졸이상 (졸업예정자 가능)
+직무: 보안관제, CERT, 개발, 클라우드, 영업
+근무지역: 경기 성남시 분당구 판교로228번길 15 (삼평동, 판교세븐벤처밸리1) 윈스동 4층
+접수 시작일: 2026-09-02
+마감일: 2026-09-13
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49911986","company_id":"company/1890347","title":"9월 윈스테크넷 월간채용(신입)-보안관제, CERT, 개발, 영업, 클라우드MSP","company_name":"㈜윈스테크넷","employment_type":"정규직 (수습 2개월)","experience":"신입","education":"대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-09-02","start_date":"2026-09-02","end_date":"2026-09-13","role":"보안관제, CERT, 개발, 클라우드, 영업","location":"경기 성남시 분당구 판교로228번길 15 (삼평동, 판교세븐벤처밸리1) 윈스동 4층","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49911986?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1890347/","checked_at":"2026-11-19T23:02:41+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49908528 | 기업 식별자 company/1479003
+공고명: 대원제약 DNA 채용 (신입/경력 수시 채용)
+기업명: 대원제약(주)
+고용형태: 정규직 , 계약직
+경력: 신입·경력 (* 직무별상이 / 상세요강 참조)
+학력: 고졸이상 (졸업예정자 가능, * 직무별상이 / 상세요강 참조)
+직무: 미확인
+근무지역: 서울 성동구 용답동 229-3 대원제약
+접수 시작일: 2026-09-03
+마감일: 2026-09-16
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49908528","company_id":"company/1479003","title":"대원제약 DNA 채용 (신입/경력 수시 채용)","company_name":"대원제약(주)","employment_type":"정규직 , 계약직","experience":"신입·경력 (* 직무별상이 / 상세요강 참조)","education":"고졸이상 (졸업예정자 가능, * 직무별상이 / 상세요강 참조)","source_calendar_start_date":"2026-09-03","start_date":"2026-09-03","end_date":"2026-09-16","role":"","location":"서울 성동구 용답동 229-3 대원제약","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49908528?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1479003/","checked_at":"2026-11-19T23:13:22+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49910467 | 기업 식별자 company/1958656
+공고명: 2026년 하반기 포스코플로우 신입/경력직 채용
+기업명: 포스코플로우㈜
+고용형태: 정규직 , 계약직
+경력: 신입·경력 (3년이상, * 직무별상이 / 상세요강 참조)
+학력: 학력무관 (* 직무별상이 / 상세요강 참조)
+직무: 미확인
+근무지역: 서울 강남구 테헤란로 440 (대치동, 포스코센터) 포스코센터 서관 6층 포스코플로우
+접수 시작일: 2026-09-03
+마감일: 2026-09-16
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49910467","company_id":"company/1958656","title":"2026년 하반기 포스코플로우 신입/경력직 채용","company_name":"포스코플로우㈜","employment_type":"정규직 , 계약직","experience":"신입·경력 (3년이상, * 직무별상이 / 상세요강 참조)","education":"학력무관 (* 직무별상이 / 상세요강 참조)","source_calendar_start_date":"2026-09-03","start_date":"2026-09-03","end_date":"2026-09-16","role":"","location":"서울 강남구 테헤란로 440 (대치동, 포스코센터) 포스코센터 서관 6층 포스코플로우","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49910467?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1958656/","checked_at":"2026-11-19T23:02:47+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49916443 | 기업 식별자 company/1479003
+공고명: 대원제약 DNA 채용 (신입/경력 수시 채용)
+기업명: 대원제약(주)
+고용형태: 정규직 , 계약직
+경력: 신입·경력 (* 직무별상이 / 상세요강 참조)
+학력: 고졸이상 (졸업예정자 가능, * 직무별상이 / 상세요강 참조)
+직무: 미확인
+근무지역: 서울 성동구 용답동 229-3 대원제약
+접수 시작일: 2026-09-03
+마감일: 2026-09-16
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49916443","company_id":"company/1479003","title":"대원제약 DNA 채용 (신입/경력 수시 채용)","company_name":"대원제약(주)","employment_type":"정규직 , 계약직","experience":"신입·경력 (* 직무별상이 / 상세요강 참조)","education":"고졸이상 (졸업예정자 가능, * 직무별상이 / 상세요강 참조)","source_calendar_start_date":"2026-09-03","start_date":"2026-09-03","end_date":"2026-09-16","role":"","location":"서울 성동구 용답동 229-3 대원제약","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49916443?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1479003/","checked_at":"2026-11-19T23:13:15+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49908299 | 기업 식별자 company/1909000
+공고명: 2026년 현대해상 대졸 신입사원 채용
+기업명: 현대해상화재보험㈜
+고용형태: 정규직
+경력: 신입
+학력: 대졸이상 (졸업예정자 가능)
+직무: 미확인
+근무지역: 서울 종로구 세종대로 163 (세종로, 현대해상빌딩) 현대해상빌딩
+접수 시작일: 2026-09-04
+마감일: 2026-09-21
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49908299","company_id":"company/1909000","title":"2026년 현대해상 대졸 신입사원 채용","company_name":"현대해상화재보험㈜","employment_type":"정규직","experience":"신입","education":"대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-09-04","start_date":"2026-09-04","end_date":"2026-09-21","role":"","location":"서울 종로구 세종대로 163 (세종로, 현대해상빌딩) 현대해상빌딩","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49908299?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1909000/","checked_at":"2026-11-19T23:03:16+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49925886 | 기업 식별자 company/1375826
+공고명: [원익큐엔씨] 신입/경력사원 모집
+기업명: ㈜원익QnC
+고용형태: 정규직 (수습 3개월) , 계약직
+경력: 신입·경력
+학력: 고졸이상
+직무: 제조/물류/품질/장비개발/인사/영업/기술개발
+근무지역: 경북 구미시 산동읍 5공단3로 14 S캠퍼스
+접수 시작일: 2026-09-04
+마감일: 2026-09-13
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49925886","company_id":"company/1375826","title":"[원익큐엔씨] 신입/경력사원 모집","company_name":"㈜원익QnC","employment_type":"정규직 (수습 3개월) , 계약직","experience":"신입·경력","education":"고졸이상","source_calendar_start_date":"2026-09-04","start_date":"2026-09-04","end_date":"2026-09-13","role":"제조/물류/품질/장비개발/인사/영업/기술개발","location":"경북 구미시 산동읍 5공단3로 14 S캠퍼스","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49925886?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1375826/","checked_at":"2026-11-19T23:03:10+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49928254 | 기업 식별자 company/1427476
+공고명: [TKG태광] 26년 3분기 수시채용
+기업명: TKG태광(주)
+고용형태: 정규직
+경력: 신입·경력 (5년이상, 직무별 상이/상세요강 참고)
+학력: 학력무관 (상세요강 참고)
+직무: 미확인
+근무지역: 경남 김해시 김해대로2635번길 26 (안동) TKG태광
+접수 시작일: 2026-09-04
+마감일: 2026-09-20
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49928254","company_id":"company/1427476","title":"[TKG태광] 26년 3분기 수시채용","company_name":"TKG태광(주)","employment_type":"정규직","experience":"신입·경력 (5년이상, 직무별 상이/상세요강 참고)","education":"학력무관 (상세요강 참고)","source_calendar_start_date":"2026-09-04","start_date":"2026-09-04","end_date":"2026-09-20","role":"","location":"경남 김해시 김해대로2635번길 26 (안동) TKG태광","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49928254?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1427476/","checked_at":"2026-11-19T23:02:54+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49929036 | 기업 식별자 company/1942890
+공고명: 경보제약 신입/경력 수시 채용
+기업명: ㈜경보제약
+고용형태: 정규직 (상세요강 참고) , 계약직 (상세요강 참고)
+경력: 신입·경력 (직무별 상이, 상세요강 참고)
+학력: 학력무관 (직무별 상이, 상세요강 참고)
+직무: 미확인
+근무지역: 충남 아산시 실옥동 345-6
+접수 시작일: 2026-09-04
+마감일: 2026-09-16
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49929036","company_id":"company/1942890","title":"경보제약 신입/경력 수시 채용","company_name":"㈜경보제약","employment_type":"정규직 (상세요강 참고) , 계약직 (상세요강 참고)","experience":"신입·경력 (직무별 상이, 상세요강 참고)","education":"학력무관 (직무별 상이, 상세요강 참고)","source_calendar_start_date":"2026-09-04","start_date":"2026-09-04","end_date":"2026-09-16","role":"","location":"충남 아산시 실옥동 345-6","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49929036?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1942890/","checked_at":"2026-11-19T23:03:03+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49927560 | 기업 식별자 company/1907496
+공고명: 케이투코리아 그룹 9월 각 분야별 모집 (신입/경력)
+기업명: 케이투코리아㈜
+고용형태: 정규직 , 계약직
+경력: 신입·경력
+학력: 고졸이상
+직무: 미확인
+근무지역: 서울 강남구 자곡로 174-14 (자곡동) 케이투코리아그룹 본사
+접수 시작일: 2026-09-05
+마감일: 2026-09-25
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49927560","company_id":"company/1907496","title":"케이투코리아 그룹 9월 각 분야별 모집 (신입/경력)","company_name":"케이투코리아㈜","employment_type":"정규직 , 계약직","experience":"신입·경력","education":"고졸이상","source_calendar_start_date":"2026-09-05","start_date":"2026-09-05","end_date":"2026-09-25","role":"","location":"서울 강남구 자곡로 174-14 (자곡동) 케이투코리아그룹 본사","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49927560?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1907496/","checked_at":"2026-11-19T23:03:26+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49928142 | 기업 식별자 company/1919579
+공고명: 각 부문 신입/경력사원 채용
+기업명: 능원금속공업㈜
+고용형태: 정규직 (수습 3개월)
+경력: 신입·경력 (직무별 상이, 상세요강 참고)
+학력: 학력무관 (* 직무별상이 / 상세요강 참조)
+직무: 서울사무소 해외영업팀, 생산팀 생산파트(관리/운영), 전산팀_전산장비/ 서버관리, 전산팀_시스템 개발/ 운영, 물류관리팀 경산물류파트 내근직
+근무지역: 서울 동대문구 청계천로 431 (신설동, SK주유소) 지도보기 경기 양주시 은현면 그루고개로 366 (도하리) 지도보기 경상북도 경산시 하양읍 아이웨어2로 33
+접수 시작일: 2026-09-07
+마감일: 2026-11-06
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49928142","company_id":"company/1919579","title":"각 부문 신입/경력사원 채용","company_name":"능원금속공업㈜","employment_type":"정규직 (수습 3개월)","experience":"신입·경력 (직무별 상이, 상세요강 참고)","education":"학력무관 (* 직무별상이 / 상세요강 참조)","source_calendar_start_date":"2026-09-07","start_date":"2026-09-07","end_date":"2026-11-06","role":"서울사무소 해외영업팀, 생산팀 생산파트(관리/운영), 전산팀_전산장비/ 서버관리, 전산팀_시스템 개발/ 운영, 물류관리팀 경산물류파트 내근직","location":"서울 동대문구 청계천로 431 (신설동, SK주유소) 지도보기 경기 양주시 은현면 그루고개로 366 (도하리) 지도보기 경상북도 경산시 하양읍 아이웨어2로 33","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49928142?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1919579/","checked_at":"2026-11-19T23:03:34+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49935748 | 기업 식별자 company/1598343
+공고명: 2026년 하반기 각 부문 신입/경력 사원 채용
+기업명: 한국렌탈㈜
+고용형태: 정규직 (수습 3개월)
+경력: 신입·경력 (직무별 상이 / 상세요강 참고)
+학력: 학력무관 (직무별 상이 / 상세요강 참고)
+직무: IT기기 영업담당자, IT 기획ㆍPMO, AI 백엔드 개발자, IT인프라 담당자, IT보안 담당자, Java 개발자, C# 개발자, 건설영업 담당자_안양, 건설영업 담당자_대전, 건설영업 담당자_전라광주, 내부감사 담당자
+근무지역: 서울 성동구 연무장11길 10 (성수동2가, 우리큐브) 3층
+접수 시작일: 2026-09-08
+마감일: 2026-09-19
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49935748","company_id":"company/1598343","title":"2026년 하반기 각 부문 신입/경력 사원 채용","company_name":"한국렌탈㈜","employment_type":"정규직 (수습 3개월)","experience":"신입·경력 (직무별 상이 / 상세요강 참고)","education":"학력무관 (직무별 상이 / 상세요강 참고)","source_calendar_start_date":"2026-09-08","start_date":"2026-09-08","end_date":"2026-09-19","role":"IT기기 영업담당자, IT 기획ㆍPMO, AI 백엔드 개발자, IT인프라 담당자, IT보안 담당자, Java 개발자, C# 개발자, 건설영업 담당자_안양, 건설영업 담당자_대전, 건설영업 담당자_전라광주, 내부감사 담당자","location":"서울 성동구 연무장11길 10 (성수동2가, 우리큐브) 3층","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49935748?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1598343/","checked_at":"2026-11-19T23:04:42+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49946436 | 기업 식별자 company/1890951
+공고명: 2026년 하반기 3급 신입사원 채용
+기업명: 삼성디스플레이
+고용형태: 정규직
+경력: 신입
+학력: 대졸이상 (졸업예정자 가능)
+직무: 3급 신입사원
+근무지역: 경기 용인시 기흥구 삼성로 1 (농서동, 삼성전자(주)기흥캠퍼스) 지도보기 충남 아산시 탕정면 삼성로 181 (명암리) 지도보기 충남 천안시 서북구 번영로 465 (성성동, 삼성전자(주)천안캠퍼스)
+접수 시작일: 2026-09-08
+마감일: 2026-09-15
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49946436","company_id":"company/1890951","title":"2026년 하반기 3급 신입사원 채용","company_name":"삼성디스플레이","employment_type":"정규직","experience":"신입","education":"대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-09-08","start_date":"2026-09-08","end_date":"2026-09-15","role":"3급 신입사원","location":"경기 용인시 기흥구 삼성로 1 (농서동, 삼성전자(주)기흥캠퍼스) 지도보기 충남 아산시 탕정면 삼성로 181 (명암리) 지도보기 충남 천안시 서북구 번영로 465 (성성동, 삼성전자(주)천안캠퍼스)","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49946436?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1890951/","checked_at":"2026-11-19T23:03:41+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49946539 | 기업 식별자 company/1636977
+공고명: 2026년 하반기 3급 신입사원 채용
+기업명: 삼성증권
+고용형태: 정규직
+경력: 신입
+학력: 대졸이상 (졸업예정자 가능)
+직무: 3급 신입사원
+근무지역: 미확인
+접수 시작일: 2026-09-08
+마감일: 2026-09-15
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49946539","company_id":"company/1636977","title":"2026년 하반기 3급 신입사원 채용","company_name":"삼성증권","employment_type":"정규직","experience":"신입","education":"대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-09-08","start_date":"2026-09-08","end_date":"2026-09-15","role":"3급 신입사원","location":"","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49946539?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1636977/","checked_at":"2026-11-19T23:04:19+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49946593 | 기업 식별자 company/1696583
+공고명: [DX부문] 2026년 하반기 3급 신입사원 채용
+기업명: 삼성전자㈜
+고용형태: 정규직
+경력: 신입
+학력: 대졸이상 (졸업예정자 가능)
+직무: DX부문 3급 신입사원
+근무지역: 경기 수원시 영통구 매탄동 416 삼성전자
+접수 시작일: 2026-09-08
+마감일: 2026-09-15
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49946593","company_id":"company/1696583","title":"[DX부문] 2026년 하반기 3급 신입사원 채용","company_name":"삼성전자㈜","employment_type":"정규직","experience":"신입","education":"대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-09-08","start_date":"2026-09-08","end_date":"2026-09-15","role":"DX부문 3급 신입사원","location":"경기 수원시 영통구 매탄동 416 삼성전자","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49946593?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1696583/","checked_at":"2026-11-19T23:13:56+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49946601 | 기업 식별자 company/1560793
+공고명: 2026년 하반기 3급 신입사원 채용
+기업명: 삼성전기
+고용형태: 정규직
+경력: 신입
+학력: 대졸이상 (졸업예정자 가능)
+직무: 3급 신입사원
+근무지역: 세종 연동면 삼성길 25 (명학리, 삼성전기) 지도보기 부산 강서구 녹산산업중로 333 (송정동) 지도보기 경기 수원시 영통구 매영로 150 (매탄동, 삼성전기)
+접수 시작일: 2026-09-08
+마감일: 2026-09-15
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49946601","company_id":"company/1560793","title":"2026년 하반기 3급 신입사원 채용","company_name":"삼성전기","employment_type":"정규직","experience":"신입","education":"대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-09-08","start_date":"2026-09-08","end_date":"2026-09-15","role":"3급 신입사원","location":"세종 연동면 삼성길 25 (명학리, 삼성전기) 지도보기 부산 강서구 녹산산업중로 333 (송정동) 지도보기 경기 수원시 영통구 매영로 150 (매탄동, 삼성전기)","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49946601?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1560793/","checked_at":"2026-11-19T23:03:48+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49946665 | 기업 식별자 company/1892636
+공고명: 2026년 하반기 삼성에스원 3급 신입사원 채용
+기업명: ㈜에스원
+고용형태: 정규직
+경력: 신입
+학력: 대졸이상 (졸업예정자 가능, 2027년 2월 이전 졸업 또는 졸업 예정인 분 (2027년 1월 ~ 2월 입사 가능한 분))
+직무: 미확인
+근무지역: 서울 중구 세종대로7길 25 (순화동, 에프엔타워순화(FNTOWERSUNHWA)) 에스원 빌딩
+접수 시작일: 2026-09-08
+마감일: 2026-09-15
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49946665","company_id":"company/1892636","title":"2026년 하반기 삼성에스원 3급 신입사원 채용","company_name":"㈜에스원","employment_type":"정규직","experience":"신입","education":"대졸이상 (졸업예정자 가능, 2027년 2월 이전 졸업 또는 졸업 예정인 분 (2027년 1월 ~ 2월 입사 가능한 분))","source_calendar_start_date":"2026-09-08","start_date":"2026-09-08","end_date":"2026-09-15","role":"","location":"서울 중구 세종대로7길 25 (순화동, 에프엔타워순화(FNTOWERSUNHWA)) 에스원 빌딩","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49946665?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1892636/","checked_at":"2026-11-19T23:03:58+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49946682 | 기업 식별자 company/1496537
+공고명: 2026년 하반기 3급 신입사원 채용
+기업명: 삼성에스디에스
+고용형태: 정규직
+경력: 신입
+학력: 대졸이상 (졸업예정자 가능)
+직무: 3급 신입사원
+근무지역: 서울 송파구 올림픽로35길 125 (신천동, 삼성SDS)
+접수 시작일: 2026-09-08
+마감일: 2026-09-15
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49946682","company_id":"company/1496537","title":"2026년 하반기 3급 신입사원 채용","company_name":"삼성에스디에스","employment_type":"정규직","experience":"신입","education":"대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-09-08","start_date":"2026-09-08","end_date":"2026-09-15","role":"3급 신입사원","location":"서울 송파구 올림픽로35길 125 (신천동, 삼성SDS)","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49946682?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1496537/","checked_at":"2026-11-19T23:24:54+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49946758 | 기업 식별자 company/1564772
+공고명: 2026년 하반기 3급 신입사원 채용
+기업명: ㈜제일기획
+고용형태: 정규직
+경력: 신입
+학력: 대졸이상 (졸업예정자 가능)
+직무: 3급 신입사원
+근무지역: 서울특별시 용산구 이태원로 222 (한남동)
+접수 시작일: 2026-09-08
+마감일: 2026-09-15
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49946758","company_id":"company/1564772","title":"2026년 하반기 3급 신입사원 채용","company_name":"㈜제일기획","employment_type":"정규직","experience":"신입","education":"대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-09-08","start_date":"2026-09-08","end_date":"2026-09-15","role":"3급 신입사원","location":"서울특별시 용산구 이태원로 222 (한남동)","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49946758?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1564772/","checked_at":"2026-11-19T23:04:05+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49946768 | 기업 식별자 company/1496537
+공고명: Samsung Convergence SW Academy 모집
+기업명: 삼성에스디에스
+고용형태: 정규직
+경력: 신입
+학력: 대졸이상 (졸업예정자 가능)
+직무: SCSA
+근무지역: 서울 송파구 올림픽로35길 125 (신천동, 삼성SDS)
+접수 시작일: 2026-09-08
+마감일: 2026-09-15
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49946768","company_id":"company/1496537","title":"Samsung Convergence SW Academy 모집","company_name":"삼성에스디에스","employment_type":"정규직","experience":"신입","education":"대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-09-08","start_date":"2026-09-08","end_date":"2026-09-15","role":"SCSA","location":"서울 송파구 올림픽로35길 125 (신천동, 삼성SDS)","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49946768?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1496537/","checked_at":"2026-11-19T23:14:04+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49946811 | 기업 식별자 company/1696583
+공고명: [DS부문] 2026년 하반기 3급 신입사원 채용
+기업명: 삼성전자㈜
+고용형태: 정규직
+경력: 신입
+학력: 대졸이상 (졸업예정자 가능)
+직무: DS부문 3급 신입사원
+근무지역: 경기도 수원시 영통구 삼성로 129 (매탄동) 지도보기 경기도 용인시 기흥구 삼성로 1 (농서동) 지도보기 경기도 화성시 병점구 삼성전자로 1 (반월동) 지도보기 충청남도 아산시 배방읍 배방로 158 지도보기 경기도 평택시 삼성로 114 (고덕동) 지도보기 충청남도 천안시 서북구 번영로 465 (성성동)
+접수 시작일: 2026-09-08
+마감일: 2026-09-15
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49946811","company_id":"company/1696583","title":"[DS부문] 2026년 하반기 3급 신입사원 채용","company_name":"삼성전자㈜","employment_type":"정규직","experience":"신입","education":"대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-09-08","start_date":"2026-09-08","end_date":"2026-09-15","role":"DS부문 3급 신입사원","location":"경기도 수원시 영통구 삼성로 129 (매탄동) 지도보기 경기도 용인시 기흥구 삼성로 1 (농서동) 지도보기 경기도 화성시 병점구 삼성전자로 1 (반월동) 지도보기 충청남도 아산시 배방읍 배방로 158 지도보기 경기도 평택시 삼성로 114 (고덕동) 지도보기 충청남도 천안시 서북구 번영로 465 (성성동)","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49946811?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1696583/","checked_at":"2026-11-19T23:13:50+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49946827 | 기업 식별자 company/1496362
+공고명: 한국산업은행 2026년 3차 청년인턴 채용공고
+기업명: 한국산업은행
+고용형태: 인턴 (계약기간 상세요강 참고)
+경력: 신입·경력
+학력: 학력무관
+직무: 미확인
+근무지역: 서울 영등포구 여의도동 산업은행본점 인사부
+접수 시작일: 2026-09-08
+마감일: 2026-09-22
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49946827","company_id":"company/1496362","title":"한국산업은행 2026년 3차 청년인턴 채용공고","company_name":"한국산업은행","employment_type":"인턴 (계약기간 상세요강 참고)","experience":"신입·경력","education":"학력무관","source_calendar_start_date":"2026-09-08","start_date":"2026-09-08","end_date":"2026-09-22","role":"","location":"서울 영등포구 여의도동 산업은행본점 인사부","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49946827?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1496362/","checked_at":"2026-11-19T23:04:51+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49946869 | 기업 식별자 company/1696583
+공고명: [DX부문] Samsung Convergence SW Academy 모집
+기업명: 삼성전자㈜
+고용형태: 정규직
+경력: 신입
+학력: 대졸이상 (졸업예정자 가능)
+직무: SCSA
+근무지역: 경기도 수원시 영통구 삼성로 129 (매탄동)
+접수 시작일: 2026-09-08
+마감일: 2026-09-15
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49946869","company_id":"company/1696583","title":"[DX부문] Samsung Convergence SW Academy 모집","company_name":"삼성전자㈜","employment_type":"정규직","experience":"신입","education":"대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-09-08","start_date":"2026-09-08","end_date":"2026-09-15","role":"SCSA","location":"경기도 수원시 영통구 삼성로 129 (매탄동)","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49946869?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1696583/","checked_at":"2026-11-19T23:13:43+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49946910 | 기업 식별자 company/1834305
+공고명: 2026년 하반기 3급 신입사원 채용
+기업명: 삼성바이오에피스
+고용형태: 정규직
+경력: 신입
+학력: 대졸이상 (졸업예정자 가능)
+직무: 3급 신입사원
+근무지역: 인천 연수구 송도교육로 76 (송도동, 삼성바이오에피스)
+접수 시작일: 2026-09-08
+마감일: 2026-09-15
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49946910","company_id":"company/1834305","title":"2026년 하반기 3급 신입사원 채용","company_name":"삼성바이오에피스","employment_type":"정규직","experience":"신입","education":"대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-09-08","start_date":"2026-09-08","end_date":"2026-09-15","role":"3급 신입사원","location":"인천 연수구 송도교육로 76 (송도동, 삼성바이오에피스)","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49946910?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1834305/","checked_at":"2026-11-19T23:04:12+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49946936 | 기업 식별자 company/1696583
+공고명: [DS부문] Samsung Convergence SW Academy 모집
+기업명: 삼성전자㈜
+고용형태: 정규직
+경력: 신입
+학력: 대졸이상 (졸업예정자 가능)
+직무: SCSA
+근무지역: 경기도 용인시 기흥구 삼성로 1 (농서동) 지도보기 경기도 화성시 병점구 삼성전자로 1 (반월동) 지도보기 경기도 수원시 영통구 삼성로 129 (매탄동) 지도보기 충청남도 아산시 배방읍 배방로 158 지도보기 경기도 평택시 삼성로 114 (고덕동) 지도보기 충청남도 천안시 서북구 번영로 465 (성성동)
+접수 시작일: 2026-09-08
+마감일: 2026-09-15
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49946936","company_id":"company/1696583","title":"[DS부문] Samsung Convergence SW Academy 모집","company_name":"삼성전자㈜","employment_type":"정규직","experience":"신입","education":"대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-09-08","start_date":"2026-09-08","end_date":"2026-09-15","role":"SCSA","location":"경기도 용인시 기흥구 삼성로 1 (농서동) 지도보기 경기도 화성시 병점구 삼성전자로 1 (반월동) 지도보기 경기도 수원시 영통구 삼성로 129 (매탄동) 지도보기 충청남도 아산시 배방읍 배방로 158 지도보기 경기도 평택시 삼성로 114 (고덕동) 지도보기 충청남도 천안시 서북구 번영로 465 (성성동)","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49946936?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1696583/","checked_at":"2026-11-19T23:13:36+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49947027 | 기업 식별자 company/1696583
+공고명: [DX Division] Full-time opportunity for international students
+기업명: 삼성전자㈜
+고용형태: 정규직
+경력: 신입
+학력: 대졸이상 (졸업예정자 가능)
+직무: DX Division
+근무지역: 경기도 수원시 영통구 삼성로 129 (매탄동)
+접수 시작일: 2026-09-08
+마감일: 2026-09-15
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49947027","company_id":"company/1696583","title":"[DX Division] Full-time opportunity for international students","company_name":"삼성전자㈜","employment_type":"정규직","experience":"신입","education":"대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-09-08","start_date":"2026-09-08","end_date":"2026-09-15","role":"DX Division","location":"경기도 수원시 영통구 삼성로 129 (매탄동)","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49947027?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1696583/","checked_at":"2026-11-19T23:13:29+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49947225 | 기업 식별자 company/1979858
+공고명: 2026년 하반기 3급 신입사원 채용
+기업명: 삼성카드
+고용형태: 정규직
+경력: 신입
+학력: 대졸이상 (졸업예정자 가능)
+직무: 3급 신입사원
+근무지역: 미확인
+접수 시작일: 2026-09-08
+마감일: 2026-09-15
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49947225","company_id":"company/1979858","title":"2026년 하반기 3급 신입사원 채용","company_name":"삼성카드","employment_type":"정규직","experience":"신입","education":"대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-09-08","start_date":"2026-09-08","end_date":"2026-09-15","role":"3급 신입사원","location":"","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49947225?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1979858/","checked_at":"2026-11-19T23:04:28+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49948925 | 기업 식별자 company/1459131
+공고명: 2026 R&D Engineering Talent Pool (9 positions)
+기업명: 지이헬스케어코리아㈜
+고용형태: 정규직
+경력: 신입·경력 (직무별 상이 / 상세요강 참고)
+학력: 학력무관 (직무별 상이 / 상세요강 참고)
+직무: 미확인
+근무지역: 경기 성남시 중원구 순환로214번길 9 (상대원동, GE 헬스케어)
+접수 시작일: 2026-09-08
+마감일: 2026-09-14
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49948925","company_id":"company/1459131","title":"2026 R&D Engineering Talent Pool (9 positions)","company_name":"지이헬스케어코리아㈜","employment_type":"정규직","experience":"신입·경력 (직무별 상이 / 상세요강 참고)","education":"학력무관 (직무별 상이 / 상세요강 참고)","source_calendar_start_date":"2026-09-08","start_date":"2026-09-08","end_date":"2026-09-14","role":"","location":"경기 성남시 중원구 순환로214번길 9 (상대원동, GE 헬스케어)","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49948925?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1459131/","checked_at":"2026-11-19T23:04:36+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49946623 | 기업 식별자 미확인
+공고명: HJ중공업 경력사원 모집
+기업명: (주)에이치제이중공업
+고용형태: 미확인
+경력: 미확인
+학력: 미확인
+직무: 미확인
+근무지역: 미확인
+접수 시작일: 미확인
+마감일: 미확인
+모집상태: 미확인
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 보류, 캘린더 값만 확인
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49946623","company_id":"","title":"HJ중공업 경력사원 모집","company_name":"(주)에이치제이중공업","employment_type":"","experience":"","education":"","source_calendar_start_date":"2026-09-09","start_date":"","end_date":"","role":"","location":"","status":"unknown","source_status":"","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49946623?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"","checked_at":"","detail_available":false}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49967523 | 기업 식별자 company/1810241
+공고명: 2026년 9월 집중채용 (신입/경력)
+기업명: ㈜아이디스
+고용형태: 정규직
+경력: 신입·경력 (직무별 상이 / 상세요강 참조)
+학력: 고졸이상 (직무별상이 / 상세요강 참조)
+직무: 미확인
+근무지역: 경기 성남시 분당구 삼평동 688-1
+접수 시작일: 2026-09-11
+마감일: 2026-09-21
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49967523","company_id":"company/1810241","title":"2026년 9월 집중채용 (신입/경력)","company_name":"㈜아이디스","employment_type":"정규직","experience":"신입·경력 (직무별 상이 / 상세요강 참조)","education":"고졸이상 (직무별상이 / 상세요강 참조)","source_calendar_start_date":"2026-09-11","start_date":"2026-09-11","end_date":"2026-09-21","role":"","location":"경기 성남시 분당구 삼평동 688-1","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49967523?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1810241/","checked_at":"2026-11-19T23:05:14+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49976888 | 기업 식별자 company/1737097
+공고명: [NAVER Cloud 자회사] NIT Service 2026 각 부문 채용
+기업명: 엔아이티서비스㈜
+고용형태: 정규직 (수습 3개월)
+경력: 신입·경력 (* 직무별 상이 / 상세요강 참조)
+학력: 학력무관
+직무: 미확인
+근무지역: 경기 성남시 분당구 분당로 55 (서현동, 분당 퍼스트타워) 2층
+접수 시작일: 2026-09-14
+마감일: 2026-09-23
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49976888","company_id":"company/1737097","title":"[NAVER Cloud 자회사] NIT Service 2026 각 부문 채용","company_name":"엔아이티서비스㈜","employment_type":"정규직 (수습 3개월)","experience":"신입·경력 (* 직무별 상이 / 상세요강 참조)","education":"학력무관","source_calendar_start_date":"2026-09-14","start_date":"2026-09-14","end_date":"2026-09-23","role":"","location":"경기 성남시 분당구 분당로 55 (서현동, 분당 퍼스트타워) 2층","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49976888?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1737097/","checked_at":"2026-11-19T23:05:20+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49955336 | 기업 식별자 company/49772181
+공고명: 2026년 로젠㈜ 채용 모집
+기업명: 로젠
+고용형태: 정규직 (수습 3개월) , 계약직 (근무기간 1년)
+경력: 신입·경력 (3년이상, 직무별 상이, 상세요강 참고)
+학력: 고졸이상 (졸업예정자 가능, 직무별 상이, 상세요강 참고)
+직무: 고객서비스팀, 정보전략팀, 정보보호실, 회계팀, 영업지원팀, 시설관리팀_경기도 부천, 시설관리팀_경기도 이천
+근무지역: 경기 성남시 수정구 창업로57번길 7 (시흥동) 모다이노칩빌딩
+접수 시작일: 2026-09-15
+마감일: 2026-09-28
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49955336","company_id":"company/49772181","title":"2026년 로젠㈜ 채용 모집","company_name":"로젠","employment_type":"정규직 (수습 3개월) , 계약직 (근무기간 1년)","experience":"신입·경력 (3년이상, 직무별 상이, 상세요강 참고)","education":"고졸이상 (졸업예정자 가능, 직무별 상이, 상세요강 참고)","source_calendar_start_date":"2026-09-15","start_date":"2026-09-15","end_date":"2026-09-28","role":"고객서비스팀, 정보전략팀, 정보보호실, 회계팀, 영업지원팀, 시설관리팀_경기도 부천, 시설관리팀_경기도 이천","location":"경기 성남시 수정구 창업로57번길 7 (시흥동) 모다이노칩빌딩","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49955336?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/49772181/","checked_at":"2026-11-19T23:05:28+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49994947 | 기업 식별자 company/1683359
+공고명: ㈜유영제약 2026 하반기 부문별 채용
+기업명: ㈜유영제약
+고용형태: 정규직
+경력: 신입·경력 (직무별 상이, 상세요강 참고)
+학력: 학력무관 (직무별 상이, 상세요강 참고)
+직무: 미확인
+근무지역: 서울 서초구 효령로 93 (방배동, 유영제약) 유영빌딩 지도보기 서울 구로구 디지털로31길 38-21 (구로동, 이앤씨벤처드림타워3차) 지도보기 대구 수성구 시지동 579-1 라온하제 지도보기 경남 창원시 마산회원구 내서읍 호계리 494 학원 2층 지도보기 경기 화성시 동탄구 동탄영천로 101 (영천동) 서영아너시티 12층 1201호 지도보기 전북 전주시 덕진구 만성동 1366-1 506호 지도보기 대전 대덕구 송촌동 447-5 한빛빌딩
+접수 시작일: 2026-09-16
+마감일: 2026-09-20
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49994947","company_id":"company/1683359","title":"㈜유영제약 2026 하반기 부문별 채용","company_name":"㈜유영제약","employment_type":"정규직","experience":"신입·경력 (직무별 상이, 상세요강 참고)","education":"학력무관 (직무별 상이, 상세요강 참고)","source_calendar_start_date":"2026-09-16","start_date":"2026-09-16","end_date":"2026-09-20","role":"","location":"서울 서초구 효령로 93 (방배동, 유영제약) 유영빌딩 지도보기 서울 구로구 디지털로31길 38-21 (구로동, 이앤씨벤처드림타워3차) 지도보기 대구 수성구 시지동 579-1 라온하제 지도보기 경남 창원시 마산회원구 내서읍 호계리 494 학원 2층 지도보기 경기 화성시 동탄구 동탄영천로 101 (영천동) 서영아너시티 12층 1201호 지도보기 전북 전주시 덕진구 만성동 1366-1 506호 지도보기 대전 대덕구 송촌동 447-5 한빛빌딩","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49994947?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1683359/","checked_at":"2026-11-19T23:05:51+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49999979 | 기업 식별자 company/16154114
+공고명: 2026년 하반기 신입/경력 인재 채용
+기업명: 메가스터디교육㈜
+고용형태: 정규직
+경력: 신입·경력 (직무별 상이, 상세요강 참고)
+학력: 대졸이상
+직무: 미확인
+근무지역: 서울 서초구 효령로 321 (서초동, 메가스터디) 메가스터디교육 본사 지도보기 서울특별시 서초구 반포대로12길 41 (서초동) R타워 지도보기 서울 서초구 반포대로14길 42 (서초동, 하이앤드타워) 하이앤드타워 4층
+접수 시작일: 2026-09-16
+마감일: 2026-09-28
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49999979","company_id":"company/16154114","title":"2026년 하반기 신입/경력 인재 채용","company_name":"메가스터디교육㈜","employment_type":"정규직","experience":"신입·경력 (직무별 상이, 상세요강 참고)","education":"대졸이상","source_calendar_start_date":"2026-09-16","start_date":"2026-09-16","end_date":"2026-09-28","role":"","location":"서울 서초구 효령로 321 (서초동, 메가스터디) 메가스터디교육 본사 지도보기 서울특별시 서초구 반포대로12길 41 (서초동) R타워 지도보기 서울 서초구 반포대로14길 42 (서초동, 하이앤드타워) 하이앤드타워 4층","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49999979?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/16154114/","checked_at":"2026-11-19T23:05:43+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50003768 | 기업 식별자 company/1791771
+공고명: 2026 현대위아 석/박사 연구장학생 모집
+기업명: 현대위아㈜
+고용형태: 정규직
+경력: 신입·경력 (분야별 상이)
+학력: 대졸이상 (모집부분 관련 석사/박사 과정 재학생 ※ 선발시점 기준 졸업 전 잔여학기 2학기 이상('28년 이후 졸업예정자, 학위취득 기준))
+직무: 미확인
+근무지역: 경기 의왕시 철도박물관로 37 (삼동, 현대자동차그룹의왕연구소)
+접수 시작일: 2026-09-16
+마감일: 2026-09-28
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50003768","company_id":"company/1791771","title":"2026 현대위아 석/박사 연구장학생 모집","company_name":"현대위아㈜","employment_type":"정규직","experience":"신입·경력 (분야별 상이)","education":"대졸이상 (모집부분 관련 석사/박사 과정 재학생 ※ 선발시점 기준 졸업 전 잔여학기 2학기 이상('28년 이후 졸업예정자, 학위취득 기준))","source_calendar_start_date":"2026-09-16","start_date":"2026-09-16","end_date":"2026-09-28","role":"","location":"경기 의왕시 철도박물관로 37 (삼동, 현대자동차그룹의왕연구소)","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50003768?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1791771/","checked_at":"2026-11-19T23:05:35+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50018126 | 기업 식별자 company/1747282
+공고명: 2026년 하반기 Proactive Leaders 신입 채용 [R&D]
+기업명: 한국타이어앤테크놀로지(주)
+고용형태: 정규직
+경력: 신입
+학력: 대졸이상 (졸업예정자 가능)
+직무: 미확인
+근무지역: 대전 유성구 유성대로935번길 50 (죽동, 한국타이어중앙연구소) 한국타이어앤테크놀로지 테크노돔
+접수 시작일: 2026-09-18
+마감일: 2026-09-27
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50018126","company_id":"company/1747282","title":"2026년 하반기 Proactive Leaders 신입 채용 [R&D]","company_name":"한국타이어앤테크놀로지(주)","employment_type":"정규직","experience":"신입","education":"대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-09-18","start_date":"2026-09-18","end_date":"2026-09-27","role":"","location":"대전 유성구 유성대로935번길 50 (죽동, 한국타이어중앙연구소) 한국타이어앤테크놀로지 테크노돔","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50018126?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1747282/","checked_at":"2026-11-19T23:05:58+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49993486 | 기업 식별자 company/1467678
+공고명: 2026년 하반기 채용연계형 인턴 / 경력 수시채용
+기업명: ㈜케이아이엔엑스
+고용형태: 정규직 , 인턴 (근무기간 3개월, 정규직 전환 가능)
+경력: 신입·경력 (2년이상, 직무별 상이 / 상세요강 참조)
+학력: 학력무관 (인턴 : 대졸 이상 / 경력 : 무관)
+직무: 미확인
+근무지역: 경기 과천시 과천대로7나길 34 (갈현동, 가비아컨소시엄사옥) 4층
+접수 시작일: 2026-09-21
+마감일: 2026-10-05
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49993486","company_id":"company/1467678","title":"2026년 하반기 채용연계형 인턴 / 경력 수시채용","company_name":"㈜케이아이엔엑스","employment_type":"정규직 , 인턴 (근무기간 3개월, 정규직 전환 가능)","experience":"신입·경력 (2년이상, 직무별 상이 / 상세요강 참조)","education":"학력무관 (인턴 : 대졸 이상 / 경력 : 무관)","source_calendar_start_date":"2026-09-21","start_date":"2026-09-21","end_date":"2026-10-05","role":"","location":"경기 과천시 과천대로7나길 34 (갈현동, 가비아컨소시엄사옥) 4층","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49993486?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1467678/","checked_at":"2026-11-19T23:06:11+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50030359 | 기업 식별자 company/1793161
+공고명: [슈어소프트테크] 2026 하반기 경력 채용
+기업명: 슈어소프트테크㈜
+고용형태: 정규직
+경력: 신입·경력 (1년이상, 직무별 상이, 상세요강 참고 (경력 1년 이상~8년이하))
+학력: 학력무관 (직무별 상이)
+직무: SDx 개발실_판교, SDx 개발실_대전, 모빌리티솔루션실, 우주항공국방기술실_대전, (마감)E-모빌리티시스템실, (마감)모빌리티솔루션5팀_계약직, (마감)모빌리티SW전략2팀_(정규직/계약직), (마감)AI모델검증솔루션팀, E2E검증솔루션팀, AX사업개발1팀_판교, AX사업개발1팀_대전, AX사업개발2팀_판교, AX사업개발2팀_대전, (마감)피플팀, 사이버보안 검증팀
+근무지역: 경기도 화성시 만세구 남양읍 현대연구소로 150 지도보기 경기 성남시 수정구 금토로80번길 37 (금토동) 인피니티타워 E동 지도보기 대전광역시 유성구 가정로 218 (가정동) ETRI 융합기술연구생산센터 409호
+접수 시작일: 2026-09-21
+마감일: 2026-10-22
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50030359","company_id":"company/1793161","title":"[슈어소프트테크] 2026 하반기 경력 채용","company_name":"슈어소프트테크㈜","employment_type":"정규직","experience":"신입·경력 (1년이상, 직무별 상이, 상세요강 참고 (경력 1년 이상~8년이하))","education":"학력무관 (직무별 상이)","source_calendar_start_date":"2026-09-21","start_date":"2026-09-21","end_date":"2026-10-22","role":"SDx 개발실_판교, SDx 개발실_대전, 모빌리티솔루션실, 우주항공국방기술실_대전, (마감)E-모빌리티시스템실, (마감)모빌리티솔루션5팀_계약직, (마감)모빌리티SW전략2팀_(정규직/계약직), (마감)AI모델검증솔루션팀, E2E검증솔루션팀, AX사업개발1팀_판교, AX사업개발1팀_대전, AX사업개발2팀_판교, AX사업개발2팀_대전, (마감)피플팀, 사이버보안 검증팀","location":"경기도 화성시 만세구 남양읍 현대연구소로 150 지도보기 경기 성남시 수정구 금토로80번길 37 (금토동) 인피니티타워 E동 지도보기 대전광역시 유성구 가정로 218 (가정동) ETRI 융합기술연구생산센터 409호","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50030359?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1793161/","checked_at":"2026-11-19T23:06:05+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50033235 | 기업 식별자 company/16153875
+공고명: 2026년 서강대학교 정규직 신입직원 채용 공고
+기업명: 서강대학교
+고용형태: 정규직 (12주 수습 임용)
+경력: 신입·경력 (직무별 상이 / 상세요강 참고)
+학력: 대졸이상 (졸업예정자 가능, 상세요강 참고)
+직무: 미확인
+근무지역: 서울 마포구 신수동 서강대학교 본관 102호 인사총무팀
+접수 시작일: 2026-09-22
+마감일: 2026-10-06
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50033235","company_id":"company/16153875","title":"2026년 서강대학교 정규직 신입직원 채용 공고","company_name":"서강대학교","employment_type":"정규직 (12주 수습 임용)","experience":"신입·경력 (직무별 상이 / 상세요강 참고)","education":"대졸이상 (졸업예정자 가능, 상세요강 참고)","source_calendar_start_date":"2026-09-22","start_date":"2026-09-22","end_date":"2026-10-06","role":"","location":"서울 마포구 신수동 서강대학교 본관 102호 인사총무팀","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50033235?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/16153875/","checked_at":"2026-11-19T23:06:18+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50044370 | 기업 식별자 company/1342982
+공고명: 희성촉매㈜ 신입/경력사원 채용 공고
+기업명: 희성촉매㈜
+고용형태: 정규직 (수습 3개월, 수습평가를 통해 최종 채용을 확정함.) , 계약직 (근무기간 6개월, 정규직 전환 가능, 6개월 단위로 1년 근무 후 평가 결과에 따라 정규직 전환 / 상세요강 참조)
+경력: 신입·경력 (직무별 상이 / 상세요강 참조)
+학력: 고졸이상 (직무별 상이 / 상세요강 참조)
+직무: 미확인
+근무지역: 경기 시흥시 소망공원로 91 (정왕동, 희성촉매(주)) 희성촉매 주식회사
+접수 시작일: 2026-09-28
+마감일: 2026-10-11
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50044370","company_id":"company/1342982","title":"희성촉매㈜ 신입/경력사원 채용 공고","company_name":"희성촉매㈜","employment_type":"정규직 (수습 3개월, 수습평가를 통해 최종 채용을 확정함.) , 계약직 (근무기간 6개월, 정규직 전환 가능, 6개월 단위로 1년 근무 후 평가 결과에 따라 정규직 전환 / 상세요강 참조)","experience":"신입·경력 (직무별 상이 / 상세요강 참조)","education":"고졸이상 (직무별 상이 / 상세요강 참조)","source_calendar_start_date":"2026-09-28","start_date":"2026-09-28","end_date":"2026-10-11","role":"","location":"경기 시흥시 소망공원로 91 (정왕동, 희성촉매(주)) 희성촉매 주식회사","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50044370?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1342982/","checked_at":"2026-11-19T23:06:24+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50059581 | 기업 식별자 company/1988732
+공고명: JB주식회사(구 중부도시가스) 2026년 하반기 신입/경력 채용
+기업명: 제이비㈜
+고용형태: 정규직 (수습 3개월)
+경력: 신입·경력 (1년이상)
+학력: 대졸이상 (졸업예정자 가능)
+직무: 도시가스 안전관리, 세무/회계, AI인공지능
+근무지역: 충남 아산시 음봉면 산동안길 14 (산동리) 제이비(주)
+접수 시작일: 2026-09-28
+마감일: 2026-09-30
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50059581","company_id":"company/1988732","title":"JB주식회사(구 중부도시가스) 2026년 하반기 신입/경력 채용","company_name":"제이비㈜","employment_type":"정규직 (수습 3개월)","experience":"신입·경력 (1년이상)","education":"대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-09-28","start_date":"2026-09-28","end_date":"2026-09-30","role":"도시가스 안전관리, 세무/회계, AI인공지능","location":"충남 아산시 음봉면 산동안길 14 (산동리) 제이비(주)","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50059581?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1988732/","checked_at":"2026-11-19T23:06:30+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50070191 | 기업 식별자 company/1919579
+공고명: 각 부문 신입/경력사원 채용
+기업명: 능원금속공업㈜
+고용형태: 정규직 (시용기간 3개월)
+경력: 신입·경력 (직무별 상이, 상세요강 참고)
+학력: 학력무관 (직무별 상이, 상세요강 참고)
+직무: 서울사무소 해외영업팀, 생산팀 생산파트_관리/운영, 전산팀_전산장비/서버관리, 전산팀_시스템 개발/운영, 생산팀 압출파트_관리/운영
+근무지역: 서울 동대문구 청계천로 431 (신설동, SK주유소) 지도보기 경기 양주시 은현면 그루고개로 366 (도하리)
+접수 시작일: 2026-09-29
+마감일: 2026-11-28
+모집상태: 미확인
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50070191","company_id":"company/1919579","title":"각 부문 신입/경력사원 채용","company_name":"능원금속공업㈜","employment_type":"정규직 (시용기간 3개월)","experience":"신입·경력 (직무별 상이, 상세요강 참고)","education":"학력무관 (직무별 상이, 상세요강 참고)","source_calendar_start_date":"2026-09-29","start_date":"2026-09-29","end_date":"2026-11-28","role":"서울사무소 해외영업팀, 생산팀 생산파트_관리/운영, 전산팀_전산장비/서버관리, 전산팀_시스템 개발/운영, 생산팀 압출파트_관리/운영","location":"서울 동대문구 청계천로 431 (신설동, SK주유소) 지도보기 경기 양주시 은현면 그루고개로 366 (도하리)","status":"unknown","source_status":"","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50070191?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1919579/","checked_at":"2026-11-19T23:06:38+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50065015 | 기업 식별자 company/1793161
+공고명: 2027 슈어소프트테크 신입사원 공개채용
+기업명: 슈어소프트테크㈜
+고용형태: 정규직
+경력: 신입
+학력: 학력무관
+직무: 미확인
+근무지역: 경기 성남시 수정구 금토로80번길 37 (금토동) 인피니티타워 E동 지도보기 대전광역시 유성구 가정로 218 (가정동) ETRI 융합기술연구생산센터 409호
+접수 시작일: 2026-10-01
+마감일: 2026-10-20
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50065015","company_id":"company/1793161","title":"2027 슈어소프트테크 신입사원 공개채용","company_name":"슈어소프트테크㈜","employment_type":"정규직","experience":"신입","education":"학력무관","source_calendar_start_date":"2026-10-01","start_date":"2026-10-01","end_date":"2026-10-20","role":"","location":"경기 성남시 수정구 금토로80번길 37 (금토동) 인피니티타워 E동 지도보기 대전광역시 유성구 가정로 218 (가정동) ETRI 융합기술연구생산센터 409호","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50065015?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1793161/","checked_at":"2026-11-19T23:06:52+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50073512 | 기업 식별자 company/45212325
+공고명: ㈜솔탑 2026년도 위성/항공/경영 분야 신입/경력 채용
+기업명: 솔탑
+고용형태: 정규직
+경력: 신입·경력 (직무별 상이, 상세요강 참고)
+학력: 학력무관 (직무별 상이, 상세요강 참고)
+직무: 응용 소프트웨어 개발1, 응용 소프트웨어 개발2, 응용 소프트웨어 개발3, 하드웨어 엔지니어, .Net 개발자, 품질보증 및 품질관리, 콘솔 조립체 제작 및 생산 조립, 인사기획 및 노무관리
+근무지역: 세종 집현중앙2로 7 (집현동) 솔탑 지도보기 대전 유성구 엑스포로 409 (문지동)
+접수 시작일: 2026-10-01
+마감일: 2026-10-30
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50073512","company_id":"company/45212325","title":"㈜솔탑 2026년도 위성/항공/경영 분야 신입/경력 채용","company_name":"솔탑","employment_type":"정규직","experience":"신입·경력 (직무별 상이, 상세요강 참고)","education":"학력무관 (직무별 상이, 상세요강 참고)","source_calendar_start_date":"2026-10-01","start_date":"2026-10-01","end_date":"2026-10-30","role":"응용 소프트웨어 개발1, 응용 소프트웨어 개발2, 응용 소프트웨어 개발3, 하드웨어 엔지니어, .Net 개발자, 품질보증 및 품질관리, 콘솔 조립체 제작 및 생산 조립, 인사기획 및 노무관리","location":"세종 집현중앙2로 7 (집현동) 솔탑 지도보기 대전 유성구 엑스포로 409 (문지동)","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50073512?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/45212325/","checked_at":"2026-11-19T23:06:44+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50083361 | 기업 식별자 company/1798146
+공고명: 2026년 하반기 웹젠 채용연계형 인턴십
+기업명: ㈜웹젠
+고용형태: 인턴 (근무기간 6개월, 정규직 전환 가능)
+경력: 경력무관
+학력: 학력무관
+직무: 미확인
+근무지역: 경기 성남시 분당구 판교로 242 (삼평동) 판교디지털센터 B동
+접수 시작일: 2026-10-02
+마감일: 2026-10-19
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50083361","company_id":"company/1798146","title":"2026년 하반기 웹젠 채용연계형 인턴십","company_name":"㈜웹젠","employment_type":"인턴 (근무기간 6개월, 정규직 전환 가능)","experience":"경력무관","education":"학력무관","source_calendar_start_date":"2026-10-02","start_date":"2026-10-02","end_date":"2026-10-19","role":"","location":"경기 성남시 분당구 판교로 242 (삼평동) 판교디지털센터 B동","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50083361?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1798146/","checked_at":"2026-11-19T23:07:15+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50095529 | 기업 식별자 company/1649290
+공고명: [안랩] 2026년 10월 신입/경력 채용
+기업명: ㈜안랩
+고용형태: 정규직
+경력: 신입·경력 (직무별 상이 / 상세요강 참조)
+학력: 대졸이상 (상세요강 참조)
+직무: 미확인
+근무지역: 경기 성남시 분당구 판교역로 220 (삼평동, 안랩,쏠리드) 안랩 지도보기 경기도 과천시 과천대로7길 20 (갈현동) 8층 안랩클라우드메이트
+접수 시작일: 2026-10-02
+마감일: 2026-10-11
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50095529","company_id":"company/1649290","title":"[안랩] 2026년 10월 신입/경력 채용","company_name":"㈜안랩","employment_type":"정규직","experience":"신입·경력 (직무별 상이 / 상세요강 참조)","education":"대졸이상 (상세요강 참조)","source_calendar_start_date":"2026-10-02","start_date":"2026-10-02","end_date":"2026-10-11","role":"","location":"경기 성남시 분당구 판교역로 220 (삼평동, 안랩,쏠리드) 안랩 지도보기 경기도 과천시 과천대로7길 20 (갈현동) 8층 안랩클라우드메이트","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50095529?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1649290/","checked_at":"2026-11-19T23:07:07+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50099568 | 기업 식별자 company/1423432
+공고명: 모나미 부문별 채용
+기업명: ㈜모나미
+고용형태: 정규직
+경력: 신입·경력 (직무별 상이 / 상세요강 참조)
+학력: 초대졸이상 (직무별 상이 / 상세요강 참조)
+직무: 디자인팀_코스메틱 용기/몰드 개발, IT운영팀 ERP, TQM팀 QA파트, TQM팀 설계 파트
+근무지역: 경기 용인시 수지구 손곡로 17 (동천동) ㈜모나미 빌딩
+접수 시작일: 2026-10-02
+마감일: 2026-10-11
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50099568","company_id":"company/1423432","title":"모나미 부문별 채용","company_name":"㈜모나미","employment_type":"정규직","experience":"신입·경력 (직무별 상이 / 상세요강 참조)","education":"초대졸이상 (직무별 상이 / 상세요강 참조)","source_calendar_start_date":"2026-10-02","start_date":"2026-10-02","end_date":"2026-10-11","role":"디자인팀_코스메틱 용기/몰드 개발, IT운영팀 ERP, TQM팀 QA파트, TQM팀 설계 파트","location":"경기 용인시 수지구 손곡로 17 (동천동) ㈜모나미 빌딩","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50099568?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1423432/","checked_at":"2026-11-19T23:06:59+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50102811 | 기업 식별자 company/1890347
+공고명: 2026년 10월 월간채용(신입/경력) - 개발(C, AI)
+기업명: ㈜윈스테크넷
+고용형태: 정규직 (수습 2개월)
+경력: 신입·경력
+학력: 대졸이상 (졸업예정자 가능)
+직무: AI 개발자
+근무지역: 경기 성남시 분당구 판교로228번길 15 (삼평동, 판교세븐벤처밸리1) 윈스동 4층
+접수 시작일: 2026-10-02
+마감일: 2026-10-18
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50102811","company_id":"company/1890347","title":"2026년 10월 월간채용(신입/경력) - 개발(C, AI)","company_name":"㈜윈스테크넷","employment_type":"정규직 (수습 2개월)","experience":"신입·경력","education":"대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-10-02","start_date":"2026-10-02","end_date":"2026-10-18","role":"AI 개발자","location":"경기 성남시 분당구 판교로228번길 15 (삼평동, 판교세븐벤처밸리1) 윈스동 4층","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50102811?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1890347/","checked_at":"2026-11-19T23:14:37+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50102852 | 기업 식별자 company/1890347
+공고명: 2026년 10월 월간채용(신입/경력) - 영업(IT, 클라우드)
+기업명: ㈜윈스테크넷
+고용형태: 정규직 (수습 2개월)
+경력: 신입·경력
+학력: 초대졸이상 (졸업예정자 가능)
+직무: it영업
+근무지역: 경기 성남시 분당구 판교로228번길 15 (삼평동, 판교세븐벤처밸리1) 윈스동 4층
+접수 시작일: 2026-10-02
+마감일: 2026-10-18
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50102852","company_id":"company/1890347","title":"2026년 10월 월간채용(신입/경력) - 영업(IT, 클라우드)","company_name":"㈜윈스테크넷","employment_type":"정규직 (수습 2개월)","experience":"신입·경력","education":"초대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-10-02","start_date":"2026-10-02","end_date":"2026-10-18","role":"it영업","location":"경기 성남시 분당구 판교로228번길 15 (삼평동, 판교세븐벤처밸리1) 윈스동 4층","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50102852?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1890347/","checked_at":"2026-11-19T23:14:30+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50102948 | 기업 식별자 company/1890347
+공고명: 2026년 10월 월간채용(신입/경력) - 정보보안 및 클라우드
+기업명: ㈜윈스테크넷
+고용형태: 정규직 (수습 2개월)
+경력: 신입·경력
+학력: 초대졸이상 (졸업예정자 가능)
+직무: 보안 엔지니어
+근무지역: 경기 성남시 분당구 판교로228번길 15 (삼평동, 판교세븐벤처밸리1) 윈스동 4층
+접수 시작일: 2026-10-02
+마감일: 2026-10-18
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50102948","company_id":"company/1890347","title":"2026년 10월 월간채용(신입/경력) - 정보보안 및 클라우드","company_name":"㈜윈스테크넷","employment_type":"정규직 (수습 2개월)","experience":"신입·경력","education":"초대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-10-02","start_date":"2026-10-02","end_date":"2026-10-18","role":"보안 엔지니어","location":"경기 성남시 분당구 판교로228번길 15 (삼평동, 판교세븐벤처밸리1) 윈스동 4층","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50102948?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1890347/","checked_at":"2026-11-19T23:14:23+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50090303 | 기업 식별자 company/42946037
+공고명: 2026년 4분기 동광제약 신입 및 경력사원 채용공고
+기업명: 동광제약
+고용형태: 정규직 (수습 3개월)
+경력: 신입·경력 (직무 별 상이 / 상세요강 참조)
+학력: 학력무관 (직무별 상이 / 상세요강 참조)
+직무: 미확인
+근무지역: 서울 중구 퇴계로 97 (충무로1가, 고려대연각타워) 12F
+접수 시작일: 2026-10-06
+마감일: 2026-10-18
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50090303","company_id":"company/42946037","title":"2026년 4분기 동광제약 신입 및 경력사원 채용공고","company_name":"동광제약","employment_type":"정규직 (수습 3개월)","experience":"신입·경력 (직무 별 상이 / 상세요강 참조)","education":"학력무관 (직무별 상이 / 상세요강 참조)","source_calendar_start_date":"2026-10-06","start_date":"2026-10-06","end_date":"2026-10-18","role":"","location":"서울 중구 퇴계로 97 (충무로1가, 고려대연각타워) 12F","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50090303?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/42946037/","checked_at":"2026-11-19T23:07:28+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50113841 | 기업 식별자 company/1942890
+공고명: 경보제약 신입/경력 수시 채용
+기업명: ㈜경보제약
+고용형태: 정규직 , 계약직 (상세요강 참고)
+경력: 신입·경력 (직무별 상이, 상세요강 참고)
+학력: 학력무관 (* 직무별상이 / 상세요강 참조)
+직무: 미확인
+근무지역: 충남 아산시 실옥동 345-6
+접수 시작일: 2026-10-06
+마감일: 2026-10-25
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50113841","company_id":"company/1942890","title":"경보제약 신입/경력 수시 채용","company_name":"㈜경보제약","employment_type":"정규직 , 계약직 (상세요강 참고)","experience":"신입·경력 (직무별 상이, 상세요강 참고)","education":"학력무관 (* 직무별상이 / 상세요강 참조)","source_calendar_start_date":"2026-10-06","start_date":"2026-10-06","end_date":"2026-10-25","role":"","location":"충남 아산시 실옥동 345-6","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50113841?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1942890/","checked_at":"2026-11-19T23:07:34+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50116246 | 기업 식별자 company/1956726
+공고명: [LT메탈] 신입/경력사원 수시채용
+기업명: LT메탈
+고용형태: 정규직 (상세요강 참고)
+경력: 신입·경력 (직무별 상이, 상세요강 참고)
+학력: 초대졸이상 (직무별 상이 / 상세요강 참고)
+직무: 미확인
+근무지역: 인천 서구 가재울로 14 (가좌동, 희성금속) LT메탈 주안공장
+접수 시작일: 2026-10-06
+마감일: 2026-10-20
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50116246","company_id":"company/1956726","title":"[LT메탈] 신입/경력사원 수시채용","company_name":"LT메탈","employment_type":"정규직 (상세요강 참고)","experience":"신입·경력 (직무별 상이, 상세요강 참고)","education":"초대졸이상 (직무별 상이 / 상세요강 참고)","source_calendar_start_date":"2026-10-06","start_date":"2026-10-06","end_date":"2026-10-20","role":"","location":"인천 서구 가재울로 14 (가좌동, 희성금속) LT메탈 주안공장","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50116246?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1956726/","checked_at":"2026-11-19T23:07:21+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50129646 | 기업 식별자 company/1691137
+공고명: [HL클레무브] 2026년 10월 신입/경력 채용 (R&D, HR, 구매)
+기업명: HL Klemove
+고용형태: 정규직
+경력: 신입·경력 (2년이상, 직무별 상이 / 상세요강 참고)
+학력: 대졸이상
+직무: 미확인
+근무지역: 인천 연수구 하모니로 224 (송도동, 에이치엘클레무브) 지도보기 경기 성남시 수정구 금토로80번길 21 (금토동, 만도NEXTM교육연구시설)
+접수 시작일: 2026-10-08
+마감일: 2026-10-21
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50129646","company_id":"company/1691137","title":"[HL클레무브] 2026년 10월 신입/경력 채용 (R&D, HR, 구매)","company_name":"HL Klemove","employment_type":"정규직","experience":"신입·경력 (2년이상, 직무별 상이 / 상세요강 참고)","education":"대졸이상","source_calendar_start_date":"2026-10-08","start_date":"2026-10-08","end_date":"2026-10-21","role":"","location":"인천 연수구 하모니로 224 (송도동, 에이치엘클레무브) 지도보기 경기 성남시 수정구 금토로80번길 21 (금토동, 만도NEXTM교육연구시설)","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50129646?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1691137/","checked_at":"2026-11-19T23:07:49+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50134365 | 기업 식별자 company/1399505
+공고명: [kt ds] 2026년 신입사원 공개채용
+기업명: ㈜KT DS
+고용형태: 정규직
+경력: 신입
+학력: 대졸이상 (졸업예정자 가능)
+직무: 미확인
+근무지역: 서울 서초구 효령로 176 (방배동) kt방배빌딩 B동
+접수 시작일: 2026-10-08
+마감일: 2026-10-22
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50134365","company_id":"company/1399505","title":"[kt ds] 2026년 신입사원 공개채용","company_name":"㈜KT DS","employment_type":"정규직","experience":"신입","education":"대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-10-08","start_date":"2026-10-08","end_date":"2026-10-22","role":"","location":"서울 서초구 효령로 176 (방배동) kt방배빌딩 B동","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50134365?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1399505/","checked_at":"2026-11-19T23:07:42+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50135552 | 기업 식별자 company/1399505
+공고명: [kt ds] 2026년 신입사원 공개채용
+기업명: ㈜KT DS
+고용형태: 정규직
+경력: 신입
+학력: 대졸이상 (졸업예정자 가능)
+직무: 미확인
+근무지역: 서울 서초구 효령로 176 (방배동) kt방배빌딩 B동
+접수 시작일: 2026-10-09
+마감일: 2026-10-22
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50135552","company_id":"company/1399505","title":"[kt ds] 2026년 신입사원 공개채용","company_name":"㈜KT DS","employment_type":"정규직","experience":"신입","education":"대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-10-09","start_date":"2026-10-09","end_date":"2026-10-22","role":"","location":"서울 서초구 효령로 176 (방배동) kt방배빌딩 B동","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50135552?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1399505/","checked_at":"2026-11-19T23:07:55+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 49984909 | 기업 식별자 company/1805052
+공고명: 2026년 하반기 이지케어텍 대졸 신입 개발자 채용 (채용연계형 인턴십)
+기업명: 이지케어텍㈜
+고용형태: 인턴 (근무기간 3개월, 정규직 전환 가능)
+경력: 신입
+학력: 학력무관
+직무: 미확인
+근무지역: 서울 중구 퇴계로 307 (광희동1가, 광희빌딩) 4,5,6층 이지케어텍
+접수 시작일: 2026-10-12
+마감일: 2026-10-25
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"49984909","company_id":"company/1805052","title":"2026년 하반기 이지케어텍 대졸 신입 개발자 채용 (채용연계형 인턴십)","company_name":"이지케어텍㈜","employment_type":"인턴 (근무기간 3개월, 정규직 전환 가능)","experience":"신입","education":"학력무관","source_calendar_start_date":"2026-10-12","start_date":"2026-10-12","end_date":"2026-10-25","role":"","location":"서울 중구 퇴계로 307 (광희동1가, 광희빌딩) 4,5,6층 이지케어텍","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/49984909?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1805052/","checked_at":"2026-11-19T23:08:07+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50068950 | 기업 식별자 company/1766917
+공고명: 2026년 하반기 아이센스 신입/경력 대규모 채용
+기업명: ㈜아이센스
+고용형태: 정규직 (수습 3개월)
+경력: 신입·경력 (1년이상, 직무별 상이 / 상세요강 참조)
+학력: 초대졸이상 (졸업예정자 가능, 직무별 상이 / 상세요강 참조)
+직무: 미확인
+근무지역: 서울 서초구 반포대로28길 43 (서초동, 아이센스빌딩)
+접수 시작일: 2026-10-12
+마감일: 2026-11-11
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50068950","company_id":"company/1766917","title":"2026년 하반기 아이센스 신입/경력 대규모 채용","company_name":"㈜아이센스","employment_type":"정규직 (수습 3개월)","experience":"신입·경력 (1년이상, 직무별 상이 / 상세요강 참조)","education":"초대졸이상 (졸업예정자 가능, 직무별 상이 / 상세요강 참조)","source_calendar_start_date":"2026-10-12","start_date":"2026-10-12","end_date":"2026-11-11","role":"","location":"서울 서초구 반포대로28길 43 (서초동, 아이센스빌딩)","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50068950?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1766917/","checked_at":"2026-11-19T23:08:15+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50131735 | 기업 식별자 company/16154619
+공고명: (주)와치텍 하반기 인재 채용
+기업명: ㈜와치텍
+고용형태: 정규직 (수습 3개월)
+경력: 신입·경력
+학력: 대졸이상 (졸업예정자 가능)
+직무: 서버/클라우드 솔루션 엔지니어(신입), 네트워크 솔루션 엔지니어(신입), 고객 장애지원 엔지니어(신입), AI(AIOps) 개발(신입), 사업관리(경력), 경영관리 및 기획(신입), 경영관리 및 기획(경력), 회계/경리(경력), 영업(신입), 영업(경력)
+근무지역: 서울 영등포구 국제금융로8길 11 (여의도동, 대영빌딩) 14층
+접수 시작일: 2026-10-12
+마감일: 2026-10-15
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50131735","company_id":"company/16154619","title":"(주)와치텍 하반기 인재 채용","company_name":"㈜와치텍","employment_type":"정규직 (수습 3개월)","experience":"신입·경력","education":"대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-10-12","start_date":"2026-10-12","end_date":"2026-10-15","role":"서버/클라우드 솔루션 엔지니어(신입), 네트워크 솔루션 엔지니어(신입), 고객 장애지원 엔지니어(신입), AI(AIOps) 개발(신입), 사업관리(경력), 경영관리 및 기획(신입), 경영관리 및 기획(경력), 회계/경리(경력), 영업(신입), 영업(경력)","location":"서울 영등포구 국제금융로8길 11 (여의도동, 대영빌딩) 14층","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50131735?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/16154619/","checked_at":"2026-11-19T23:08:22+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50135173 | 기업 식별자 company/1735751
+공고명: 2026 대한유화 신입/경력사원 공채
+기업명: 대한유화㈜
+고용형태: 정규직
+경력: 신입·경력 (직무별 상이/상세요강 참조)
+학력: 대졸이상 (졸업예정자 가능, 직무별 상이/상세요강 참조)
+직무: 미확인
+근무지역: 서울 종로구 자하문로 77 (옥인동, 유남빌딩)
+접수 시작일: 2026-10-12
+마감일: 2026-10-19
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50135173","company_id":"company/1735751","title":"2026 대한유화 신입/경력사원 공채","company_name":"대한유화㈜","employment_type":"정규직","experience":"신입·경력 (직무별 상이/상세요강 참조)","education":"대졸이상 (졸업예정자 가능, 직무별 상이/상세요강 참조)","source_calendar_start_date":"2026-10-12","start_date":"2026-10-12","end_date":"2026-10-19","role":"","location":"서울 종로구 자하문로 77 (옥인동, 유남빌딩)","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50135173?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1735751/","checked_at":"2026-11-19T23:08:01+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50159858 | 기업 식별자 company/1392913
+공고명: 애경케미칼㈜ 신입 및 경력 채용
+기업명: 애경케미칼㈜
+고용형태: 정규직
+경력: 신입·경력 (2년이상, 직무별 상이/상세요강 참고)
+학력: 고졸이상 (직무별 상이/상세요강 참고)
+직무: 미확인
+근무지역: 서울 마포구 양화로 188 (동교동, 애경타워) 9층, 10층
+접수 시작일: 2026-10-13
+마감일: 2026-10-26
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50159858","company_id":"company/1392913","title":"애경케미칼㈜ 신입 및 경력 채용","company_name":"애경케미칼㈜","employment_type":"정규직","experience":"신입·경력 (2년이상, 직무별 상이/상세요강 참고)","education":"고졸이상 (직무별 상이/상세요강 참고)","source_calendar_start_date":"2026-10-13","start_date":"2026-10-13","end_date":"2026-10-26","role":"","location":"서울 마포구 양화로 188 (동교동, 애경타워) 9층, 10층","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50159858?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1392913/","checked_at":"2026-11-19T23:08:29+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50135704 | 기업 식별자 company/1712420
+공고명: 2026년도 [하반기] 신입 및 경력사원 모집
+기업명: 명인제약㈜
+고용형태: 정규직 , 인턴 (근무기간 3개월, 상세요강 참조)
+경력: 신입·경력 (직무별 상이, 상세요강 참고)
+학력: 학력무관 (* 직무별상이 / 상세요강 참조)
+직무: 미확인
+근무지역: 서울 서초구 효령로 267 (서초동, 명인타워) 명인제약(주)
+접수 시작일: 2026-10-15
+마감일: 2026-10-29
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50135704","company_id":"company/1712420","title":"2026년도 [하반기] 신입 및 경력사원 모집","company_name":"명인제약㈜","employment_type":"정규직 , 인턴 (근무기간 3개월, 상세요강 참조)","experience":"신입·경력 (직무별 상이, 상세요강 참고)","education":"학력무관 (* 직무별상이 / 상세요강 참조)","source_calendar_start_date":"2026-10-15","start_date":"2026-10-15","end_date":"2026-10-29","role":"","location":"서울 서초구 효령로 267 (서초동, 명인타워) 명인제약(주)","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50135704?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1712420/","checked_at":"2026-11-19T23:08:36+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50184948 | 기업 식별자 company/1329474
+공고명: [교원그룹] 10월 수시채용
+기업명: 교원그룹
+고용형태: 정규직
+경력: 신입·경력 (3년이상, 직무별 상이)
+학력: 대졸이상
+직무: 미확인
+근무지역: 서울 중구 을지로 51 (을지로2가, 내외빌딩) 교원내외빌딩 지도보기 인천광역시 남동구 호구포로 133 (고잔동)
+접수 시작일: 2026-10-16
+마감일: 2026-10-25
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50184948","company_id":"company/1329474","title":"[교원그룹] 10월 수시채용","company_name":"교원그룹","employment_type":"정규직","experience":"신입·경력 (3년이상, 직무별 상이)","education":"대졸이상","source_calendar_start_date":"2026-10-16","start_date":"2026-10-16","end_date":"2026-10-25","role":"","location":"서울 중구 을지로 51 (을지로2가, 내외빌딩) 교원내외빌딩 지도보기 인천광역시 남동구 호구포로 133 (고잔동)","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50184948?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1329474/","checked_at":"2026-11-19T23:08:42+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50185060 | 기업 식별자 company/1658756
+공고명: 대한제분㈜ 경력직 채용
+기업명: 대한제분㈜
+고용형태: 정규직
+경력: 신입·경력 (직무별 상이/상세요강 참고)
+학력: 초대졸이상 (직무별 상이/상세요강 참고)
+직무: 미확인
+근무지역: 서울 영등포구 당산로37길 16 (당산동4가, 씨에스로직스복합시설) 2층 베이커리TS팀 지도보기 서울 중구 세종대로 39 (남대문로4가, 대한서울상공회의소) 14층 대한제분
+접수 시작일: 2026-10-16
+마감일: 2026-10-28
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50185060","company_id":"company/1658756","title":"대한제분㈜ 경력직 채용","company_name":"대한제분㈜","employment_type":"정규직","experience":"신입·경력 (직무별 상이/상세요강 참고)","education":"초대졸이상 (직무별 상이/상세요강 참고)","source_calendar_start_date":"2026-10-16","start_date":"2026-10-16","end_date":"2026-10-28","role":"","location":"서울 영등포구 당산로37길 16 (당산동4가, 씨에스로직스복합시설) 2층 베이커리TS팀 지도보기 서울 중구 세종대로 39 (남대문로4가, 대한서울상공회의소) 14층 대한제분","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50185060?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1658756/","checked_at":"2026-11-19T23:08:52+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50160960 | 기업 식별자 company/1398657
+공고명: 펜타시스템 40기 신입사원 공개채용
+기업명: 펜타시스템테크놀러지㈜
+고용형태: 정규직
+경력: 신입
+학력: 대졸이상 (졸업예정자 가능)
+직무: 시스템 엔지니어, 소프트웨어 엔지니어, AI 엔지니어, 소프트웨어 개발자, 소프트웨어 개발자_거래추적, 미들웨어 기술지원
+근무지역: 서울 영등포구 여의공원로 115 (여의도동, 세우빌딩)
+접수 시작일: 2026-10-19
+마감일: 2026-11-02
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50160960","company_id":"company/1398657","title":"펜타시스템 40기 신입사원 공개채용","company_name":"펜타시스템테크놀러지㈜","employment_type":"정규직","experience":"신입","education":"대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-10-19","start_date":"2026-10-19","end_date":"2026-11-02","role":"시스템 엔지니어, 소프트웨어 엔지니어, AI 엔지니어, 소프트웨어 개발자, 소프트웨어 개발자_거래추적, 미들웨어 기술지원","location":"서울 영등포구 여의공원로 115 (여의도동, 세우빌딩)","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50160960?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1398657/","checked_at":"2026-11-19T23:08:58+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50161981 | 기업 식별자 company/1783853
+공고명: 2027년 KB캐피탈 신입사원 공개채용
+기업명: KB캐피탈㈜
+고용형태: 정규직 (수습 3개월)
+경력: 신입
+학력: 대졸이상 (졸업예정자 가능)
+직무: 미확인
+근무지역: 서울 서초구 서초대로 301 (서초동, 동익성봉빌딩)
+접수 시작일: 2026-10-19
+마감일: 2026-10-30
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50161981","company_id":"company/1783853","title":"2027년 KB캐피탈 신입사원 공개채용","company_name":"KB캐피탈㈜","employment_type":"정규직 (수습 3개월)","experience":"신입","education":"대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-10-19","start_date":"2026-10-19","end_date":"2026-10-30","role":"","location":"서울 서초구 서초대로 301 (서초동, 동익성봉빌딩)","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50161981?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1783853/","checked_at":"2026-11-19T23:09:10+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50177325 | 기업 식별자 company/1888945
+공고명: [한국콜마] 26년 10월 경력사원 / 신입 / 전임직 수시 채용
+기업명: 한국콜마㈜
+고용형태: 정규직 (수습 3개월) , 인턴 (근무기간 3개월, 정규직 전환 가능)
+경력: 신입·경력 (직무별 상이/상세요강 참조)
+학력: 고졸이상 (졸업예정자 가능, 직무별 상이/상세요강 참조)
+직무: 미확인
+근무지역: 서울 서초구 헌릉로8길 61 (내곡동, 한국콜마종합기술원) 지도보기 세종특별자치시 전의면 산단길 22-17 지도보기 인천광역시 서해구 정서진4로 28 (경서동)
+접수 시작일: 2026-10-19
+마감일: 2026-11-01
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50177325","company_id":"company/1888945","title":"[한국콜마] 26년 10월 경력사원 / 신입 / 전임직 수시 채용","company_name":"한국콜마㈜","employment_type":"정규직 (수습 3개월) , 인턴 (근무기간 3개월, 정규직 전환 가능)","experience":"신입·경력 (직무별 상이/상세요강 참조)","education":"고졸이상 (졸업예정자 가능, 직무별 상이/상세요강 참조)","source_calendar_start_date":"2026-10-19","start_date":"2026-10-19","end_date":"2026-11-01","role":"","location":"서울 서초구 헌릉로8길 61 (내곡동, 한국콜마종합기술원) 지도보기 세종특별자치시 전의면 산단길 22-17 지도보기 인천광역시 서해구 정서진4로 28 (경서동)","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50177325?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1888945/","checked_at":"2026-11-19T23:09:04+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50206850 | 기업 식별자 company/42418177
+공고명: 레몬헬스케어 공공사업본부 공개 채용 공고
+기업명: 레몬헬스케어
+고용형태: 정규직
+경력: 신입·경력 (직무별 상이 / 상세요강 참조)
+학력: 학력무관
+직무: PM (Project Manager) , TA (Technical Architect) , 풀스택 개발자, 제안서 작성, 제안서 디자인, DA, DBA, 영업, 영업지원
+근무지역: 서울 금천구 가산디지털1로 145 (가산동, 에이스하이엔드타워3차) 1005호
+접수 시작일: 2026-10-20
+마감일: 2026-12-19
+모집상태: 미확인
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50206850","company_id":"company/42418177","title":"레몬헬스케어 공공사업본부 공개 채용 공고","company_name":"레몬헬스케어","employment_type":"정규직","experience":"신입·경력 (직무별 상이 / 상세요강 참조)","education":"학력무관","source_calendar_start_date":"2026-10-20","start_date":"2026-10-20","end_date":"2026-12-19","role":"PM (Project Manager) , TA (Technical Architect) , 풀스택 개발자, 제안서 작성, 제안서 디자인, DA, DBA, 영업, 영업지원","location":"서울 금천구 가산디지털1로 145 (가산동, 에이스하이엔드타워3차) 1005호","status":"unknown","source_status":"","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50206850?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/42418177/","checked_at":"2026-11-19T23:09:18+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50214527 | 기업 식별자 company/1453423
+공고명: 2026년 정규직 공개채용
+기업명: 한국전자기술연구원
+고용형태: 정규직 (수습 3개월)
+경력: 신입·경력
+학력: 대졸이상 (졸업예정자 가능, 분야별 상이)
+직무: 미확인
+근무지역: 경기 성남시 분당구 야탑동 새나리로 25
+접수 시작일: 2026-10-22
+마감일: 2026-11-05
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50214527","company_id":"company/1453423","title":"2026년 정규직 공개채용","company_name":"한국전자기술연구원","employment_type":"정규직 (수습 3개월)","experience":"신입·경력","education":"대졸이상 (졸업예정자 가능, 분야별 상이)","source_calendar_start_date":"2026-10-22","start_date":"2026-10-22","end_date":"2026-11-05","role":"","location":"경기 성남시 분당구 야탑동 새나리로 25","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50214527?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1453423/","checked_at":"2026-11-19T23:09:31+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50215049 | 기업 식별자 company/1459131
+공고명: 2026 R&D Engineering & Clinical Talent Pool (8 Positions)
+기업명: 지이헬스케어코리아㈜
+고용형태: 정규직
+경력: 신입·경력 (직무별 상이 / 상세요강 참고)
+학력: 학력무관 (직무별 상이 / 상세요강 참고)
+직무: Clinical Application Lead, Senior Software Engineer, Staff Software Engineer, AI/ ML Regulatory, Verification Engineer, Assurance Specialist, Change Engineer, Software Engineer
+근무지역: 미확인
+접수 시작일: 2026-10-22
+마감일: 2026-10-31
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50215049","company_id":"company/1459131","title":"2026 R&D Engineering & Clinical Talent Pool (8 Positions)","company_name":"지이헬스케어코리아㈜","employment_type":"정규직","experience":"신입·경력 (직무별 상이 / 상세요강 참고)","education":"학력무관 (직무별 상이 / 상세요강 참고)","source_calendar_start_date":"2026-10-22","start_date":"2026-10-22","end_date":"2026-10-31","role":"Clinical Application Lead, Senior Software Engineer, Staff Software Engineer, AI/ ML Regulatory, Verification Engineer, Assurance Specialist, Change Engineer, Software Engineer","location":"","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50215049?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1459131/","checked_at":"2026-11-19T23:09:24+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50242696 | 기업 식별자 company/1423432
+공고명: 모나미 부문별 채용
+기업명: ㈜모나미
+고용형태: 정규직
+경력: 신입·경력 (직무별 상이/상세요강 참조)
+학력: 초대졸이상 (직무별 상이/상세요강 참조)
+직무: 디자인팀_코스메틱 용기/몰드 개발, TQM팀 QA파트, TQM팀 설계 파트, IT운영팀, 용인테크노 공무_전기담당, 해외영업팀_영업담당자, 생산기획파트장
+근무지역: 경기 용인시 수지구 손곡로 17 (동천동) ㈜모나미 빌딩 지도보기 경기 용인시 처인구 이동읍 덕성산단1로28번길 25 (덕성리, 모나미코스메틱)
+접수 시작일: 2026-10-26
+마감일: 2026-11-04
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50242696","company_id":"company/1423432","title":"모나미 부문별 채용","company_name":"㈜모나미","employment_type":"정규직","experience":"신입·경력 (직무별 상이/상세요강 참조)","education":"초대졸이상 (직무별 상이/상세요강 참조)","source_calendar_start_date":"2026-10-26","start_date":"2026-10-26","end_date":"2026-11-04","role":"디자인팀_코스메틱 용기/몰드 개발, TQM팀 QA파트, TQM팀 설계 파트, IT운영팀, 용인테크노 공무_전기담당, 해외영업팀_영업담당자, 생산기획파트장","location":"경기 용인시 수지구 손곡로 17 (동천동) ㈜모나미 빌딩 지도보기 경기 용인시 처인구 이동읍 덕성산단1로28번길 25 (덕성리, 모나미코스메틱)","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50242696?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1423432/","checked_at":"2026-11-19T23:09:37+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50248249 | 기업 식별자 company/1893427
+공고명: 2026년 하반기 한국카본 관계사 공개채용
+기업명: ㈜한국카본
+고용형태: 정규직 (수습 3개월)
+경력: 신입·경력 (직무별 상이, 상세요강 참고)
+학력: 학력무관 (직무별 상이, 상세요강 참고)
+직무: 미확인
+근무지역: 서울 강서구 마곡중앙8로1길 54 (마곡동) 한국카본 마곡 I&I센터
+접수 시작일: 2026-10-27
+마감일: 2026-11-08
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50248249","company_id":"company/1893427","title":"2026년 하반기 한국카본 관계사 공개채용","company_name":"㈜한국카본","employment_type":"정규직 (수습 3개월)","experience":"신입·경력 (직무별 상이, 상세요강 참고)","education":"학력무관 (직무별 상이, 상세요강 참고)","source_calendar_start_date":"2026-10-27","start_date":"2026-10-27","end_date":"2026-11-08","role":"","location":"서울 강서구 마곡중앙8로1길 54 (마곡동) 한국카본 마곡 I&I센터","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50248249?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1893427/","checked_at":"2026-11-19T23:09:44+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50251923 | 기업 식별자 company/1572368
+공고명: [교촌에프앤비] 2026년 11월 수시채용 (IT기획운영, 조리교육 프로그램 지원)
+기업명: 교촌에프앤비㈜
+고용형태: 정규직 , 인턴 (6개월 근무 평가 후 소속 직원 전환 검토 (전환형 인턴))
+경력: 신입·경력 (직무별 상이/상세요강 참고)
+학력: 학력무관
+직무: IT기획운영팀_AX 전환 및 IT 기획, IT기획운영팀_SAP ERP 운영 및 개발, 1991스쿨팀
+근무지역: 경기 성남시 수정구 금토로80번길 15-3 (금토동) 교촌1991 빌딩
+접수 시작일: 2026-10-28
+마감일: 2026-11-06
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50251923","company_id":"company/1572368","title":"[교촌에프앤비] 2026년 11월 수시채용 (IT기획운영, 조리교육 프로그램 지원)","company_name":"교촌에프앤비㈜","employment_type":"정규직 , 인턴 (6개월 근무 평가 후 소속 직원 전환 검토 (전환형 인턴))","experience":"신입·경력 (직무별 상이/상세요강 참고)","education":"학력무관","source_calendar_start_date":"2026-10-28","start_date":"2026-10-28","end_date":"2026-11-06","role":"IT기획운영팀_AX 전환 및 IT 기획, IT기획운영팀_SAP ERP 운영 및 개발, 1991스쿨팀","location":"경기 성남시 수정구 금토로80번길 15-3 (금토동) 교촌1991 빌딩","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50251923?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1572368/","checked_at":"2026-11-19T23:09:51+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50257307 | 기업 식별자 company/16154202
+공고명: ㈜셀트리온제약 신입/경력 수시채용
+기업명: ㈜셀트리온제약
+고용형태: 정규직 (90일의 수습기간 적용) , 계약직
+경력: 신입·경력 (직무별 상이 / 상세요강 참조)
+학력: 학력무관 (직무별 상이 / 상세요강 참조)
+직무: 미확인
+근무지역: 충북 청주시 청원구 오창읍 2산단로 82 (송대리, (주)셀트리온) .
+접수 시작일: 2026-10-28
+마감일: 2026-11-02
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50257307","company_id":"company/16154202","title":"㈜셀트리온제약 신입/경력 수시채용","company_name":"㈜셀트리온제약","employment_type":"정규직 (90일의 수습기간 적용) , 계약직","experience":"신입·경력 (직무별 상이 / 상세요강 참조)","education":"학력무관 (직무별 상이 / 상세요강 참조)","source_calendar_start_date":"2026-10-28","start_date":"2026-10-28","end_date":"2026-11-02","role":"","location":"충북 청주시 청원구 오창읍 2산단로 82 (송대리, (주)셀트리온) .","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50257307?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/16154202/","checked_at":"2026-11-19T23:09:58+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50262007 | 기업 식별자 company/1979146
+공고명: [LG CNS 자회사] 26년 하반기 신입 인턴 채용(전환형)
+기업명: ㈜비즈테크아이
+고용형태: 인턴 (근무기간 3개월, 정규직 전환 가능)
+경력: 신입
+학력: 대졸이상
+직무: SAP 모듈 개발운영, MES 개발운영, AI 에이전트 개발운영, 금융 애플리케이션 개발운영, AI 엔지니어, 애플리케이션 아키텍트, AX 솔루션 개발, M365 운영, 클라우드 운영, IT인프라 운영
+근무지역: 서울 마포구 매봉산로 75 (상암동, 디디엠씨(DDMC)) 12층 비즈테크아이 지도보기 서울 강서구 마곡중앙10로 70 (마곡동, LG사이언스파크) 지도보기 서울 영등포구 여의대로 128 (여의도동) 지도보기 서울 중구 을지로 55 (을지로2가, 교원명동빌딩) 지도보기 경북 구미시 수출대로7길 50-9 (공단동, 엘지이노텍(주)구미1공장) 지도보기 충북 청주시 청원구 오창읍 2산단로 81 (주성리)
+접수 시작일: 2026-10-29
+마감일: 2026-11-15
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50262007","company_id":"company/1979146","title":"[LG CNS 자회사] 26년 하반기 신입 인턴 채용(전환형)","company_name":"㈜비즈테크아이","employment_type":"인턴 (근무기간 3개월, 정규직 전환 가능)","experience":"신입","education":"대졸이상","source_calendar_start_date":"2026-10-29","start_date":"2026-10-29","end_date":"2026-11-15","role":"SAP 모듈 개발운영, MES 개발운영, AI 에이전트 개발운영, 금융 애플리케이션 개발운영, AI 엔지니어, 애플리케이션 아키텍트, AX 솔루션 개발, M365 운영, 클라우드 운영, IT인프라 운영","location":"서울 마포구 매봉산로 75 (상암동, 디디엠씨(DDMC)) 12층 비즈테크아이 지도보기 서울 강서구 마곡중앙10로 70 (마곡동, LG사이언스파크) 지도보기 서울 영등포구 여의대로 128 (여의도동) 지도보기 서울 중구 을지로 55 (을지로2가, 교원명동빌딩) 지도보기 경북 구미시 수출대로7길 50-9 (공단동, 엘지이노텍(주)구미1공장) 지도보기 충북 청주시 청원구 오창읍 2산단로 81 (주성리)","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50262007?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1979146/","checked_at":"2026-11-19T23:10:12+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50264910 | 기업 식별자 company/1595036
+공고명: 2027년도 신입/경력사원모집
+기업명: 캐논쎄미콘덕터엔지니어링코리아㈜
+고용형태: 정규직 , 계약직 (근무기간 1년)
+경력: 신입·경력 (직무별 상이, 상세요강 참고)
+학력: 학력무관
+직무: 미확인
+근무지역: 경기 평택시 고덕면 도시지원1길 49 (해창리, W-TOWER) 캐논쎄미콘덕터엔지니어링코리아㈜
+접수 시작일: 2026-10-29
+마감일: 2026-11-08
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50264910","company_id":"company/1595036","title":"2027년도 신입/경력사원모집","company_name":"캐논쎄미콘덕터엔지니어링코리아㈜","employment_type":"정규직 , 계약직 (근무기간 1년)","experience":"신입·경력 (직무별 상이, 상세요강 참고)","education":"학력무관","source_calendar_start_date":"2026-10-29","start_date":"2026-10-29","end_date":"2026-11-08","role":"","location":"경기 평택시 고덕면 도시지원1길 49 (해창리, W-TOWER) 캐논쎄미콘덕터엔지니어링코리아㈜","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50264910?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1595036/","checked_at":"2026-11-19T23:10:20+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50265913 | 기업 식별자 company/1942890
+공고명: 경보제약 신입/경력 수시 채용
+기업명: ㈜경보제약
+고용형태: 정규직 (수습 3개월) , 계약직 (근무기간 1년, 정규직 전환 가능)
+경력: 신입·경력 (* 직무별상이 / 상세요강 참조)
+학력: 초대졸이상 (* 직무별상이 / 상세요강 참조)
+직무: 미확인
+근무지역: 충남 아산시 실옥동 345-6
+접수 시작일: 2026-10-29
+마감일: 2026-11-08
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50265913","company_id":"company/1942890","title":"경보제약 신입/경력 수시 채용","company_name":"㈜경보제약","employment_type":"정규직 (수습 3개월) , 계약직 (근무기간 1년, 정규직 전환 가능)","experience":"신입·경력 (* 직무별상이 / 상세요강 참조)","education":"초대졸이상 (* 직무별상이 / 상세요강 참조)","source_calendar_start_date":"2026-10-29","start_date":"2026-10-29","end_date":"2026-11-08","role":"","location":"충남 아산시 실옥동 345-6","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50265913?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1942890/","checked_at":"2026-11-19T23:10:05+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50268127 | 기업 식별자 company/1920423
+공고명: 2026년도 부문별 신입/경력 채용
+기업명: SFA반도체㈜
+고용형태: 정규직 , 계약직 (상세요강 참고)
+경력: 신입·경력 (직무별 상이, 상세요강 참고)
+학력: 고졸이상 (* 직무별상이 / 상세요강 참조)
+직무: 미확인
+근무지역: 충남 천안시 서북구 백석동 555-9
+접수 시작일: 2026-10-30
+마감일: 2026-11-08
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50268127","company_id":"company/1920423","title":"2026년도 부문별 신입/경력 채용","company_name":"SFA반도체㈜","employment_type":"정규직 , 계약직 (상세요강 참고)","experience":"신입·경력 (직무별 상이, 상세요강 참고)","education":"고졸이상 (* 직무별상이 / 상세요강 참조)","source_calendar_start_date":"2026-10-30","start_date":"2026-10-30","end_date":"2026-11-08","role":"","location":"충남 천안시 서북구 백석동 555-9","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50268127?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1920423/","checked_at":"2026-11-19T23:10:27+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50242499 | 기업 식별자 company/16153929
+공고명: 2027 쿠도커뮤니케이션㈜ 신입/경력 공개채용
+기업명: 쿠도커뮤니케이션㈜
+고용형태: 정규직
+경력: 신입·경력 (직무별 상이, 상세요강 참고)
+학력: 초대졸이상 (* 직무별상이 / 상세요강 참조)
+직무: 신입_AX사업부_백엔드 개발, 신입_AX사업부_네트워크 엔지니어, 신입_AX사업부_IT영업, 신입_정보보안사업부_기술영업, 신입_정보보안사업부_보안영업, 신입_DX사업부_AI agent 개발, 신입_경영지원부_홍보마케팅, 신입_사업관리부_사업관리, 경력_AX사업부_솔루션영업, 경력_AX사업부_보안솔루션엔지니어, 경력_AX사업부_AI Agent 개발, 경력_정보보안사업부_솔루션영업, 경력_정보보안사업부_솔루션엔지니어, 경력_DX사업부_사업/서비스기획, 경력_시큐리티사업부_개발, 경력_LED사업부_온라인마케팅, 경력_사업관리부_법무, 신입_DX사업부_기획
+근무지역: 경기 과천시 과천대로7나길 9 (갈현동, DX타워) 12~15층
+접수 시작일: 2026-11-01
+마감일: 2026-11-15
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50242499","company_id":"company/16153929","title":"2027 쿠도커뮤니케이션㈜ 신입/경력 공개채용","company_name":"쿠도커뮤니케이션㈜","employment_type":"정규직","experience":"신입·경력 (직무별 상이, 상세요강 참고)","education":"초대졸이상 (* 직무별상이 / 상세요강 참조)","source_calendar_start_date":"2026-11-01","start_date":"2026-11-01","end_date":"2026-11-15","role":"신입_AX사업부_백엔드 개발, 신입_AX사업부_네트워크 엔지니어, 신입_AX사업부_IT영업, 신입_정보보안사업부_기술영업, 신입_정보보안사업부_보안영업, 신입_DX사업부_AI agent 개발, 신입_경영지원부_홍보마케팅, 신입_사업관리부_사업관리, 경력_AX사업부_솔루션영업, 경력_AX사업부_보안솔루션엔지니어, 경력_AX사업부_AI Agent 개발, 경력_정보보안사업부_솔루션영업, 경력_정보보안사업부_솔루션엔지니어, 경력_DX사업부_사업/서비스기획, 경력_시큐리티사업부_개발, 경력_LED사업부_온라인마케팅, 경력_사업관리부_법무, 신입_DX사업부_기획","location":"경기 과천시 과천대로7나길 9 (갈현동, DX타워) 12~15층","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50242499?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/16153929/","checked_at":"2026-11-19T23:10:27+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50334191 | 기업 식별자 company/1890347
+공고명: (주)윈스테크넷 2027년 상반기 인턴 모집
+기업명: ㈜윈스테크넷
+고용형태: 인턴 (근무기간 6개월)
+경력: 경력무관
+학력: 대졸이상 (졸업예정자 가능)
+직무: 개발,기술,영업,품질,인증,인사,총무
+근무지역: 경기 성남시 분당구 판교로228번길 15 (삼평동, 판교세븐벤처밸리1) 윈스동 4층
+접수 시작일: 2026-11-02
+마감일: 2026-11-15
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50334191","company_id":"company/1890347","title":"(주)윈스테크넷 2027년 상반기 인턴 모집","company_name":"㈜윈스테크넷","employment_type":"인턴 (근무기간 6개월)","experience":"경력무관","education":"대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-11-02","start_date":"2026-11-02","end_date":"2026-11-15","role":"개발,기술,영업,품질,인증,인사,총무","location":"경기 성남시 분당구 판교로228번길 15 (삼평동, 판교세븐벤처밸리1) 윈스동 4층","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50334191?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1890347/","checked_at":"2026-11-19T23:10:34+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50295715 | 기업 식별자 company/42960697
+공고명: 제주신화월드 하반기 사원 모집
+기업명: 제주신화월드㈜
+고용형태: 정규직 (수습 3개월) , 계약직 (상세요강 참조)
+경력: 신입·경력 (직무별 상이 / 상세요강 참조)
+학력: 학력무관 (직무별 상이 / 상세요강 참조)
+직무: 객실_프론트, 객실_컨시어지, (마감)객실_키즈 액티비티, 객실_수영장리셉션, 객실_하우스키핑_코디네이터, (마감)객실_고객서비스센터, 객실_피트니스_대리, (마감)객실_피트니스_사원, 식음_호텔 식음 서비스_레스토랑/뷔페/라운지, 식음_호텔 식음 서비스_MICE 연회, 식음_카지노 식음 서비스_주임, 식음_카지노 식음 서비스_대리, 식음_홍콩 레스토랑 식음서비스_사원주임, 식음_홍콩 레스토랑 식음서비스_대리, 식음_호텔조리 베이커리, 식음_호텔조리 연회 주방, 식음_호텔조리 부쳐 주방, 식음_호텔조리 Internationl Buff, 식음_호텔조리 한식당, 식음_호텔조리_일식파트, 식음_카지노 조리_사원-대리, 식음_홍콩 레스토랑 조리_사원주임, 식음_홍콩 레스토랑 조리_대리, 식음_한식 반찬 조리, 테마/워터파크식음조리_조리, 호텔/리조트시설관리_건축, 호텔/리조트시설관리_조경, Resort Security_보안요원, Reservation_예약, (마감)HumanResources_임원비서번역, QA&EHS_공용공간 환경관리, (마감)QA&EHS_환경관리, (마감)RealEstate_Condo Sale, (마감)구매_OSE Procurement, (마감)안전보건_의무실운영및관리, (마감)재무_Receiving(검수), Sales&Marketing_Region, Sales&Marketing_Content, Sales&Marketing_Sales Ops, IT_Application 유지보수, 어트랙션_음향 감독, 어트랙션_무대 조명, 어트랙션_E&R_Retail, 어트랙션_E&R_Entry, 어트랙션_기계/전기, QA&EHS_서비스 품질관리, 구매_Service, Sales&Marketing_Customer
+근무지역: 제주 서귀포시 안덕면 신화역사로304번길 38 (서광리) 제주신화월드
+접수 시작일: 2026-11-03
+마감일: 2026-12-03
+모집상태: 미확인
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50295715","company_id":"company/42960697","title":"제주신화월드 하반기 사원 모집","company_name":"제주신화월드㈜","employment_type":"정규직 (수습 3개월) , 계약직 (상세요강 참조)","experience":"신입·경력 (직무별 상이 / 상세요강 참조)","education":"학력무관 (직무별 상이 / 상세요강 참조)","source_calendar_start_date":"2026-11-03","start_date":"2026-11-03","end_date":"2026-12-03","role":"객실_프론트, 객실_컨시어지, (마감)객실_키즈 액티비티, 객실_수영장리셉션, 객실_하우스키핑_코디네이터, (마감)객실_고객서비스센터, 객실_피트니스_대리, (마감)객실_피트니스_사원, 식음_호텔 식음 서비스_레스토랑/뷔페/라운지, 식음_호텔 식음 서비스_MICE 연회, 식음_카지노 식음 서비스_주임, 식음_카지노 식음 서비스_대리, 식음_홍콩 레스토랑 식음서비스_사원주임, 식음_홍콩 레스토랑 식음서비스_대리, 식음_호텔조리 베이커리, 식음_호텔조리 연회 주방, 식음_호텔조리 부쳐 주방, 식음_호텔조리 Internationl Buff, 식음_호텔조리 한식당, 식음_호텔조리_일식파트, 식음_카지노 조리_사원-대리, 식음_홍콩 레스토랑 조리_사원주임, 식음_홍콩 레스토랑 조리_대리, 식음_한식 반찬 조리, 테마/워터파크식음조리_조리, 호텔/리조트시설관리_건축, 호텔/리조트시설관리_조경, Resort Security_보안요원, Reservation_예약, (마감)HumanResources_임원비서번역, QA&EHS_공용공간 환경관리, (마감)QA&EHS_환경관리, (마감)RealEstate_Condo Sale, (마감)구매_OSE Procurement, (마감)안전보건_의무실운영및관리, (마감)재무_Receiving(검수), Sales&Marketing_Region, Sales&Marketing_Content, Sales&Marketing_Sales Ops, IT_Application 유지보수, 어트랙션_음향 감독, 어트랙션_무대 조명, 어트랙션_E&R_Retail, 어트랙션_E&R_Entry, 어트랙션_기계/전기, QA&EHS_서비스 품질관리, 구매_Service, Sales&Marketing_Customer","location":"제주 서귀포시 안덕면 신화역사로304번길 38 (서광리) 제주신화월드","status":"unknown","source_status":"","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50295715?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/42960697/","checked_at":"2026-11-19T23:10:41+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50309869 | 기업 식별자 company/1774734
+공고명: 2026년 하반기 고영테크놀러지 신입사원 채용
+기업명: ㈜고영테크놀러지
+고용형태: 정규직
+경력: 신입
+학력: 학력무관 (직무별 상이/상세요강 참고)
+직무: 미확인
+근무지역: 경기 용인시 수지구 포은대로59번길 18 (상현동)
+접수 시작일: 2026-11-03
+마감일: 2026-11-18
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50309869","company_id":"company/1774734","title":"2026년 하반기 고영테크놀러지 신입사원 채용","company_name":"㈜고영테크놀러지","employment_type":"정규직","experience":"신입","education":"학력무관 (직무별 상이/상세요강 참고)","source_calendar_start_date":"2026-11-03","start_date":"2026-11-03","end_date":"2026-11-18","role":"","location":"경기 용인시 수지구 포은대로59번길 18 (상현동)","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50309869?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1774734/","checked_at":"2026-11-19T23:10:49+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50298361 | 기업 식별자 company/1925784
+공고명: 셰플러코리아 이천사업장 (구. 비테스코테크놀로지스코리아) 11월 수시 채용
+기업명: 비테스코테크놀로지스코리아(유)
+고용형태: 정규직 , 계약직
+경력: 신입·경력 (직무별 상이, 상세요강 참고)
+학력: 학력무관 (직무별 상이, 상세요강 참고)
+직무: 미확인
+근무지역: 경기 이천시 사음로 45-29 (사음동, 비테스코테크놀로지코리아(주))
+접수 시작일: 2026-11-04
+마감일: 2026-11-16
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50298361","company_id":"company/1925784","title":"셰플러코리아 이천사업장 (구. 비테스코테크놀로지스코리아) 11월 수시 채용","company_name":"비테스코테크놀로지스코리아(유)","employment_type":"정규직 , 계약직","experience":"신입·경력 (직무별 상이, 상세요강 참고)","education":"학력무관 (직무별 상이, 상세요강 참고)","source_calendar_start_date":"2026-11-04","start_date":"2026-11-04","end_date":"2026-11-16","role":"","location":"경기 이천시 사음로 45-29 (사음동, 비테스코테크놀로지코리아(주))","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50298361?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1925784/","checked_at":"2026-11-19T23:10:55+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50297198 | 기업 식별자 company/1693287
+공고명: 2026년 한국무역정보통신 신규직원 모집
+기업명: ㈜한국무역정보통신
+고용형태: 정규직 (수습 3개월)
+경력: 신입
+학력: 대졸이상 (졸업예정자 가능)
+직무: 사업, 경영, ICT
+근무지역: 경기 성남시 분당구 판교로 338 (삼평동) 한국전자무역센터
+접수 시작일: 2026-11-05
+마감일: 2026-11-16
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50297198","company_id":"company/1693287","title":"2026년 한국무역정보통신 신규직원 모집","company_name":"㈜한국무역정보통신","employment_type":"정규직 (수습 3개월)","experience":"신입","education":"대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-11-05","start_date":"2026-11-05","end_date":"2026-11-16","role":"사업, 경영, ICT","location":"경기 성남시 분당구 판교로 338 (삼평동) 한국전자무역센터","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50297198?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1693287/","checked_at":"2026-11-19T23:11:02+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50308509 | 기업 식별자 company/1930804
+공고명: 2026년 4분기 신입ㆍ채용연계형 인턴ㆍ경력 정기채용
+기업명: 세방그룹
+고용형태: 정규직 , 인턴 (정규직 전환 가능)
+경력: 신입·경력 (직무별 상이, 상세요강 참고)
+학력: 대졸이상 (졸업예정자 가능)
+직무: 미확인
+근무지역: 서울 강남구 선릉로 433 (역삼동, 세방빌딩)
+접수 시작일: 2026-11-06
+마감일: 2026-11-15
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50308509","company_id":"company/1930804","title":"2026년 4분기 신입ㆍ채용연계형 인턴ㆍ경력 정기채용","company_name":"세방그룹","employment_type":"정규직 , 인턴 (정규직 전환 가능)","experience":"신입·경력 (직무별 상이, 상세요강 참고)","education":"대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-11-06","start_date":"2026-11-06","end_date":"2026-11-15","role":"","location":"서울 강남구 선릉로 433 (역삼동, 세방빌딩)","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50308509?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1930804/","checked_at":"2026-11-19T23:11:09+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50308618 | 기업 식별자 company/1649290
+공고명: [안랩] 2026년 신입/경력 공개채용
+기업명: ㈜안랩
+고용형태: 정규직
+경력: 신입·경력 (직무별 상이, 상세요강 참고)
+학력: 대졸이상 (졸업예정자 가능)
+직무: 미확인
+근무지역: 경기 성남시 분당구 판교역로 220 (삼평동, 안랩,쏠리드) 안랩
+접수 시작일: 2026-11-06
+마감일: 2026-11-29
+모집상태: 미확인
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50308618","company_id":"company/1649290","title":"[안랩] 2026년 신입/경력 공개채용","company_name":"㈜안랩","employment_type":"정규직","experience":"신입·경력 (직무별 상이, 상세요강 참고)","education":"대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-11-06","start_date":"2026-11-06","end_date":"2026-11-29","role":"","location":"경기 성남시 분당구 판교역로 220 (삼평동, 안랩,쏠리드) 안랩","status":"unknown","source_status":"","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50308618?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1649290/","checked_at":"2026-11-19T23:11:15+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50271360 | 기업 식별자 company/1953162
+공고명: 아이크래프트㈜ 2026년도 신입/경력사원 모집공고
+기업명: 아이크래프트㈜
+고용형태: 정규직
+경력: 신입·경력 (경력 : 3~10년 / 직무별 상이)
+학력: 학력무관
+직무: 신입_영업, 신입_네트워크 기술지원, 신입_서버 기술지원, 경력_영업, 경력_네트워크 기술지원
+근무지역: 서울 강남구 테헤란로44길 8 (역삼동) 아이콘역삼빌딩 8층
+접수 시작일: 2026-11-09
+마감일: 2026-11-18
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50271360","company_id":"company/1953162","title":"아이크래프트㈜ 2026년도 신입/경력사원 모집공고","company_name":"아이크래프트㈜","employment_type":"정규직","experience":"신입·경력 (경력 : 3~10년 / 직무별 상이)","education":"학력무관","source_calendar_start_date":"2026-11-09","start_date":"2026-11-09","end_date":"2026-11-18","role":"신입_영업, 신입_네트워크 기술지원, 신입_서버 기술지원, 경력_영업, 경력_네트워크 기술지원","location":"서울 강남구 테헤란로44길 8 (역삼동) 아이콘역삼빌딩 8층","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50271360?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1953162/","checked_at":"2026-11-19T23:11:22+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50339286 | 기업 식별자 company/1976230
+공고명: 삼성메디슨 2026년 하반기 3급 신입사원 채용
+기업명: 삼성메디슨㈜
+고용형태: 정규직
+경력: 신입
+학력: 대졸이상 (졸업예정자 가능, 상세요강 참고)
+직무: 미확인
+근무지역: 서울 강동구 천호대로 1077 (천호동, 래미안강동팰리스) 이스트센트럴타워
+접수 시작일: 2026-11-10
+마감일: 2026-11-19
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50339286","company_id":"company/1976230","title":"삼성메디슨 2026년 하반기 3급 신입사원 채용","company_name":"삼성메디슨㈜","employment_type":"정규직","experience":"신입","education":"대졸이상 (졸업예정자 가능, 상세요강 참고)","source_calendar_start_date":"2026-11-10","start_date":"2026-11-10","end_date":"2026-11-19","role":"","location":"서울 강동구 천호대로 1077 (천호동, 래미안강동팰리스) 이스트센트럴타워","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50339286?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1976230/","checked_at":"2026-11-19T23:11:31+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50341214 | 기업 식별자 company/46165662
+공고명: [다우키움계열사 ㈜와이즈버즈] 인턴 공채 모집 (퍼포먼스 마케터/사업계획/개발)
+기업명: ㈜와이즈버즈
+고용형태: 인턴 (상세요강 참고)
+경력: 신입·경력 (상세요강 참고)
+학력: 대졸이상
+직무: 퍼포먼스 마케터, 사업전략, 풀스택 개발, SDK 개발자
+근무지역: 경기 성남시 수정구 금토로 69 (금토동) 다우디지털스퀘어 5층
+접수 시작일: 2026-11-11
+마감일: 2026-11-29
+모집상태: 미확인
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50341214","company_id":"company/46165662","title":"[다우키움계열사 ㈜와이즈버즈] 인턴 공채 모집 (퍼포먼스 마케터/사업계획/개발)","company_name":"㈜와이즈버즈","employment_type":"인턴 (상세요강 참고)","experience":"신입·경력 (상세요강 참고)","education":"대졸이상","source_calendar_start_date":"2026-11-11","start_date":"2026-11-11","end_date":"2026-11-29","role":"퍼포먼스 마케터, 사업전략, 풀스택 개발, SDK 개발자","location":"경기 성남시 수정구 금토로 69 (금토동) 다우디지털스퀘어 5층","status":"unknown","source_status":"","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50341214?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/46165662/","checked_at":"2026-11-19T23:11:47+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50348441 | 기업 식별자 company/16154198
+공고명: 2026년 하반기 신입, 경력 수시 채용 (인천광역시, 전남광주통합특별시)
+기업명: 앰코테크놀로지코리아㈜
+고용형태: 정규직
+경력: 신입·경력 (2년이상, 직무별 상이 / 상세요강 참고)
+학력: 초대졸이상 (직무별 상이 / 상세요강 참고)
+직무: 미확인
+근무지역: 인천 연수구 송도미래로 150 (송도동, 앰코테크놀로지코리아) 지도보기 전남광주 북구 앰코로 100 (대촌동, 앰코테크놀로지코리아(주))
+접수 시작일: 2026-11-11
+마감일: 2026-11-19
+모집상태: 미확인
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50348441","company_id":"company/16154198","title":"2026년 하반기 신입, 경력 수시 채용 (인천광역시, 전남광주통합특별시)","company_name":"앰코테크놀로지코리아㈜","employment_type":"정규직","experience":"신입·경력 (2년이상, 직무별 상이 / 상세요강 참고)","education":"초대졸이상 (직무별 상이 / 상세요강 참고)","source_calendar_start_date":"2026-11-11","start_date":"2026-11-11","end_date":"2026-11-19","role":"","location":"인천 연수구 송도미래로 150 (송도동, 앰코테크놀로지코리아) 지도보기 전남광주 북구 앰코로 100 (대촌동, 앰코테크놀로지코리아(주))","status":"unknown","source_status":"","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50348441?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/16154198/","checked_at":"2026-11-19T23:11:39+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50360731 | 기업 식별자 company/1756391
+공고명: 2026년 11월 일반직 공채(인사, 부산영업, 정보보호, 공항서비스, 화물)
+기업명: 이스타항공㈜
+고용형태: 정규직 (수습 3개월)
+경력: 신입·경력 (1년이상)
+학력: 초대졸이상 (졸업예정자 가능)
+직무: 항공사
+근무지역: 서울 강서구 공항대로 236 (마곡동) 쿠쿠마곡빌딩 9층
+접수 시작일: 2026-11-12
+마감일: 2026-11-18
+모집상태: 마감되었습니다.
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50360731","company_id":"company/1756391","title":"2026년 11월 일반직 공채(인사, 부산영업, 정보보호, 공항서비스, 화물)","company_name":"이스타항공㈜","employment_type":"정규직 (수습 3개월)","experience":"신입·경력 (1년이상)","education":"초대졸이상 (졸업예정자 가능)","source_calendar_start_date":"2026-11-12","start_date":"2026-11-12","end_date":"2026-11-18","role":"항공사","location":"서울 강서구 공항대로 236 (마곡동) 쿠쿠마곡빌딩 9층","status":"closed","source_status":"마감되었습니다.","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50360731?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1756391/","checked_at":"2026-11-19T23:11:55+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50373423 | 기업 식별자 company/1713050
+공고명: 2027 네오플레이어 네오플 채용연계형 인턴
+기업명: ㈜네오플
+고용형태: 인턴
+경력: 신입·경력 (1년 미만)
+학력: 학력무관 (기졸업자 및 2027년 2월 졸업예정자)
+직무: 미확인
+근무지역: 서울 강남구 대치동 948 오토웨이 타워 지도보기 제주 제주시 1100로 3198-13 (노형동) 네오마루
+접수 시작일: 2026-11-16
+마감일: 2026-11-30
+모집상태: 미확인
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50373423","company_id":"company/1713050","title":"2027 네오플레이어 네오플 채용연계형 인턴","company_name":"㈜네오플","employment_type":"인턴","experience":"신입·경력 (1년 미만)","education":"학력무관 (기졸업자 및 2027년 2월 졸업예정자)","source_calendar_start_date":"2026-11-16","start_date":"2026-11-16","end_date":"2026-11-30","role":"","location":"서울 강남구 대치동 948 오토웨이 타워 지도보기 제주 제주시 1100로 3198-13 (노형동) 네오마루","status":"unknown","source_status":"","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50373423?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1713050/","checked_at":"2026-11-19T23:12:02+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50377164 | 기업 식별자 company/44839377
+공고명: ㈜웨이버스 정기채용(개발/사업기획/PM/영업/AI 개발)
+기업명: ㈜웨이버스
+고용형태: 정규직
+경력: 신입·경력 (직무별 상이)
+학력: 초대졸이상
+직무: 개발(서울/경기), 개발(대전), 사업기획, PM(대전), 영업, AI 개발, PM(서울/경기)
+근무지역: 서울 구로구 디지털로26길 61 (구로동, 에이스하이엔드타워2차) 1001호
+접수 시작일: 2026-11-17
+마감일: 2026-11-29
+모집상태: 미확인
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50377164","company_id":"company/44839377","title":"㈜웨이버스 정기채용(개발/사업기획/PM/영업/AI 개발)","company_name":"㈜웨이버스","employment_type":"정규직","experience":"신입·경력 (직무별 상이)","education":"초대졸이상","source_calendar_start_date":"2026-11-17","start_date":"2026-11-17","end_date":"2026-11-29","role":"개발(서울/경기), 개발(대전), 사업기획, PM(대전), 영업, AI 개발, PM(서울/경기)","location":"서울 구로구 디지털로26길 61 (구로동, 에이스하이엔드타워2차) 1001호","status":"unknown","source_status":"","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50377164?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/44839377/","checked_at":"2026-11-19T23:25:01+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50382694 | 기업 식별자 company/1833639
+공고명: [KCC정보통신] 2026년 하반기 공개채용
+기업명: KCC정보통신
+고용형태: 정규직 (수습 3개월)
+경력: 신입·경력 (* 직무별상이 / 상세요강 참조)
+학력: 대졸이상 (상세요강 참조)
+직무: 사업지원그룹_개발, 사업지원그룹_아키텍트_DBA/DA, 개발_경력_PM_PM/PL, 개발_경력_아키텍트_TA, 개발_경력_아키텍트_AA, 개발_신입/경력_보안 엔지니어, 영업_신입_영업, 영업_경력_영업, 영업_신입/경력_영업, AX_경력_NetApp 파트너, AX_경력_Zendesk 프리세일즈/ 컨설턴트
+근무지역: 서울특별시 용산구 청파로61길 5 (청파동1가)
+접수 시작일: 2026-11-17
+마감일: 2026-12-07
+모집상태: 미확인
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50382694","company_id":"company/1833639","title":"[KCC정보통신] 2026년 하반기 공개채용","company_name":"KCC정보통신","employment_type":"정규직 (수습 3개월)","experience":"신입·경력 (* 직무별상이 / 상세요강 참조)","education":"대졸이상 (상세요강 참조)","source_calendar_start_date":"2026-11-17","start_date":"2026-11-17","end_date":"2026-12-07","role":"사업지원그룹_개발, 사업지원그룹_아키텍트_DBA/DA, 개발_경력_PM_PM/PL, 개발_경력_아키텍트_TA, 개발_경력_아키텍트_AA, 개발_신입/경력_보안 엔지니어, 영업_신입_영업, 영업_경력_영업, 영업_신입/경력_영업, AX_경력_NetApp 파트너, AX_경력_Zendesk 프리세일즈/ 컨설턴트","location":"서울특별시 용산구 청파로61길 5 (청파동1가)","status":"unknown","source_status":"","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50382694?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1833639/","checked_at":"2026-11-19T23:12:34+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50384636 | 기업 식별자 company/16154202
+공고명: ㈜셀트리온제약 신입/경력 수시채용
+기업명: ㈜셀트리온제약
+고용형태: 정규직 (입사일 기준 90일의 수습기간 적용)
+경력: 신입·경력 (직무별 상이 / 상세요강 참조)
+학력: 대졸이상 (졸업예정자 가능, 직무별 상이 / 상세요강 참조)
+직무: 미확인
+근무지역: 충북 청주시 청원구 오창읍 2산단로 82 (송대리, (주)셀트리온) .
+접수 시작일: 2026-11-17
+마감일: 2026-11-25
+모집상태: 미확인
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50384636","company_id":"company/16154202","title":"㈜셀트리온제약 신입/경력 수시채용","company_name":"㈜셀트리온제약","employment_type":"정규직 (입사일 기준 90일의 수습기간 적용)","experience":"신입·경력 (직무별 상이 / 상세요강 참조)","education":"대졸이상 (졸업예정자 가능, 직무별 상이 / 상세요강 참조)","source_calendar_start_date":"2026-11-17","start_date":"2026-11-17","end_date":"2026-11-25","role":"","location":"충북 청주시 청원구 오창읍 2산단로 82 (송대리, (주)셀트리온) .","status":"unknown","source_status":"","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50384636?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/16154202/","checked_at":"2026-11-19T23:25:09+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50383069 | 기업 식별자 company/1944712
+공고명: 동화일렉트로라이트 사무직 & 기술직 채용
+기업명: 동화일렉트로라이트
+고용형태: 정규직 (수습 3개월)
+경력: 신입·경력 (직무별 상이, 상세요강 참고)
+학력: 고졸이상 (직무별 상이, 상세요강 참고)
+직무: 참가제 개발, 연구기획, 해외영업, 영업기획, 구매물류, QA, 생산관리, 생산팀, 품질관리팀
+근무지역: 충남 논산시 성동면 산업단지로5길 45 (원남리) 동화일렉트로라이트 지도보기 서울 영등포구 여의나루로 53-2 (여의도동, 원창빌딩) 동화일렉트로라이트 지도보기 인천 제물포구 월미로 164 (북성동1가, 대성목재공업(주)) 동화일렉트로로라이트 일렉연구소
+접수 시작일: 2026-11-18
+마감일: 2026-11-30
+모집상태: 미확인
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50383069","company_id":"company/1944712","title":"동화일렉트로라이트 사무직 & 기술직 채용","company_name":"동화일렉트로라이트","employment_type":"정규직 (수습 3개월)","experience":"신입·경력 (직무별 상이, 상세요강 참고)","education":"고졸이상 (직무별 상이, 상세요강 참고)","source_calendar_start_date":"2026-11-18","start_date":"2026-11-18","end_date":"2026-11-30","role":"참가제 개발, 연구기획, 해외영업, 영업기획, 구매물류, QA, 생산관리, 생산팀, 품질관리팀","location":"충남 논산시 성동면 산업단지로5길 45 (원남리) 동화일렉트로라이트 지도보기 서울 영등포구 여의나루로 53-2 (여의도동, 원창빌딩) 동화일렉트로라이트 지도보기 인천 제물포구 월미로 164 (북성동1가, 대성목재공업(주)) 동화일렉트로로라이트 일렉연구소","status":"unknown","source_status":"","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50383069?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1944712/","checked_at":"2026-11-19T23:12:47+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50391942 | 기업 식별자 company/1428115
+공고명: [현대자동차그룹] 현대파텍스㈜ 신입/경력 직원(전산관리, 총무관재, 프레스생산) 채용
+기업명: 현대파텍스(주)
+고용형태: 정규직
+경력: 신입·경력 (5년 이하, 직무별상이 , 상세요강 참조)
+학력: 초대졸이상 (* 직무별상이 / 상세요강 참조)
+직무: IT 시스템 개발/운영 및 전산관리, 총무/관재, 프레스생산
+근무지역: 충남 서산시 지곡면 무장리 산 177-2
+접수 시작일: 2026-11-18
+마감일: 2026-11-24
+모집상태: 미확인
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50391942","company_id":"company/1428115","title":"[현대자동차그룹] 현대파텍스㈜ 신입/경력 직원(전산관리, 총무관재, 프레스생산) 채용","company_name":"현대파텍스(주)","employment_type":"정규직","experience":"신입·경력 (5년 이하, 직무별상이 , 상세요강 참조)","education":"초대졸이상 (* 직무별상이 / 상세요강 참조)","source_calendar_start_date":"2026-11-18","start_date":"2026-11-18","end_date":"2026-11-24","role":"IT 시스템 개발/운영 및 전산관리, 총무/관재, 프레스생산","location":"충남 서산시 지곡면 무장리 산 177-2","status":"unknown","source_status":"","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50391942?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1428115/","checked_at":"2026-11-19T23:12:54+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50394279 | 기업 식별자 company/16151762
+공고명: 노아에이티에스 2027년 공채 16기 신입사원 채용(개발자, 컨설턴트)
+기업명: 노아에이티에스㈜
+고용형태: 정규직 (수습 6개월)
+경력: 신입·경력 (직무별 상이)
+학력: 대졸이상
+직무: 개발자(JAVA / ABAP), 컨설턴트(BA)
+근무지역: 서울 종로구 청계천로 41 (서린동, 영풍빌딩) 12층
+접수 시작일: 2026-11-19
+마감일: 2026-11-30
+모집상태: 미확인
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50394279","company_id":"company/16151762","title":"노아에이티에스 2027년 공채 16기 신입사원 채용(개발자, 컨설턴트)","company_name":"노아에이티에스㈜","employment_type":"정규직 (수습 6개월)","experience":"신입·경력 (직무별 상이)","education":"대졸이상","source_calendar_start_date":"2026-11-19","start_date":"2026-11-19","end_date":"2026-11-30","role":"개발자(JAVA / ABAP), 컨설턴트(BA)","location":"서울 종로구 청계천로 41 (서린동, 영풍빌딩) 12층","status":"unknown","source_status":"","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50394279?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/16151762/","checked_at":"2026-11-19T23:13:01+09:00","detail_available":true}
+
+<<<JK_RECORD>>>
+
+채용공고 | 공고번호 50399010 | 기업 식별자 company/1511500
+공고명: 한덕화학㈜ 2026년 4Q 신입/경력사원 모집
+기업명: 한덕화학㈜
+고용형태: 정규직 (수습 3개월)
+경력: 신입·경력 (직무별 상이 / 상세요강 참조)
+학력: 고졸이상 (직무별 상이 / 상세요강 참조)
+직무: IT(인프라)_서울, 물류(출하/배차)_울산, 생산기술(생산관리/공정)_울산, 품질(QC)_울산, 생산(필드/운전)_평택, 품질(QC)_평택, 품질(분석원)_평택, 안전환경_평택
+근무지역: 서울 강남구 테헤란로 534 (대치동, 글라스타워빌딩) 2층 지도보기 울산 남구 여천로217번길 19 (여천동, 롯데정밀화학(주)) 울산사업장
+접수 시작일: 2026-11-19
+마감일: 2026-12-14
+모집상태: 미확인
+자료 확인 기준일: 2026-11-19 / 과거 수집본
+상세 페이지 확인: 완료
+수집 범위 안내: 담당업무, 필수 자격요건, 우대사항과 요구 기술의 상세 내용은 이 자료에 수집되지 않았습니다.
+추천 시 안내: 원문에 없는 조건을 추정하지 말고, 조건이 혼합되어 있으면 직무별 상세요강 확인이 필요하다고 표시합니다.
+JK_RECORD_JSON={"record_type":"job","dataset_checked_at":"2026-11-19","archival":true,"source_job_id":"50399010","company_id":"company/1511500","title":"한덕화학㈜ 2026년 4Q 신입/경력사원 모집","company_name":"한덕화학㈜","employment_type":"정규직 (수습 3개월)","experience":"신입·경력 (직무별 상이 / 상세요강 참조)","education":"고졸이상 (직무별 상이 / 상세요강 참조)","source_calendar_start_date":"2026-11-19","start_date":"2026-11-19","end_date":"2026-12-14","role":"IT(인프라)_서울, 물류(출하/배차)_울산, 생산기술(생산관리/공정)_울산, 품질(QC)_울산, 생산(필드/운전)_평택, 품질(QC)_평택, 품질(분석원)_평택, 안전환경_평택","location":"서울 강남구 테헤란로 534 (대치동, 글라스타워빌딩) 2층 지도보기 울산 남구 여천로217번길 19 (여천동, 롯데정밀화학(주)) 울산사업장","status":"unknown","source_status":"","job_url":"https://www.jobkorea.co.kr/Recruit/GI_Read/50399010?Oem_Code=C1&PageGbn=ST&sc=419","company_url":"https://www.jobkorea.co.kr/company/1511500/","checked_at":"2026-11-19T23:13:08+09:00","detail_available":true}
