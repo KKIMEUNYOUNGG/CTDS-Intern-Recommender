@@ -79,7 +79,8 @@
       const notes = segment.notes.map((note) => {
         const mark = CIRCLED[number] || String(number + 1);
         number += 1;
-        marks.push(h("sup", { class: note.type === "아쉬운점" ? "ps-sup-weak" : null }, mark));
+                marks.push(h("sup", { class: note.type === "아쉬운점" ? "ps-sup-weak" : null }, mark));
+        return noteView(mark, note);
       });
       const text = String(segment.text || "").trim();
       const weak = segment.notes.some((note) => note.type === "아쉬운점");
@@ -88,10 +89,10 @@
     }));
     return h("details", { class: "ps-qa" },
       h("summary", { class: "ps-qa-head" },
-        h("span", { class: "ps-qa-title" }, `문항 ${item.no}. ${item.question}`),
+                h("span", { class: "ps-qa-title" }, `문항 ${item.no}. ${item.question}`)),
       h("div", { class: "ps-qa-body" },
         item.subtitle && h("p", { class: "ps-sub" }, item.subtitle),
-        body)));
+        body));                                                                        
   }
 
   function passer(p) {
